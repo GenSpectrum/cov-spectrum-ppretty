@@ -1,4 +1,6 @@
 library(tidyverse)
+source("plots/example_plot.R")
+
 
 # ----- Example request data -----
 
@@ -29,14 +31,15 @@ function() {
 #* @post /plot
 #* @param config:object
 #* @param data:object
+#* @serializer png
 function(config = config_ex, data = plot_data_ex) {
   print(config)
 
   data_transformed <- transformData(data)
   print(data_transformed)
 
-  response <- list(message = "TODO: This should be a plot")
-  return(response)
+  p <- plot_example(data_transformed)
+  return(print(p))
 }
 
 
