@@ -1,3 +1,5 @@
+library(tidyverse)
+
 # ----- Example request data -----
 
 config_ex <- jsonlite::fromJSON('{
@@ -25,9 +27,29 @@ function() {
 
 #* Draw a bar plot
 #* @post /plot
+#* @param config:object
+#* @param data:object
 function(config = config_ex, data = plot_data_ex) {
   print(config)
-  print(data)
+
+  data_transformed <- transformData(data)
+  print(data_transformed)
+
   response <- list(message = "TODO: This should be a plot")
   return(response)
+}
+
+
+# ----- Helper functions to clean and transform the input data -----
+
+transformData <- function(data) {
+  # Use a tibble
+  d <- tibble(data)
+
+  # If there is a date column, change the column type
+  if ("date" %in% names(d)) {
+    d <- d %>% mutate(date = as.Date(date))
+  }
+
+  return(d)
 }
