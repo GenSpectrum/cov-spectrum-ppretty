@@ -1,5 +1,5 @@
 library(tidyverse)
-source("plots/example_plot.R")
+source("make_plots.R")
 
 
 # ----- Example request data -----
@@ -27,7 +27,7 @@ function() {
   return(response)
 }
 
-#* Draw a bar plot
+#* Draw a plot
 #* @post /plot
 #* @param config:object
 #* @param data:object
@@ -38,7 +38,7 @@ function(config = config_ex, data = plot_data_ex) {
   data_transformed <- transformData(data)
   print(data_transformed)
 
-  p <- plot_example(data_transformed)
+  p <- make_plot(config = config, data = data_transformed)
   return(print(p))
 }
 
