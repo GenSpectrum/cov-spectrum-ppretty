@@ -1,0 +1,655 @@
+{
+  "config": {},
+  "metadata": {
+    "location": "World",
+    "variant": "[4-of: S:346, S:356, S:444, S:445, S:450, S:446, S:452, S:460, S:486, S:490, S:494, S:493Q]& ! (S:346- | S:356- | S:444- | S:445- | S:450- | S:446- | S:452- | S:486- | S:490- | S:494-) & !nextstrainClade:21K"
+  },
+  "data": [
+    {
+      "date": "2022-04-18",
+      "proportion": 0,
+      "location": "United States"
+    },
+    {
+      "date": "2022-04-18",
+      "proportion": 0.00005520896593606802,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-04-18",
+      "proportion": 0,
+      "location": "Denmark"
+    },
+    {
+      "date": "2022-04-18",
+      "proportion": 0,
+      "location": "Austria"
+    },
+    {
+      "date": "2022-04-18",
+      "proportion": 0,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-04-25",
+      "proportion": 0,
+      "location": "United States"
+    },
+    {
+      "date": "2022-04-25",
+      "proportion": 0,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-04-25",
+      "proportion": 0,
+      "location": "Denmark"
+    },
+    {
+      "date": "2022-04-25",
+      "proportion": 0,
+      "location": "Austria"
+    },
+    {
+      "date": "2022-04-25",
+      "proportion": 0,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-05-02",
+      "proportion": 0,
+      "location": "United States"
+    },
+    {
+      "date": "2022-05-02",
+      "proportion": 0.0002830455703368242,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-05-02",
+      "proportion": 0,
+      "location": "Denmark"
+    },
+    {
+      "date": "2022-05-02",
+      "proportion": 0,
+      "location": "Austria"
+    },
+    {
+      "date": "2022-05-02",
+      "proportion": 0.00009418856550814731,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-05-09",
+      "proportion": 0.0002949852507374631,
+      "location": "United States"
+    },
+    {
+      "date": "2022-05-09",
+      "proportion": 0.0006906077348066298,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-05-09",
+      "proportion": 0,
+      "location": "Denmark"
+    },
+    {
+      "date": "2022-05-09",
+      "proportion": 0.0004286326618088298,
+      "location": "Austria"
+    },
+    {
+      "date": "2022-05-09",
+      "proportion": 0.0004161464835622139,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-05-16",
+      "proportion": 0.000579226616621487,
+      "location": "United States"
+    },
+    {
+      "date": "2022-05-16",
+      "proportion": 0.0011636025133814289,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-05-16",
+      "proportion": 0,
+      "location": "Denmark"
+    },
+    {
+      "date": "2022-05-16",
+      "proportion": 0,
+      "location": "Austria"
+    },
+    {
+      "date": "2022-05-16",
+      "proportion": 0.0008293838862559242,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-05-23",
+      "proportion": 0.0012662890822857668,
+      "location": "United States"
+    },
+    {
+      "date": "2022-05-23",
+      "proportion": 0.0011376564277588168,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-05-23",
+      "proportion": 0,
+      "location": "Denmark"
+    },
+    {
+      "date": "2022-05-23",
+      "proportion": 0,
+      "location": "Austria"
+    },
+    {
+      "date": "2022-05-23",
+      "proportion": 0.002112973658261727,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-05-30",
+      "proportion": 0.00307140400019657,
+      "location": "United States"
+    },
+    {
+      "date": "2022-05-30",
+      "proportion": 0.005231866825208086,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-05-30",
+      "proportion": 0.0017331022530329288,
+      "location": "Denmark"
+    },
+    {
+      "date": "2022-05-30",
+      "proportion": 0,
+      "location": "Austria"
+    },
+    {
+      "date": "2022-05-30",
+      "proportion": 0.003246331645240878,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-06-06",
+      "proportion": 0.005886230928611791,
+      "location": "United States"
+    },
+    {
+      "date": "2022-06-06",
+      "proportion": 0.009824270098242702,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-06-06",
+      "proportion": 0.004734057365636313,
+      "location": "Denmark"
+    },
+    {
+      "date": "2022-06-06",
+      "proportion": 0.006178560395427865,
+      "location": "Austria"
+    },
+    {
+      "date": "2022-06-06",
+      "proportion": 0.00797643882684992,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-06-13",
+      "proportion": 0.008438933058367026,
+      "location": "United States"
+    },
+    {
+      "date": "2022-06-13",
+      "proportion": 0.013140161725067386,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-06-13",
+      "proportion": 0.008722958827634334,
+      "location": "Denmark"
+    },
+    {
+      "date": "2022-06-13",
+      "proportion": 0.005184705119896306,
+      "location": "Austria"
+    },
+    {
+      "date": "2022-06-13",
+      "proportion": 0.011784232365145229,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-06-20",
+      "proportion": 0.013956294041841464,
+      "location": "United States"
+    },
+    {
+      "date": "2022-06-20",
+      "proportion": 0.01872689278251085,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-06-20",
+      "proportion": 0.015459363957597174,
+      "location": "Denmark"
+    },
+    {
+      "date": "2022-06-20",
+      "proportion": 0.008724100327153763,
+      "location": "Austria"
+    },
+    {
+      "date": "2022-06-20",
+      "proportion": 0.014527845036319613,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-06-27",
+      "proportion": 0.0212771340383545,
+      "location": "United States"
+    },
+    {
+      "date": "2022-06-27",
+      "proportion": 0.028832390430100198,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-06-27",
+      "proportion": 0.0220873786407767,
+      "location": "Denmark"
+    },
+    {
+      "date": "2022-06-27",
+      "proportion": 0.021370207416719043,
+      "location": "Austria"
+    },
+    {
+      "date": "2022-06-27",
+      "proportion": 0.015517659419704195,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-07-04",
+      "proportion": 0.030141427430343468,
+      "location": "United States"
+    },
+    {
+      "date": "2022-07-04",
+      "proportion": 0.028109216016397043,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-07-04",
+      "proportion": 0.022301064368981247,
+      "location": "Denmark"
+    },
+    {
+      "date": "2022-07-04",
+      "proportion": 0.029695333590435788,
+      "location": "Austria"
+    },
+    {
+      "date": "2022-07-04",
+      "proportion": 0.019273262951141665,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-07-11",
+      "proportion": 0.04103160058999687,
+      "location": "United States"
+    },
+    {
+      "date": "2022-07-11",
+      "proportion": 0.04213723071082851,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-07-11",
+      "proportion": 0.03207880777974236,
+      "location": "Denmark"
+    },
+    {
+      "date": "2022-07-11",
+      "proportion": 0.030248033877797943,
+      "location": "Austria"
+    },
+    {
+      "date": "2022-07-11",
+      "proportion": 0.027139087825103655,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-07-18",
+      "proportion": 0.04962303638518369,
+      "location": "United States"
+    },
+    {
+      "date": "2022-07-18",
+      "proportion": 0.05441962881409248,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-07-18",
+      "proportion": 0.03779672735653376,
+      "location": "Denmark"
+    },
+    {
+      "date": "2022-07-18",
+      "proportion": 0.055881203595154354,
+      "location": "Austria"
+    },
+    {
+      "date": "2022-07-18",
+      "proportion": 0.032474946086515286,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-07-25",
+      "proportion": 0.05924812030075188,
+      "location": "United States"
+    },
+    {
+      "date": "2022-07-25",
+      "proportion": 0.06482193184729695,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-07-25",
+      "proportion": 0.0516162669447341,
+      "location": "Denmark"
+    },
+    {
+      "date": "2022-07-25",
+      "proportion": 0.05542570951585977,
+      "location": "Austria"
+    },
+    {
+      "date": "2022-07-25",
+      "proportion": 0.03881169142309535,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-08-01",
+      "proportion": 0.07332535885167464,
+      "location": "United States"
+    },
+    {
+      "date": "2022-08-01",
+      "proportion": 0.10132669983416252,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-08-01",
+      "proportion": 0.05534825870646766,
+      "location": "Denmark"
+    },
+    {
+      "date": "2022-08-01",
+      "proportion": 0.06645569620253164,
+      "location": "Austria"
+    },
+    {
+      "date": "2022-08-01",
+      "proportion": 0.05064308681672026,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-08-08",
+      "proportion": 0.08749667818230135,
+      "location": "United States"
+    },
+    {
+      "date": "2022-08-08",
+      "proportion": 0.10770488452891887,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-08-08",
+      "proportion": 0.07962399778822228,
+      "location": "Denmark"
+    },
+    {
+      "date": "2022-08-08",
+      "proportion": 0.0910394265232975,
+      "location": "Austria"
+    },
+    {
+      "date": "2022-08-08",
+      "proportion": 0.07030919102075392,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-08-15",
+      "proportion": 0.10431111416214732,
+      "location": "United States"
+    },
+    {
+      "date": "2022-08-15",
+      "proportion": 0.13026419042636672,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-08-15",
+      "proportion": 0.09462037390309043,
+      "location": "Denmark"
+    },
+    {
+      "date": "2022-08-15",
+      "proportion": 0.1147695202257761,
+      "location": "Austria"
+    },
+    {
+      "date": "2022-08-15",
+      "proportion": 0.07950255385298689,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-08-22",
+      "proportion": 0.12732842705729075,
+      "location": "United States"
+    },
+    {
+      "date": "2022-08-22",
+      "proportion": 0.15768463073852296,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-08-22",
+      "proportion": 0.10684410646387833,
+      "location": "Denmark"
+    },
+    {
+      "date": "2022-08-22",
+      "proportion": 0.1275583055687768,
+      "location": "Austria"
+    },
+    {
+      "date": "2022-08-22",
+      "proportion": 0.08718415661279308,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-08-29",
+      "proportion": 0.1514456910765271,
+      "location": "United States"
+    },
+    {
+      "date": "2022-08-29",
+      "proportion": 0.18498049414824447,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-08-29",
+      "proportion": 0.12299114463758609,
+      "location": "Denmark"
+    },
+    {
+      "date": "2022-08-29",
+      "proportion": 0.1431261770244821,
+      "location": "Austria"
+    },
+    {
+      "date": "2022-08-29",
+      "proportion": 0.1284722222222222,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-09-05",
+      "proportion": 0.17863243439101403,
+      "location": "United States"
+    },
+    {
+      "date": "2022-09-05",
+      "proportion": 0.23708751793400287,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-09-05",
+      "proportion": 0.18914998549463302,
+      "location": "Denmark"
+    },
+    {
+      "date": "2022-09-05",
+      "proportion": 0.17040358744394618,
+      "location": "Austria"
+    },
+    {
+      "date": "2022-09-05",
+      "proportion": 0.16245302357362487,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-09-12",
+      "proportion": 0.21362385321100918,
+      "location": "United States"
+    },
+    {
+      "date": "2022-09-12",
+      "proportion": 0.28153153153153154,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-09-12",
+      "proportion": 0.2634285714285714,
+      "location": "Denmark"
+    },
+    {
+      "date": "2022-09-12",
+      "proportion": 0.25681913554343266,
+      "location": "Austria"
+    },
+    {
+      "date": "2022-09-12",
+      "proportion": 0.1972935869778388,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-09-19",
+      "proportion": 0.2392453335117415,
+      "location": "United States"
+    },
+    {
+      "date": "2022-09-19",
+      "proportion": 0.35841121495327105,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-09-19",
+      "proportion": 0.2773722627737226,
+      "location": "Denmark"
+    },
+    {
+      "date": "2022-09-19",
+      "proportion": 0.2746066029003394,
+      "location": "Austria"
+    },
+    {
+      "date": "2022-09-19",
+      "proportion": 0.22178551375631667,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-09-26",
+      "proportion": 0.3084004602991945,
+      "location": "United States"
+    },
+    {
+      "date": "2022-09-26",
+      "proportion": 0.4224712295578437,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-09-26",
+      "proportion": 0.35461229946524064,
+      "location": "Denmark"
+    },
+    {
+      "date": "2022-09-26",
+      "proportion": 0.33380281690140845,
+      "location": "Austria"
+    },
+    {
+      "date": "2022-09-26",
+      "proportion": 0.1962025316455696,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-10-03",
+      "proportion": 0.3103448275862069,
+      "location": "United States"
+    },
+    {
+      "date": "2022-10-03",
+      "proportion": 0.5332326283987915,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-10-03",
+      "proportion": 0.4183029453015428,
+      "location": "Denmark"
+    },
+    {
+      "date": "2022-10-03",
+      "proportion": 0.3966986155484558,
+      "location": "Austria"
+    },
+    {
+      "date": "2022-10-03",
+      "location": "Germany"
+    },
+    {
+      "date": "2022-10-10",
+      "proportion": 0.46153846153846156,
+      "location": "United States"
+    },
+    {
+      "date": "2022-10-10",
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-10-10",
+      "proportion": 0.5384615384615384,
+      "location": "Denmark"
+    },
+    {
+      "date": "2022-10-10",
+      "location": "Austria"
+    },
+    {
+      "date": "2022-10-10",
+      "location": "Germany"
+    }
+  ]
+}

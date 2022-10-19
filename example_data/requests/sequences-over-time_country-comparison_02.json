@@ -1,0 +1,3623 @@
+{
+  "config": {},
+  "metadata": {
+    "variant": "S:H69-, S:V70-"
+  },
+  "data": [
+    {
+      "date": "2020-01-06",
+      "location": "United States"
+    },
+    {
+      "date": "2020-01-06",
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-01-06",
+      "location": "Germany"
+    },
+    {
+      "date": "2020-01-06",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-01-06",
+      "proportion": 0,
+      "location": "France"
+    },
+    {
+      "date": "2020-01-13",
+      "proportion": 0,
+      "location": "United States"
+    },
+    {
+      "date": "2020-01-13",
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-01-13",
+      "location": "Germany"
+    },
+    {
+      "date": "2020-01-13",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-01-13",
+      "proportion": null,
+      "location": "France"
+    },
+    {
+      "date": "2020-01-20",
+      "proportion": 0,
+      "location": "United States"
+    },
+    {
+      "date": "2020-01-20",
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-01-20",
+      "location": "Germany"
+    },
+    {
+      "date": "2020-01-20",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-01-20",
+      "proportion": 0,
+      "location": "France"
+    },
+    {
+      "date": "2020-01-27",
+      "proportion": 0,
+      "location": "United States"
+    },
+    {
+      "date": "2020-01-27",
+      "proportion": 0,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-01-27",
+      "proportion": 0,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-01-27",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-01-27",
+      "proportion": 0,
+      "location": "France"
+    },
+    {
+      "date": "2020-02-03",
+      "proportion": 0,
+      "location": "United States"
+    },
+    {
+      "date": "2020-02-03",
+      "proportion": 0,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-02-03",
+      "proportion": 0,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-02-03",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-02-03",
+      "proportion": 0,
+      "location": "France"
+    },
+    {
+      "date": "2020-02-10",
+      "proportion": 0,
+      "location": "United States"
+    },
+    {
+      "date": "2020-02-10",
+      "proportion": 0,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-02-10",
+      "proportion": 0.3333333333333333,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-02-10",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-02-10",
+      "proportion": 0,
+      "location": "France"
+    },
+    {
+      "date": "2020-02-17",
+      "proportion": 0,
+      "location": "United States"
+    },
+    {
+      "date": "2020-02-17",
+      "proportion": 0,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-02-17",
+      "proportion": 0,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-02-17",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-02-17",
+      "proportion": 0,
+      "location": "France"
+    },
+    {
+      "date": "2020-02-24",
+      "proportion": 0,
+      "location": "United States"
+    },
+    {
+      "date": "2020-02-24",
+      "proportion": 0,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-02-24",
+      "proportion": 0,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-02-24",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-02-24",
+      "proportion": 0,
+      "location": "France"
+    },
+    {
+      "date": "2020-03-02",
+      "proportion": 0,
+      "location": "United States"
+    },
+    {
+      "date": "2020-03-02",
+      "proportion": 0,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-03-02",
+      "proportion": 0,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-03-02",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-03-02",
+      "proportion": 0,
+      "location": "France"
+    },
+    {
+      "date": "2020-03-09",
+      "proportion": 0,
+      "location": "United States"
+    },
+    {
+      "date": "2020-03-09",
+      "proportion": 0,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-03-09",
+      "proportion": 0,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-03-09",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-03-09",
+      "proportion": 0.0036496350364963502,
+      "location": "France"
+    },
+    {
+      "date": "2020-03-16",
+      "proportion": 0.00020267531414673692,
+      "location": "United States"
+    },
+    {
+      "date": "2020-03-16",
+      "proportion": 0,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-03-16",
+      "proportion": 0,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-03-16",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-03-16",
+      "proportion": 0.0017857142857142857,
+      "location": "France"
+    },
+    {
+      "date": "2020-03-23",
+      "proportion": 0,
+      "location": "United States"
+    },
+    {
+      "date": "2020-03-23",
+      "proportion": 0,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-03-23",
+      "proportion": 0,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-03-23",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-03-23",
+      "proportion": 0.006195786864931847,
+      "location": "France"
+    },
+    {
+      "date": "2020-03-30",
+      "proportion": 0,
+      "location": "United States"
+    },
+    {
+      "date": "2020-03-30",
+      "proportion": 0,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-03-30",
+      "proportion": 0,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-03-30",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-03-30",
+      "proportion": 0.0036319612590799033,
+      "location": "France"
+    },
+    {
+      "date": "2020-04-06",
+      "proportion": 0.00026441036488630354,
+      "location": "United States"
+    },
+    {
+      "date": "2020-04-06",
+      "proportion": 0,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-04-06",
+      "proportion": 0,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-04-06",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-04-06",
+      "proportion": 0.0015479876160990713,
+      "location": "France"
+    },
+    {
+      "date": "2020-04-13",
+      "proportion": 0.0009216589861751152,
+      "location": "United States"
+    },
+    {
+      "date": "2020-04-13",
+      "proportion": 0,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-04-13",
+      "proportion": 0,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-04-13",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-04-13",
+      "proportion": 0.006514657980456026,
+      "location": "France"
+    },
+    {
+      "date": "2020-04-20",
+      "proportion": 0.0023450586264656616,
+      "location": "United States"
+    },
+    {
+      "date": "2020-04-20",
+      "proportion": 0.00029859659599880563,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-04-20",
+      "proportion": 0,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-04-20",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-04-20",
+      "proportion": 0,
+      "location": "France"
+    },
+    {
+      "date": "2020-04-27",
+      "proportion": 0.0002876042565429968,
+      "location": "United States"
+    },
+    {
+      "date": "2020-04-27",
+      "proportion": 0.0007401924500370096,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-04-27",
+      "proportion": 0,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-04-27",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-04-27",
+      "proportion": 0,
+      "location": "France"
+    },
+    {
+      "date": "2020-05-04",
+      "proportion": 0.0013119055428009183,
+      "location": "United States"
+    },
+    {
+      "date": "2020-05-04",
+      "proportion": 0,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-05-04",
+      "proportion": 0.03333333333333333,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-05-04",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-05-04",
+      "proportion": 0,
+      "location": "France"
+    },
+    {
+      "date": "2020-05-11",
+      "proportion": 0.000341180484476288,
+      "location": "United States"
+    },
+    {
+      "date": "2020-05-11",
+      "proportion": 0,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-05-11",
+      "proportion": 0,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-05-11",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-05-11",
+      "proportion": 0,
+      "location": "France"
+    },
+    {
+      "date": "2020-05-18",
+      "proportion": 0.0012004801920768306,
+      "location": "United States"
+    },
+    {
+      "date": "2020-05-18",
+      "proportion": 0,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-05-18",
+      "proportion": 0.03333333333333333,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-05-18",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-05-18",
+      "proportion": 0,
+      "location": "France"
+    },
+    {
+      "date": "2020-05-25",
+      "proportion": 0.0016319869441044472,
+      "location": "United States"
+    },
+    {
+      "date": "2020-05-25",
+      "proportion": 0,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-05-25",
+      "proportion": 0.022222222222222223,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-05-25",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-05-25",
+      "proportion": 0,
+      "location": "France"
+    },
+    {
+      "date": "2020-06-01",
+      "proportion": 0.0019440124416796269,
+      "location": "United States"
+    },
+    {
+      "date": "2020-06-01",
+      "proportion": 0,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-06-01",
+      "proportion": 0,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-06-01",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-06-01",
+      "proportion": 0,
+      "location": "France"
+    },
+    {
+      "date": "2020-06-08",
+      "proportion": 0.0003527336860670194,
+      "location": "United States"
+    },
+    {
+      "date": "2020-06-08",
+      "proportion": 0,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-06-08",
+      "proportion": 0,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-06-08",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-06-08",
+      "proportion": 0,
+      "location": "France"
+    },
+    {
+      "date": "2020-06-15",
+      "proportion": 0.00024189646831156264,
+      "location": "United States"
+    },
+    {
+      "date": "2020-06-15",
+      "proportion": 0,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-06-15",
+      "proportion": 0,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-06-15",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-06-15",
+      "proportion": 0,
+      "location": "France"
+    },
+    {
+      "date": "2020-06-22",
+      "proportion": 0,
+      "location": "United States"
+    },
+    {
+      "date": "2020-06-22",
+      "proportion": 0,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-06-22",
+      "proportion": 0,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-06-22",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-06-22",
+      "proportion": 0,
+      "location": "France"
+    },
+    {
+      "date": "2020-06-29",
+      "proportion": 0.0006567425569176883,
+      "location": "United States"
+    },
+    {
+      "date": "2020-06-29",
+      "proportion": 0,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-06-29",
+      "proportion": 0,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-06-29",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-06-29",
+      "proportion": 0,
+      "location": "France"
+    },
+    {
+      "date": "2020-07-06",
+      "proportion": 0.0015022533800701052,
+      "location": "United States"
+    },
+    {
+      "date": "2020-07-06",
+      "proportion": 0,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-07-06",
+      "proportion": 0,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-07-06",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-07-06",
+      "proportion": 0.027777777777777776,
+      "location": "France"
+    },
+    {
+      "date": "2020-07-13",
+      "proportion": 0.0007451564828614009,
+      "location": "United States"
+    },
+    {
+      "date": "2020-07-13",
+      "proportion": 0,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-07-13",
+      "proportion": 0,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-07-13",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-07-13",
+      "proportion": 0,
+      "location": "France"
+    },
+    {
+      "date": "2020-07-20",
+      "proportion": 0.0024255788313120178,
+      "location": "United States"
+    },
+    {
+      "date": "2020-07-20",
+      "proportion": 0.003129890453834116,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-07-20",
+      "proportion": 0,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-07-20",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-07-20",
+      "proportion": 0,
+      "location": "France"
+    },
+    {
+      "date": "2020-07-27",
+      "proportion": 0.0064469914040114614,
+      "location": "United States"
+    },
+    {
+      "date": "2020-07-27",
+      "proportion": 0.003629764065335753,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-07-27",
+      "proportion": 0,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-07-27",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-07-27",
+      "proportion": 0.02127659574468085,
+      "location": "France"
+    },
+    {
+      "date": "2020-08-03",
+      "proportion": 0.0023879013000795966,
+      "location": "United States"
+    },
+    {
+      "date": "2020-08-03",
+      "proportion": 0,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-08-03",
+      "proportion": 0,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-08-03",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-08-03",
+      "proportion": 0,
+      "location": "France"
+    },
+    {
+      "date": "2020-08-10",
+      "proportion": 0.009994121105232217,
+      "location": "United States"
+    },
+    {
+      "date": "2020-08-10",
+      "proportion": 0.008504606661941885,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-08-10",
+      "proportion": 0.0072992700729927005,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-08-10",
+      "proportion": 0.004667444574095682,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-08-10",
+      "proportion": 0.006622516556291391,
+      "location": "France"
+    },
+    {
+      "date": "2020-08-17",
+      "proportion": 0.0012307692307692308,
+      "location": "United States"
+    },
+    {
+      "date": "2020-08-17",
+      "proportion": 0.051354401805869074,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-08-17",
+      "proportion": 0.05319148936170213,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-08-17",
+      "proportion": 0.002570694087403599,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-08-17",
+      "proportion": 0.007462686567164179,
+      "location": "France"
+    },
+    {
+      "date": "2020-08-24",
+      "proportion": 0.000273224043715847,
+      "location": "United States"
+    },
+    {
+      "date": "2020-08-24",
+      "proportion": 0.05522765598650928,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-08-24",
+      "proportion": 0,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-08-24",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-08-24",
+      "proportion": 0.008547008547008548,
+      "location": "France"
+    },
+    {
+      "date": "2020-08-31",
+      "proportion": 0.0022609819121447027,
+      "location": "United States"
+    },
+    {
+      "date": "2020-08-31",
+      "proportion": 0.03013945119208277,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-08-31",
+      "proportion": 0.02127659574468085,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-08-31",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-08-31",
+      "proportion": 0.024213075060532687,
+      "location": "France"
+    },
+    {
+      "date": "2020-09-07",
+      "proportion": 0.002556727388942154,
+      "location": "United States"
+    },
+    {
+      "date": "2020-09-07",
+      "proportion": 0.02061556329849013,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-09-07",
+      "proportion": 0.043010752688172046,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-09-07",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-09-07",
+      "proportion": 0.011961722488038277,
+      "location": "France"
+    },
+    {
+      "date": "2020-09-14",
+      "proportion": 0.00546583850931677,
+      "location": "United States"
+    },
+    {
+      "date": "2020-09-14",
+      "proportion": 0.0288,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-09-14",
+      "proportion": 0.07751937984496124,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-09-14",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-09-14",
+      "proportion": 0.008670520231213872,
+      "location": "France"
+    },
+    {
+      "date": "2020-09-21",
+      "proportion": 0.0016218721037998146,
+      "location": "United States"
+    },
+    {
+      "date": "2020-09-21",
+      "proportion": 0.0326523777628935,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-09-21",
+      "proportion": 0.03535353535353535,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-09-21",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-09-21",
+      "proportion": 0.006756756756756757,
+      "location": "France"
+    },
+    {
+      "date": "2020-09-28",
+      "proportion": 0.0028763183125599234,
+      "location": "United States"
+    },
+    {
+      "date": "2020-09-28",
+      "proportion": 0.03125,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-09-28",
+      "proportion": 0.025477707006369428,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-09-28",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-09-28",
+      "proportion": 0.00966183574879227,
+      "location": "France"
+    },
+    {
+      "date": "2020-10-05",
+      "proportion": 0.001154353562005277,
+      "location": "United States"
+    },
+    {
+      "date": "2020-10-05",
+      "proportion": 0.031011106303187652,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-10-05",
+      "proportion": 0.04020100502512563,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-10-05",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-10-05",
+      "proportion": 0.02654867256637168,
+      "location": "France"
+    },
+    {
+      "date": "2020-10-12",
+      "proportion": 0.0012123661345726409,
+      "location": "United States"
+    },
+    {
+      "date": "2020-10-12",
+      "proportion": 0.024045467793646167,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-10-12",
+      "proportion": 0.048672566371681415,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-10-12",
+      "proportion": 0.009433962264150943,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-10-12",
+      "proportion": 0.029850746268656716,
+      "location": "France"
+    },
+    {
+      "date": "2020-10-19",
+      "proportion": 0.0019011406844106464,
+      "location": "United States"
+    },
+    {
+      "date": "2020-10-19",
+      "proportion": 0.03391825379841643,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-10-19",
+      "proportion": 0.09693877551020408,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-10-19",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-10-19",
+      "proportion": 0.01652892561983471,
+      "location": "France"
+    },
+    {
+      "date": "2020-10-26",
+      "proportion": 0.0008193363375665711,
+      "location": "United States"
+    },
+    {
+      "date": "2020-10-26",
+      "proportion": 0.038265639284315006,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-10-26",
+      "proportion": 0.09395973154362416,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-10-26",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-10-26",
+      "proportion": 0.016051364365971106,
+      "location": "France"
+    },
+    {
+      "date": "2020-11-02",
+      "proportion": 0.0020795916438226675,
+      "location": "United States"
+    },
+    {
+      "date": "2020-11-02",
+      "proportion": 0.04804045512010114,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-11-02",
+      "proportion": 0.11587982832618025,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-11-02",
+      "proportion": 0.001968503937007874,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-11-02",
+      "proportion": 0.017369727047146403,
+      "location": "France"
+    },
+    {
+      "date": "2020-11-09",
+      "proportion": 0.0020182706607180796,
+      "location": "United States"
+    },
+    {
+      "date": "2020-11-09",
+      "proportion": 0.08106355382619974,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-11-09",
+      "proportion": 0.06761565836298933,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-11-09",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-11-09",
+      "proportion": 0.005934718100890208,
+      "location": "France"
+    },
+    {
+      "date": "2020-11-16",
+      "proportion": 0.0024316109422492403,
+      "location": "United States"
+    },
+    {
+      "date": "2020-11-16",
+      "proportion": 0.12089428650289816,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-11-16",
+      "proportion": 0.08414239482200647,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-11-16",
+      "proportion": 0.0009345794392523365,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-11-16",
+      "proportion": 0.020338983050847456,
+      "location": "France"
+    },
+    {
+      "date": "2020-11-23",
+      "proportion": 0.0042166720726565035,
+      "location": "United States"
+    },
+    {
+      "date": "2020-11-23",
+      "proportion": 0.127959927140255,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-11-23",
+      "proportion": 0.05637982195845697,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-11-23",
+      "proportion": 0.0010787486515641855,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-11-23",
+      "proportion": 0.011976047904191617,
+      "location": "France"
+    },
+    {
+      "date": "2020-11-30",
+      "proportion": 0.005022213637241646,
+      "location": "United States"
+    },
+    {
+      "date": "2020-11-30",
+      "proportion": 0.15789473684210525,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-11-30",
+      "proportion": 0.10722610722610723,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-11-30",
+      "proportion": 0.0009041591320072332,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-11-30",
+      "proportion": 0.0223463687150838,
+      "location": "France"
+    },
+    {
+      "date": "2020-12-07",
+      "proportion": 0.0035439601870004525,
+      "location": "United States"
+    },
+    {
+      "date": "2020-12-07",
+      "proportion": 0.3449767834529337,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-12-07",
+      "proportion": 0.08318264014466546,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-12-07",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-12-07",
+      "proportion": 0.03205128205128205,
+      "location": "France"
+    },
+    {
+      "date": "2020-12-14",
+      "proportion": 0.008770478239285123,
+      "location": "United States"
+    },
+    {
+      "date": "2020-12-14",
+      "proportion": 0.46369908015768724,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-12-14",
+      "proportion": 0.0779510022271715,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-12-14",
+      "proportion": 0.003952569169960474,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-12-14",
+      "proportion": 0.00398406374501992,
+      "location": "France"
+    },
+    {
+      "date": "2020-12-21",
+      "proportion": 0.011282781053059564,
+      "location": "United States"
+    },
+    {
+      "date": "2020-12-21",
+      "proportion": 0.5310344827586206,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-12-21",
+      "proportion": 0.10817941952506596,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-12-21",
+      "proportion": 0.013654618473895583,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-12-21",
+      "proportion": 0.20408163265306123,
+      "location": "France"
+    },
+    {
+      "date": "2020-12-28",
+      "proportion": 0.02655203895313451,
+      "location": "United States"
+    },
+    {
+      "date": "2020-12-28",
+      "proportion": 0.7157761045087544,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2020-12-28",
+      "proportion": 0.11805555555555555,
+      "location": "Germany"
+    },
+    {
+      "date": "2020-12-28",
+      "proportion": 0.005738880918220947,
+      "location": "Japan"
+    },
+    {
+      "date": "2020-12-28",
+      "proportion": 0.24295774647887325,
+      "location": "France"
+    },
+    {
+      "date": "2021-01-04",
+      "proportion": 0.019559099437148217,
+      "location": "United States"
+    },
+    {
+      "date": "2021-01-04",
+      "proportion": 0.7545626179987414,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-01-04",
+      "proportion": 0.08396946564885496,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-01-04",
+      "proportion": 0.00904977375565611,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-01-04",
+      "proportion": 0.3562753036437247,
+      "location": "France"
+    },
+    {
+      "date": "2021-01-11",
+      "proportion": 0.019640449438202246,
+      "location": "United States"
+    },
+    {
+      "date": "2021-01-11",
+      "proportion": 0.80125,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-01-11",
+      "proportion": 0.18732261116367077,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-01-11",
+      "proportion": 0.011157601115760111,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-01-11",
+      "proportion": 0.2851674641148325,
+      "location": "France"
+    },
+    {
+      "date": "2021-01-18",
+      "proportion": 0.025258206360568566,
+      "location": "United States"
+    },
+    {
+      "date": "2021-01-18",
+      "proportion": 0.8601220411721316,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-01-18",
+      "proportion": 0.2008526764566556,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-01-18",
+      "proportion": 0.0220162224797219,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-01-18",
+      "proportion": 0.2950680272108844,
+      "location": "France"
+    },
+    {
+      "date": "2021-01-25",
+      "proportion": 0.04041003506878878,
+      "location": "United States"
+    },
+    {
+      "date": "2021-01-25",
+      "proportion": 0.9149812911476342,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-01-25",
+      "proportion": 0.26088401462279825,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-01-25",
+      "proportion": 0.039918809201623814,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-01-25",
+      "proportion": 0.43295502311895756,
+      "location": "France"
+    },
+    {
+      "date": "2021-02-01",
+      "proportion": 0.05037819323533609,
+      "location": "United States"
+    },
+    {
+      "date": "2021-02-01",
+      "proportion": 0.9193522397679665,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-02-01",
+      "proportion": 0.29434756464221284,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-02-01",
+      "proportion": 0.04743465634075508,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-02-01",
+      "proportion": 0.656379821958457,
+      "location": "France"
+    },
+    {
+      "date": "2021-02-08",
+      "proportion": 0.06192774344864914,
+      "location": "United States"
+    },
+    {
+      "date": "2021-02-08",
+      "proportion": 0.9486452425960933,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-02-08",
+      "proportion": 0.4520078354554358,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-02-08",
+      "proportion": 0.08149171270718232,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-02-08",
+      "proportion": 0.5154905335628227,
+      "location": "France"
+    },
+    {
+      "date": "2021-02-15",
+      "proportion": 0.10069984447900467,
+      "location": "United States"
+    },
+    {
+      "date": "2021-02-15",
+      "proportion": 0.962649053074585,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-02-15",
+      "proportion": 0.5231536926147704,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-02-15",
+      "proportion": 0.07570977917981073,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-02-15",
+      "proportion": 0.4491701244813278,
+      "location": "France"
+    },
+    {
+      "date": "2021-02-22",
+      "proportion": 0.17079958256721164,
+      "location": "United States"
+    },
+    {
+      "date": "2021-02-22",
+      "proportion": 0.9711361686481187,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-02-22",
+      "proportion": 0.5175550300163726,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-02-22",
+      "proportion": 0.12283737024221453,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-02-22",
+      "proportion": 0.5924895688456189,
+      "location": "France"
+    },
+    {
+      "date": "2021-03-01",
+      "proportion": 0.2142224975661563,
+      "location": "United States"
+    },
+    {
+      "date": "2021-03-01",
+      "proportion": 0.9735254453829228,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-03-01",
+      "proportion": 0.6245229799236768,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-03-01",
+      "proportion": 0.15333333333333332,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-03-01",
+      "proportion": 0.6944669365721997,
+      "location": "France"
+    },
+    {
+      "date": "2021-03-08",
+      "proportion": 0.2972703725841801,
+      "location": "United States"
+    },
+    {
+      "date": "2021-03-08",
+      "proportion": 0.9771620305227838,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-03-08",
+      "proportion": 0.7474226804123711,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-03-08",
+      "proportion": 0.2006079027355623,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-03-08",
+      "proportion": 0.774166314900802,
+      "location": "France"
+    },
+    {
+      "date": "2021-03-15",
+      "proportion": 0.3857724534778073,
+      "location": "United States"
+    },
+    {
+      "date": "2021-03-15",
+      "proportion": 0.9817429837518464,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-03-15",
+      "proportion": 0.8109407484407485,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-03-15",
+      "proportion": 0.29238329238329236,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-03-15",
+      "proportion": 0.7914320193081255,
+      "location": "France"
+    },
+    {
+      "date": "2021-03-22",
+      "proportion": 0.4544387248261537,
+      "location": "United States"
+    },
+    {
+      "date": "2021-03-22",
+      "proportion": 0.9756309330863626,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-03-22",
+      "proportion": 0.8487750279815943,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-03-22",
+      "proportion": 0.46974236069502695,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-03-22",
+      "proportion": 0.7757712565838977,
+      "location": "France"
+    },
+    {
+      "date": "2021-03-29",
+      "proportion": 0.5337732919254659,
+      "location": "United States"
+    },
+    {
+      "date": "2021-03-29",
+      "proportion": 0.969510753958875,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-03-29",
+      "proportion": 0.8971985090777925,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-03-29",
+      "proportion": 0.6122448979591837,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-03-29",
+      "proportion": 0.8104703247480403,
+      "location": "France"
+    },
+    {
+      "date": "2021-04-05",
+      "proportion": 0.5732977553074456,
+      "location": "United States"
+    },
+    {
+      "date": "2021-04-05",
+      "proportion": 0.9592668024439919,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-04-05",
+      "proportion": 0.9044843582728679,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-04-05",
+      "proportion": 0.6055307035380236,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-04-05",
+      "proportion": 0.7654816513761468,
+      "location": "France"
+    },
+    {
+      "date": "2021-04-12",
+      "proportion": 0.6014473331546503,
+      "location": "United States"
+    },
+    {
+      "date": "2021-04-12",
+      "proportion": 0.9395207303157094,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-04-12",
+      "proportion": 0.9290670074858499,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-04-12",
+      "proportion": 0.7071296865396435,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-04-12",
+      "proportion": 0.7739259259259259,
+      "location": "France"
+    },
+    {
+      "date": "2021-04-19",
+      "proportion": 0.6245694603903559,
+      "location": "United States"
+    },
+    {
+      "date": "2021-04-19",
+      "proportion": 0.9060964271483597,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-04-19",
+      "proportion": 0.9239119804400978,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-04-19",
+      "proportion": 0.8271193963604083,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-04-19",
+      "proportion": 0.7922297297297297,
+      "location": "France"
+    },
+    {
+      "date": "2021-04-26",
+      "proportion": 0.6548846067667489,
+      "location": "United States"
+    },
+    {
+      "date": "2021-04-26",
+      "proportion": 0.8483483483483484,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-04-26",
+      "proportion": 0.9204670632297863,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-04-26",
+      "proportion": 0.8807005948446794,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-04-26",
+      "proportion": 0.8226037195994278,
+      "location": "France"
+    },
+    {
+      "date": "2021-05-03",
+      "proportion": 0.6582523634453782,
+      "location": "United States"
+    },
+    {
+      "date": "2021-05-03",
+      "proportion": 0.7357248421335483,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-05-03",
+      "proportion": 0.9000652457590257,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-05-03",
+      "proportion": 0.8828469452026034,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-05-03",
+      "proportion": 0.7333894028595458,
+      "location": "France"
+    },
+    {
+      "date": "2021-05-10",
+      "proportion": 0.637406720441703,
+      "location": "United States"
+    },
+    {
+      "date": "2021-05-10",
+      "proportion": 0.5730590577305906,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-05-10",
+      "proportion": 0.8947613143211407,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-05-10",
+      "proportion": 0.9186650679456435,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-05-10",
+      "proportion": 0.8075181159420289,
+      "location": "France"
+    },
+    {
+      "date": "2021-05-17",
+      "proportion": 0.5968532229965157,
+      "location": "United States"
+    },
+    {
+      "date": "2021-05-17",
+      "proportion": 0.36122892314058136,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-05-17",
+      "proportion": 0.8396764111049825,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-05-17",
+      "proportion": 0.9250213007668276,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-05-17",
+      "proportion": 0.6978221415607986,
+      "location": "France"
+    },
+    {
+      "date": "2021-05-24",
+      "proportion": 0.577837242247757,
+      "location": "United States"
+    },
+    {
+      "date": "2021-05-24",
+      "proportion": 0.21923572931514287,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-05-24",
+      "proportion": 0.8377453217708809,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-05-24",
+      "proportion": 0.9137600613261786,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-05-24",
+      "proportion": 0.7911007025761124,
+      "location": "France"
+    },
+    {
+      "date": "2021-05-31",
+      "proportion": 0.5026074977860868,
+      "location": "United States"
+    },
+    {
+      "date": "2021-05-31",
+      "proportion": 0.12120406082369109,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-05-31",
+      "proportion": 0.7954690491384812,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-05-31",
+      "proportion": 0.9191674733785092,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-05-31",
+      "proportion": 0.5239294710327456,
+      "location": "France"
+    },
+    {
+      "date": "2021-06-07",
+      "proportion": 0.4322949210033027,
+      "location": "United States"
+    },
+    {
+      "date": "2021-06-07",
+      "proportion": 0.08053040103492885,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-06-07",
+      "proportion": 0.7197898423817863,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-06-07",
+      "proportion": 0.931079894644425,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-06-07",
+      "proportion": 0.6532467532467533,
+      "location": "France"
+    },
+    {
+      "date": "2021-06-14",
+      "proportion": 0.32767295597484275,
+      "location": "United States"
+    },
+    {
+      "date": "2021-06-14",
+      "proportion": 0.039031673243041486,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-06-14",
+      "proportion": 0.4858459512837393,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-06-14",
+      "proportion": 0.888944472236118,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-06-14",
+      "proportion": 0.34265734265734266,
+      "location": "France"
+    },
+    {
+      "date": "2021-06-21",
+      "proportion": 0.2223854061992734,
+      "location": "United States"
+    },
+    {
+      "date": "2021-06-21",
+      "proportion": 0.022461341660709584,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-06-21",
+      "proportion": 0.36917562724014336,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-06-21",
+      "proportion": 0.8452433143358177,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-06-21",
+      "proportion": 0.281929347826087,
+      "location": "France"
+    },
+    {
+      "date": "2021-06-28",
+      "proportion": 0.13953337653920933,
+      "location": "United States"
+    },
+    {
+      "date": "2021-06-28",
+      "proportion": 0.015136287498096543,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-06-28",
+      "proportion": 0.19765625,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-06-28",
+      "proportion": 0.7785619761799736,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-06-28",
+      "proportion": 0.21705426356589147,
+      "location": "France"
+    },
+    {
+      "date": "2021-07-05",
+      "proportion": 0.07481658754756954,
+      "location": "United States"
+    },
+    {
+      "date": "2021-07-05",
+      "proportion": 0.00974559258312954,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-07-05",
+      "proportion": 0.08812818645302258,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-07-05",
+      "proportion": 0.6612903225806451,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-07-05",
+      "proportion": 0.13750396951413146,
+      "location": "France"
+    },
+    {
+      "date": "2021-07-12",
+      "proportion": 0.03971576512063457,
+      "location": "United States"
+    },
+    {
+      "date": "2021-07-12",
+      "proportion": 0.004450918507728413,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-07-12",
+      "proportion": 0.04311310190369541,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-07-12",
+      "proportion": 0.5171300893743793,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-07-12",
+      "proportion": 0.042119323241317896,
+      "location": "France"
+    },
+    {
+      "date": "2021-07-19",
+      "proportion": 0.020375453657817653,
+      "location": "United States"
+    },
+    {
+      "date": "2021-07-19",
+      "proportion": 0.0024519474663209514,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-07-19",
+      "proportion": 0.022435897435897436,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-07-19",
+      "proportion": 0.3019202363367799,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-07-19",
+      "proportion": 0.025276366895727518,
+      "location": "France"
+    },
+    {
+      "date": "2021-07-26",
+      "proportion": 0.012600197650159219,
+      "location": "United States"
+    },
+    {
+      "date": "2021-07-26",
+      "proportion": 0.0038350327195251863,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-07-26",
+      "proportion": 0.011866235167206042,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-07-26",
+      "proportion": 0.21026422764227642,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-07-26",
+      "proportion": 0.01875384300061488,
+      "location": "France"
+    },
+    {
+      "date": "2021-08-02",
+      "proportion": 0.008559288731702525,
+      "location": "United States"
+    },
+    {
+      "date": "2021-08-02",
+      "proportion": 0.0006084020320627871,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-08-02",
+      "proportion": 0.011403508771929825,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-08-02",
+      "proportion": 0.10869044768972948,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-08-02",
+      "proportion": 0.020582953446608647,
+      "location": "France"
+    },
+    {
+      "date": "2021-08-09",
+      "proportion": 0.005114060794115957,
+      "location": "United States"
+    },
+    {
+      "date": "2021-08-09",
+      "proportion": 0.0004269995073082608,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-08-09",
+      "proportion": 0.008429540040315191,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-08-09",
+      "proportion": 0.06637667149991945,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-08-09",
+      "proportion": 0.01054550188777503,
+      "location": "France"
+    },
+    {
+      "date": "2021-08-16",
+      "proportion": 0.0023132701632634905,
+      "location": "United States"
+    },
+    {
+      "date": "2021-08-16",
+      "proportion": 0.0008506668130179463,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-08-16",
+      "proportion": 0.004375804375804376,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-08-16",
+      "proportion": 0.03555086237240408,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-08-16",
+      "proportion": 0.008105673971780246,
+      "location": "France"
+    },
+    {
+      "date": "2021-08-23",
+      "proportion": 0.0017110376428281422,
+      "location": "United States"
+    },
+    {
+      "date": "2021-08-23",
+      "proportion": 0.0006540222367560497,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-08-23",
+      "proportion": 0.002542372881355932,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-08-23",
+      "proportion": 0.022138264731225557,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-08-23",
+      "proportion": 0.009812829365800472,
+      "location": "France"
+    },
+    {
+      "date": "2021-08-30",
+      "proportion": 0.0015271265907568655,
+      "location": "United States"
+    },
+    {
+      "date": "2021-08-30",
+      "proportion": 0.0007842368395255367,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-08-30",
+      "proportion": 0.0017255379618351604,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-08-30",
+      "proportion": 0.01152482269503546,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-08-30",
+      "proportion": 0.012511584800741427,
+      "location": "France"
+    },
+    {
+      "date": "2021-09-06",
+      "proportion": 0.0012610509652406059,
+      "location": "United States"
+    },
+    {
+      "date": "2021-09-06",
+      "proportion": 0.0005687156916077345,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-09-06",
+      "proportion": 0.0012054896142433234,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-09-06",
+      "proportion": 0.007551413881748072,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-09-06",
+      "proportion": 0.007053051211284882,
+      "location": "France"
+    },
+    {
+      "date": "2021-09-13",
+      "proportion": 0.0014373351509942803,
+      "location": "United States"
+    },
+    {
+      "date": "2021-09-13",
+      "proportion": 0.000594883997620464,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-09-13",
+      "proportion": 0.0006509004122369278,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-09-13",
+      "proportion": 0.002967359050445104,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-09-13",
+      "proportion": 0.006243114212265883,
+      "location": "France"
+    },
+    {
+      "date": "2021-09-20",
+      "proportion": 0.0009509254542367125,
+      "location": "United States"
+    },
+    {
+      "date": "2021-09-20",
+      "proportion": 0.002147421800212155,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-09-20",
+      "proportion": 0.00034932463903120635,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-09-20",
+      "proportion": 0.0022637238256932655,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-09-20",
+      "proportion": 0.0078028747433264885,
+      "location": "France"
+    },
+    {
+      "date": "2021-09-27",
+      "proportion": 0.0010657914770516486,
+      "location": "United States"
+    },
+    {
+      "date": "2021-09-27",
+      "proportion": 0.0005440132635614735,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-09-27",
+      "proportion": 0.0008358874338255781,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-09-27",
+      "proportion": 0.0008888888888888889,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-09-27",
+      "proportion": 0.005859375,
+      "location": "France"
+    },
+    {
+      "date": "2021-10-04",
+      "proportion": 0.0005474725019493339,
+      "location": "United States"
+    },
+    {
+      "date": "2021-10-04",
+      "proportion": 0.0005560121839191607,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-10-04",
+      "proportion": 0.000453035336756267,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-10-04",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-10-04",
+      "proportion": 0.0029225523623964927,
+      "location": "France"
+    },
+    {
+      "date": "2021-10-11",
+      "proportion": 0.0008016854037324981,
+      "location": "United States"
+    },
+    {
+      "date": "2021-10-11",
+      "proportion": 0.00039807860725564606,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-10-11",
+      "proportion": 0.00017325017325017325,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-10-11",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-10-11",
+      "proportion": 0.0026327336551118913,
+      "location": "France"
+    },
+    {
+      "date": "2021-10-18",
+      "proportion": 0.0003458884782727422,
+      "location": "United States"
+    },
+    {
+      "date": "2021-10-18",
+      "proportion": 0.0003006197391545648,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-10-18",
+      "proportion": 0.0001252661906551422,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-10-18",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-10-18",
+      "proportion": 0.0021734405564007822,
+      "location": "France"
+    },
+    {
+      "date": "2021-10-25",
+      "proportion": 0.0007973916433355779,
+      "location": "United States"
+    },
+    {
+      "date": "2021-10-25",
+      "proportion": 0.0005553580948995913,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-10-25",
+      "proportion": 0.00051566327188346,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-10-25",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-10-25",
+      "proportion": 0.0016994158258098779,
+      "location": "France"
+    },
+    {
+      "date": "2021-11-01",
+      "proportion": 0.0007362083633270074,
+      "location": "United States"
+    },
+    {
+      "date": "2021-11-01",
+      "proportion": 0.0003049909591965667,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-11-01",
+      "proportion": 0.00023889154323936931,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-11-01",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-11-01",
+      "proportion": 0.0012510947078693856,
+      "location": "France"
+    },
+    {
+      "date": "2021-11-08",
+      "proportion": 0.0006888022667856416,
+      "location": "United States"
+    },
+    {
+      "date": "2021-11-08",
+      "proportion": 0.00035199525732705915,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-11-08",
+      "proportion": 0.0005046427129592249,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-11-08",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-11-08",
+      "proportion": 0.00221606648199446,
+      "location": "France"
+    },
+    {
+      "date": "2021-11-15",
+      "proportion": 0.001100995826075525,
+      "location": "United States"
+    },
+    {
+      "date": "2021-11-15",
+      "proportion": 0.0002736327483673246,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-11-15",
+      "proportion": 0.0010806317539484621,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-11-15",
+      "proportion": 0,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-11-15",
+      "proportion": 0.0038704420452230597,
+      "location": "France"
+    },
+    {
+      "date": "2021-11-22",
+      "proportion": 0.0026339249533997894,
+      "location": "United States"
+    },
+    {
+      "date": "2021-11-22",
+      "proportion": 0.003605609464309451,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-11-22",
+      "proportion": 0.004369805500813983,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-11-22",
+      "proportion": 0.03759398496240601,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-11-22",
+      "proportion": 0.005859375,
+      "location": "France"
+    },
+    {
+      "date": "2021-11-29",
+      "proportion": 0.009333102172907998,
+      "location": "United States"
+    },
+    {
+      "date": "2021-11-29",
+      "proportion": 0.019579693322744212,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-11-29",
+      "proportion": 0.018701777926870177,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-11-29",
+      "proportion": 0.03225806451612903,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-11-29",
+      "proportion": 0.021631238880044947,
+      "location": "France"
+    },
+    {
+      "date": "2021-12-06",
+      "proportion": 0.07083585376824407,
+      "location": "United States"
+    },
+    {
+      "date": "2021-12-06",
+      "proportion": 0.16347940770936994,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-12-06",
+      "proportion": 0.034660824661607074,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-12-06",
+      "proportion": 0.10380622837370242,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-12-06",
+      "proportion": 0.10489647728387794,
+      "location": "France"
+    },
+    {
+      "date": "2021-12-13",
+      "proportion": 0.3931621706072284,
+      "location": "United States"
+    },
+    {
+      "date": "2021-12-13",
+      "proportion": 0.5982096722387477,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-12-13",
+      "proportion": 0.12531120331950207,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-12-13",
+      "proportion": 0.31808278867102396,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-12-13",
+      "proportion": 0.3245793643728301,
+      "location": "France"
+    },
+    {
+      "date": "2021-12-20",
+      "proportion": 0.7438192717228099,
+      "location": "United States"
+    },
+    {
+      "date": "2021-12-20",
+      "proportion": 0.8118016151209404,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-12-20",
+      "proportion": 0.23700623700623702,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-12-20",
+      "proportion": 0.40526976160602257,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-12-20",
+      "proportion": 0.5093986720284298,
+      "location": "France"
+    },
+    {
+      "date": "2021-12-27",
+      "proportion": 0.8762129653543889,
+      "location": "United States"
+    },
+    {
+      "date": "2021-12-27",
+      "proportion": 0.9208753510118826,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2021-12-27",
+      "proportion": 0.5534235342353424,
+      "location": "Germany"
+    },
+    {
+      "date": "2021-12-27",
+      "proportion": 0.7367192060712201,
+      "location": "Japan"
+    },
+    {
+      "date": "2021-12-27",
+      "proportion": 0.6523047375160052,
+      "location": "France"
+    },
+    {
+      "date": "2022-01-03",
+      "proportion": 0.9262213945372794,
+      "location": "United States"
+    },
+    {
+      "date": "2022-01-03",
+      "proportion": 0.9407324208546651,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-01-03",
+      "proportion": 0.664381427235899,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-01-03",
+      "proportion": 0.8797610156833457,
+      "location": "Japan"
+    },
+    {
+      "date": "2022-01-03",
+      "proportion": 0.7508640822045773,
+      "location": "France"
+    },
+    {
+      "date": "2022-01-10",
+      "proportion": 0.9373572500262803,
+      "location": "United States"
+    },
+    {
+      "date": "2022-01-10",
+      "proportion": 0.9489397743428416,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-01-10",
+      "proportion": 0.7401209510396819,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-01-10",
+      "proportion": 0.9398915335944562,
+      "location": "Japan"
+    },
+    {
+      "date": "2022-01-10",
+      "proportion": 0.8203164365615238,
+      "location": "France"
+    },
+    {
+      "date": "2022-01-17",
+      "proportion": 0.9461760044653982,
+      "location": "United States"
+    },
+    {
+      "date": "2022-01-17",
+      "proportion": 0.9431167676318568,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-01-17",
+      "proportion": 0.7882133639231431,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-01-17",
+      "proportion": 0.9645780412080158,
+      "location": "Japan"
+    },
+    {
+      "date": "2022-01-17",
+      "proportion": 0.8044868321231169,
+      "location": "France"
+    },
+    {
+      "date": "2022-01-24",
+      "proportion": 0.940594849804986,
+      "location": "United States"
+    },
+    {
+      "date": "2022-01-24",
+      "proportion": 0.905139569240339,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-01-24",
+      "proportion": 0.7662063041036146,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-01-24",
+      "proportion": 0.9618198749501131,
+      "location": "Japan"
+    },
+    {
+      "date": "2022-01-24",
+      "proportion": 0.7943074806898741,
+      "location": "France"
+    },
+    {
+      "date": "2022-01-31",
+      "proportion": 0.9103357389394415,
+      "location": "United States"
+    },
+    {
+      "date": "2022-01-31",
+      "proportion": 0.8298097671401528,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-01-31",
+      "proportion": 0.7461882956775524,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-01-31",
+      "proportion": 0.9665142110421431,
+      "location": "Japan"
+    },
+    {
+      "date": "2022-01-31",
+      "proportion": 0.7737763629128531,
+      "location": "France"
+    },
+    {
+      "date": "2022-02-07",
+      "proportion": 0.9414431903269641,
+      "location": "United States"
+    },
+    {
+      "date": "2022-02-07",
+      "proportion": 0.7320108747626268,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-02-07",
+      "proportion": 0.6971789831589014,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-02-07",
+      "proportion": 0.9509803921568627,
+      "location": "Japan"
+    },
+    {
+      "date": "2022-02-07",
+      "proportion": 0.7349601352983812,
+      "location": "France"
+    },
+    {
+      "date": "2022-02-14",
+      "proportion": 0.8985653463548497,
+      "location": "United States"
+    },
+    {
+      "date": "2022-02-14",
+      "proportion": 0.5695852534562212,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-02-14",
+      "proportion": 0.5682036723293191,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-02-14",
+      "proportion": 0.9322886438382666,
+      "location": "Japan"
+    },
+    {
+      "date": "2022-02-14",
+      "proportion": 0.6389242745930644,
+      "location": "France"
+    },
+    {
+      "date": "2022-02-21",
+      "proportion": 0.8532871367844873,
+      "location": "United States"
+    },
+    {
+      "date": "2022-02-21",
+      "proportion": 0.41794031395549425,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-02-21",
+      "proportion": 0.4395984383714445,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-02-21",
+      "proportion": 0.8688382193268187,
+      "location": "Japan"
+    },
+    {
+      "date": "2022-02-21",
+      "proportion": 0.5201811380192951,
+      "location": "France"
+    },
+    {
+      "date": "2022-02-28",
+      "proportion": 0.761491722437478,
+      "location": "United States"
+    },
+    {
+      "date": "2022-02-28",
+      "proportion": 0.24120346761856196,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-02-28",
+      "proportion": 0.3012896778184933,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-02-28",
+      "proportion": 0.8287852112676056,
+      "location": "Japan"
+    },
+    {
+      "date": "2022-02-28",
+      "proportion": 0.35213750550903483,
+      "location": "France"
+    },
+    {
+      "date": "2022-03-07",
+      "proportion": 0.6162738995108937,
+      "location": "United States"
+    },
+    {
+      "date": "2022-03-07",
+      "proportion": 0.14600437694807347,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-03-07",
+      "proportion": 0.2314108336097815,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-03-07",
+      "proportion": 0.7009527934170636,
+      "location": "Japan"
+    },
+    {
+      "date": "2022-03-07",
+      "proportion": 0.2495142936441854,
+      "location": "France"
+    },
+    {
+      "date": "2022-03-14",
+      "proportion": 0.459162509109255,
+      "location": "United States"
+    },
+    {
+      "date": "2022-03-14",
+      "proportion": 0.08579274307499533,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-03-14",
+      "proportion": 0.1516149038690902,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-03-14",
+      "proportion": 0.5918511540273198,
+      "location": "Japan"
+    },
+    {
+      "date": "2022-03-14",
+      "proportion": 0.14552869790112405,
+      "location": "France"
+    },
+    {
+      "date": "2022-03-21",
+      "proportion": 0.2903609089558889,
+      "location": "United States"
+    },
+    {
+      "date": "2022-03-21",
+      "proportion": 0.04891541709127966,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-03-21",
+      "proportion": 0.1019612773447322,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-03-21",
+      "proportion": 0.455552990071577,
+      "location": "Japan"
+    },
+    {
+      "date": "2022-03-21",
+      "proportion": 0.07328863246530484,
+      "location": "France"
+    },
+    {
+      "date": "2022-03-28",
+      "proportion": 0.1680982687258,
+      "location": "United States"
+    },
+    {
+      "date": "2022-03-28",
+      "proportion": 0.03579968342707035,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-03-28",
+      "proportion": 0.07270833333333333,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-03-28",
+      "proportion": 0.3067869752844253,
+      "location": "Japan"
+    },
+    {
+      "date": "2022-03-28",
+      "proportion": 0.050479945149125814,
+      "location": "France"
+    },
+    {
+      "date": "2022-04-04",
+      "proportion": 0.09494418910045963,
+      "location": "United States"
+    },
+    {
+      "date": "2022-04-04",
+      "proportion": 0.026660708966338993,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-04-04",
+      "proportion": 0.05777470628887353,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-04-04",
+      "proportion": 0.22953451043338685,
+      "location": "Japan"
+    },
+    {
+      "date": "2022-04-04",
+      "proportion": 0.029054054054054056,
+      "location": "France"
+    },
+    {
+      "date": "2022-04-11",
+      "proportion": 0.052766249570942676,
+      "location": "United States"
+    },
+    {
+      "date": "2022-04-11",
+      "proportion": 0.016642726237059785,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-04-11",
+      "proportion": 0.03260942198463081,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-04-11",
+      "proportion": 0.15502686108979277,
+      "location": "Japan"
+    },
+    {
+      "date": "2022-04-11",
+      "proportion": 0.025511197663096397,
+      "location": "France"
+    },
+    {
+      "date": "2022-04-18",
+      "proportion": 0.03233045212765957,
+      "location": "United States"
+    },
+    {
+      "date": "2022-04-18",
+      "proportion": 0.014078286313697345,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-04-18",
+      "proportion": 0.02736726874657909,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-04-18",
+      "proportion": 0.1034967845659164,
+      "location": "Japan"
+    },
+    {
+      "date": "2022-04-18",
+      "proportion": 0.018062024309894353,
+      "location": "France"
+    },
+    {
+      "date": "2022-04-25",
+      "proportion": 0.02201358719421524,
+      "location": "United States"
+    },
+    {
+      "date": "2022-04-25",
+      "proportion": 0.020692337611824194,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-04-25",
+      "proportion": 0.02725214297266699,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-04-25",
+      "proportion": 0.06913804866954743,
+      "location": "Japan"
+    },
+    {
+      "date": "2022-04-25",
+      "proportion": 0.018594766901314917,
+      "location": "France"
+    },
+    {
+      "date": "2022-05-02",
+      "proportion": 0.019017472146756063,
+      "location": "United States"
+    },
+    {
+      "date": "2022-05-02",
+      "proportion": 0.02887064817435607,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-05-02",
+      "proportion": 0.03117641518319676,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-05-02",
+      "proportion": 0.0345821325648415,
+      "location": "Japan"
+    },
+    {
+      "date": "2022-05-02",
+      "proportion": 0.03671918964546989,
+      "location": "France"
+    },
+    {
+      "date": "2022-05-09",
+      "proportion": 0.030224642614023144,
+      "location": "United States"
+    },
+    {
+      "date": "2022-05-09",
+      "proportion": 0.054558011049723756,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-05-09",
+      "proportion": 0.05451518934665002,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-05-09",
+      "proportion": 0.02528735632183908,
+      "location": "Japan"
+    },
+    {
+      "date": "2022-05-09",
+      "proportion": 0.06253451131971287,
+      "location": "France"
+    },
+    {
+      "date": "2022-05-16",
+      "proportion": 0.052269409883922986,
+      "location": "United States"
+    },
+    {
+      "date": "2022-05-16",
+      "proportion": 0.11170584128461718,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-05-16",
+      "proportion": 0.08447867298578199,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-05-16",
+      "proportion": 0.021608861449064827,
+      "location": "Japan"
+    },
+    {
+      "date": "2022-05-16",
+      "proportion": 0.16537075668499907,
+      "location": "France"
+    },
+    {
+      "date": "2022-05-23",
+      "proportion": 0.09158723580605056,
+      "location": "United States"
+    },
+    {
+      "date": "2022-05-23",
+      "proportion": 0.20506257110352674,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-05-23",
+      "proportion": 0.17974362586279757,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-05-23",
+      "proportion": 0.0339409176618479,
+      "location": "Japan"
+    },
+    {
+      "date": "2022-05-23",
+      "proportion": 0.2780875147829025,
+      "location": "France"
+    },
+    {
+      "date": "2022-05-30",
+      "proportion": 0.16796894196275,
+      "location": "United States"
+    },
+    {
+      "date": "2022-05-30",
+      "proportion": 0.34102259215219977,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-05-30",
+      "proportion": 0.3628100246721205,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-05-30",
+      "proportion": 0.02879645582082205,
+      "location": "Japan"
+    },
+    {
+      "date": "2022-05-30",
+      "proportion": 0.393965393965394,
+      "location": "France"
+    },
+    {
+      "date": "2022-06-06",
+      "proportion": 0.2697777359201356,
+      "location": "United States"
+    },
+    {
+      "date": "2022-06-06",
+      "proportion": 0.5295419952954199,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-06-06",
+      "proportion": 0.5540557123573444,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-06-06",
+      "proportion": 0.04413377192982456,
+      "location": "Japan"
+    },
+    {
+      "date": "2022-06-06",
+      "proportion": 0.4595280764635603,
+      "location": "France"
+    },
+    {
+      "date": "2022-06-13",
+      "proportion": 0.4101972702358017,
+      "location": "United States"
+    },
+    {
+      "date": "2022-06-13",
+      "proportion": 0.6463387241689128,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-06-13",
+      "proportion": 0.6853941908713693,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-06-13",
+      "proportion": 0.11685082872928176,
+      "location": "Japan"
+    },
+    {
+      "date": "2022-06-13",
+      "proportion": 0.6056668086919471,
+      "location": "France"
+    },
+    {
+      "date": "2022-06-20",
+      "proportion": 0.5654903896246333,
+      "location": "United States"
+    },
+    {
+      "date": "2022-06-20",
+      "proportion": 0.7750361678186787,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-06-20",
+      "proportion": 0.7797955340328222,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-06-20",
+      "proportion": 0.26509054325955733,
+      "location": "Japan"
+    },
+    {
+      "date": "2022-06-20",
+      "proportion": 0.7768481898387587,
+      "location": "France"
+    },
+    {
+      "date": "2022-06-27",
+      "proportion": 0.6968324647067753,
+      "location": "United States"
+    },
+    {
+      "date": "2022-06-27",
+      "proportion": 0.8676300184036535,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-06-27",
+      "proportion": 0.8649478703628869,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-06-27",
+      "proportion": 0.4703150912106136,
+      "location": "Japan"
+    },
+    {
+      "date": "2022-06-27",
+      "proportion": 0.835544373284538,
+      "location": "France"
+    },
+    {
+      "date": "2022-07-04",
+      "proportion": 0.7997697692994409,
+      "location": "United States"
+    },
+    {
+      "date": "2022-07-04",
+      "proportion": 0.8907107825195812,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-07-04",
+      "proportion": 0.8803093542843113,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-07-04",
+      "proportion": 0.6953113444756693,
+      "location": "Japan"
+    },
+    {
+      "date": "2022-07-04",
+      "proportion": 0.9170839469808542,
+      "location": "France"
+    },
+    {
+      "date": "2022-07-11",
+      "proportion": 0.8602780136772002,
+      "location": "United States"
+    },
+    {
+      "date": "2022-07-11",
+      "proportion": 0.8361013571225206,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-07-11",
+      "proportion": 0.9409473551953763,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-07-11",
+      "proportion": 0.817323812480596,
+      "location": "Japan"
+    },
+    {
+      "date": "2022-07-11",
+      "proportion": 0.9319155446756426,
+      "location": "France"
+    },
+    {
+      "date": "2022-07-18",
+      "proportion": 0.898358506265917,
+      "location": "United States"
+    },
+    {
+      "date": "2022-07-18",
+      "proportion": 0.8802558456537696,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-07-18",
+      "proportion": 0.9587720411011036,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-07-18",
+      "proportion": 0.8851085531108844,
+      "location": "Japan"
+    },
+    {
+      "date": "2022-07-18",
+      "proportion": 0.9680683999302041,
+      "location": "France"
+    },
+    {
+      "date": "2022-07-25",
+      "proportion": 0.9267532467532468,
+      "location": "United States"
+    },
+    {
+      "date": "2022-07-25",
+      "proportion": 0.858698437099667,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-07-25",
+      "proportion": 0.9648618431560454,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-07-25",
+      "proportion": 0.9256969849880157,
+      "location": "Japan"
+    },
+    {
+      "date": "2022-07-25",
+      "proportion": 0.9491048593350384,
+      "location": "France"
+    },
+    {
+      "date": "2022-08-01",
+      "proportion": 0.9386961722488039,
+      "location": "United States"
+    },
+    {
+      "date": "2022-08-01",
+      "proportion": 0.8819237147595357,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-08-01",
+      "proportion": 0.9708601286173634,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-08-01",
+      "proportion": 0.9581322393822393,
+      "location": "Japan"
+    },
+    {
+      "date": "2022-08-01",
+      "proportion": 0.9553243574051408,
+      "location": "France"
+    },
+    {
+      "date": "2022-08-08",
+      "proportion": 0.9385795907520595,
+      "location": "United States"
+    },
+    {
+      "date": "2022-08-08",
+      "proportion": 0.8456979358266912,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-08-08",
+      "proportion": 0.9707750952986023,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-08-08",
+      "proportion": 0.9696717213797701,
+      "location": "Japan"
+    },
+    {
+      "date": "2022-08-08",
+      "proportion": 0.9812409812409812,
+      "location": "France"
+    },
+    {
+      "date": "2022-08-15",
+      "proportion": 0.952392393766733,
+      "location": "United States"
+    },
+    {
+      "date": "2022-08-15",
+      "proportion": 0.7855087627517656,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-08-15",
+      "proportion": 0.9713524317121919,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-08-15",
+      "proportion": 0.982217123189445,
+      "location": "Japan"
+    },
+    {
+      "date": "2022-08-15",
+      "proportion": 0.9821215733015495,
+      "location": "France"
+    },
+    {
+      "date": "2022-08-22",
+      "proportion": 0.9606324166343886,
+      "location": "United States"
+    },
+    {
+      "date": "2022-08-22",
+      "proportion": 0.6976047904191617,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-08-22",
+      "proportion": 0.9651718643296153,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-08-22",
+      "proportion": 0.9864320858804234,
+      "location": "Japan"
+    },
+    {
+      "date": "2022-08-22",
+      "proportion": 0.9781303602058319,
+      "location": "France"
+    },
+    {
+      "date": "2022-08-29",
+      "proportion": 0.9449873326094824,
+      "location": "United States"
+    },
+    {
+      "date": "2022-08-29",
+      "proportion": 0.7054616384915474,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-08-29",
+      "proportion": 0.961574074074074,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-08-29",
+      "proportion": 0.9920538953187079,
+      "location": "Japan"
+    },
+    {
+      "date": "2022-08-29",
+      "proportion": 0.9699820788530465,
+      "location": "France"
+    },
+    {
+      "date": "2022-09-05",
+      "proportion": 0.9354003830426005,
+      "location": "United States"
+    },
+    {
+      "date": "2022-09-05",
+      "proportion": 0.712338593974175,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-09-05",
+      "proportion": 0.9692517936453707,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-09-05",
+      "proportion": 0.9888029858704346,
+      "location": "Japan"
+    },
+    {
+      "date": "2022-09-05",
+      "proportion": 0.9796626984126984,
+      "location": "France"
+    },
+    {
+      "date": "2022-09-12",
+      "proportion": 0.9468348623853211,
+      "location": "United States"
+    },
+    {
+      "date": "2022-09-12",
+      "proportion": 0.741956241956242,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-09-12",
+      "proportion": 0.9674445969798,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-09-12",
+      "proportion": 0.9853987270685136,
+      "location": "Japan"
+    },
+    {
+      "date": "2022-09-12",
+      "proportion": 0.9822580645161291,
+      "location": "France"
+    },
+    {
+      "date": "2022-09-19",
+      "proportion": 0.952565732253964,
+      "location": "United States"
+    },
+    {
+      "date": "2022-09-19",
+      "proportion": 0.8327102803738318,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-09-19",
+      "proportion": 0.9432902863559798,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-09-19",
+      "proportion": 0.9781818181818182,
+      "location": "Japan"
+    },
+    {
+      "date": "2022-09-19",
+      "proportion": 0.971535230984601,
+      "location": "France"
+    },
+    {
+      "date": "2022-09-26",
+      "proportion": 0.9420790180283851,
+      "location": "United States"
+    },
+    {
+      "date": "2022-09-26",
+      "proportion": 0.8216232586311326,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-09-26",
+      "proportion": 0.8037974683544303,
+      "location": "Germany"
+    },
+    {
+      "date": "2022-09-26",
+      "proportion": 0.953405017921147,
+      "location": "Japan"
+    },
+    {
+      "date": "2022-09-26",
+      "proportion": 0.9612976664769494,
+      "location": "France"
+    },
+    {
+      "date": "2022-10-03",
+      "proportion": 0.9655172413793104,
+      "location": "United States"
+    },
+    {
+      "date": "2022-10-03",
+      "proportion": 0.9410876132930514,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-10-03",
+      "location": "Germany"
+    },
+    {
+      "date": "2022-10-03",
+      "proportion": 0.9682539682539683,
+      "location": "Japan"
+    },
+    {
+      "date": "2022-10-03",
+      "proportion": 0.7452229299363057,
+      "location": "France"
+    },
+    {
+      "date": "2022-10-10",
+      "proportion": 1,
+      "location": "United States"
+    },
+    {
+      "date": "2022-10-10",
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-10-10",
+      "location": "Germany"
+    },
+    {
+      "date": "2022-10-10",
+      "proportion": 1,
+      "location": "Japan"
+    },
+    {
+      "date": "2022-10-10",
+      "proportion": 1,
+      "location": "France"
+    }
+  ]
+}

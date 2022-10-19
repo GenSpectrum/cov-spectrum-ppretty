@@ -1,0 +1,128 @@
+{
+  "config": {},
+  "metadata": {
+    "variant": "BA.2.75* (Nextclade)"
+  },
+  "data": [
+    {
+      "date": "2022-09-12",
+      "proportion": 0.025145067698259187,
+      "location": "Switzerland"
+    },
+    {
+      "date": "2022-09-12",
+      "proportion": 0.012522935779816514,
+      "location": "United States"
+    },
+    {
+      "date": "2022-09-12",
+      "proportion": 0.037644787644787646,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-09-12",
+      "proportion": 0.8487654320987654,
+      "location": "India"
+    },
+    {
+      "date": "2022-09-12",
+      "proportion": 0.4796747967479675,
+      "location": "Singapore"
+    },
+    {
+      "date": "2022-09-19",
+      "proportion": 0.017721518987341773,
+      "location": "Switzerland"
+    },
+    {
+      "date": "2022-09-19",
+      "proportion": 0.014584866528400348,
+      "location": "United States"
+    },
+    {
+      "date": "2022-09-19",
+      "proportion": 0.047429906542056074,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-09-19",
+      "proportion": 0.86,
+      "location": "India"
+    },
+    {
+      "date": "2022-09-19",
+      "proportion": 0.3738601823708207,
+      "location": "Singapore"
+    },
+    {
+      "date": "2022-09-26",
+      "proportion": 0.024861878453038673,
+      "location": "Switzerland"
+    },
+    {
+      "date": "2022-09-26",
+      "proportion": 0.017644802454929037,
+      "location": "United States"
+    },
+    {
+      "date": "2022-09-26",
+      "proportion": 0.04300423985463356,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-09-26",
+      "proportion": 0.7727272727272727,
+      "location": "India"
+    },
+    {
+      "date": "2022-09-26",
+      "proportion": 0.26229508196721313,
+      "location": "Singapore"
+    },
+    {
+      "date": "2022-10-03",
+      "proportion": 0.19424460431654678,
+      "location": "Switzerland"
+    },
+    {
+      "date": "2022-10-03",
+      "proportion": 0.022167487684729065,
+      "location": "United States"
+    },
+    {
+      "date": "2022-10-03",
+      "proportion": 0.04682779456193353,
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-10-03",
+      "location": "India"
+    },
+    {
+      "date": "2022-10-03",
+      "proportion": 0.14794520547945206,
+      "location": "Singapore"
+    },
+    {
+      "date": "2022-10-10",
+      "location": "Switzerland"
+    },
+    {
+      "date": "2022-10-10",
+      "proportion": 0,
+      "location": "United States"
+    },
+    {
+      "date": "2022-10-10",
+      "location": "United Kingdom"
+    },
+    {
+      "date": "2022-10-10",
+      "location": "India"
+    },
+    {
+      "date": "2022-10-10",
+      "location": "Singapore"
+    }
+]
+}
