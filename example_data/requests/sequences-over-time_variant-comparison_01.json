@@ -1,0 +1,1520 @@
+{
+  "config": {},
+  "metadata": {
+    "location": "Switzerland"
+  },
+  "data": [
+    {
+      "date": "2022-09-14",
+      "proportion": 0.920696324951644,
+      "proportionCILow": 0.8363162547576825,
+      "proportionCIHigh": 0.9634775104009105,
+      "variant": "BA.5* (Nextclade)"
+    },
+    {
+      "date": "2022-09-14",
+      "proportion": 0.044487427466150864,
+      "proportionCILow": 0.01593162001066133,
+      "proportionCIHigh": 0.11808478599003445,
+      "variant": "BA.4* (Nextclade)"
+    },
+    {
+      "date": "2022-09-14",
+      "proportion": 0.025145067698259187,
+      "proportionCILow": 0.006632879067672968,
+      "proportionCIHigh": 0.09061139979929442,
+      "variant": "BA.2.75* (Nextclade)"
+    },
+    {
+      "date": "2022-09-14",
+      "proportion": 0.005802707930367504,
+      "proportionCILow": 0.000533995186107149,
+      "proportionCIHigh": 0.059938156547131805,
+      "variant": "BQ.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-09-14",
+      "proportion": 0,
+      "proportionCILow": 0,
+      "proportionCIHigh": 0.04944051359312043,
+      "variant": "nextcladePangoLineage:bq.1* & !nextcladepangolineage:bq.1.1*"
+    },
+    {
+      "date": "2022-09-14",
+      "proportion": 0.00967117988394584,
+      "proportionCILow": 0.0013371672907191885,
+      "proportionCIHigh": 0.06648940986926546,
+      "variant": "BA.5.2.6* (Nextclade)"
+    },
+    {
+      "date": "2022-09-14",
+      "proportion": 0.00967117988394584,
+      "proportionCILow": 0.0013371672907191885,
+      "proportionCIHigh": 0.06648940986926546,
+      "variant": "BA.2.75.2* (Nextclade)"
+    },
+    {
+      "date": "2022-09-14",
+      "proportion": 0.001934235976789168,
+      "proportionCILow": 0.00006703585819909933,
+      "proportionCIHigh": 0.05305069044829418,
+      "variant": "BA.2.75.5* (Nextclade)"
+    },
+    {
+      "date": "2022-09-14",
+      "proportion": 0,
+      "proportionCILow": 0,
+      "proportionCIHigh": 0.04944051359312043,
+      "variant": "BM.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-09-15",
+      "proportion": 0.9235537190082644,
+      "proportionCILow": 0.8363521834966936,
+      "proportionCIHigh": 0.9661685750925326,
+      "variant": "BA.5* (Nextclade)"
+    },
+    {
+      "date": "2022-09-15",
+      "proportion": 0.04338842975206612,
+      "proportionCILow": 0.01486489824624742,
+      "proportionCIHigh": 0.1199785766404892,
+      "variant": "BA.4* (Nextclade)"
+    },
+    {
+      "date": "2022-09-15",
+      "proportion": 0.024793388429752067,
+      "proportionCILow": 0.006236823176896959,
+      "proportionCIHigh": 0.09337403304006878,
+      "variant": "BA.2.75* (Nextclade)"
+    },
+    {
+      "date": "2022-09-15",
+      "proportion": 0.008264462809917356,
+      "proportionCILow": 0.0009610051885090592,
+      "proportionCIHigh": 0.0673319677664381,
+      "variant": "BQ.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-09-15",
+      "proportion": 0.002066115702479339,
+      "proportionCILow": 0.00007160679029719436,
+      "proportionCIHigh": 0.056477159941392976,
+      "variant": "nextcladePangoLineage:bq.1* & !nextcladepangolineage:bq.1.1*"
+    },
+    {
+      "date": "2022-09-15",
+      "proportion": 0.012396694214876033,
+      "proportionCILow": 0.0019631986976573336,
+      "proportionCIHigh": 0.07415924507279446,
+      "variant": "BA.5.2.6* (Nextclade)"
+    },
+    {
+      "date": "2022-09-15",
+      "proportion": 0.010330578512396695,
+      "proportionCILow": 0.001428436620265438,
+      "proportionCIHigh": 0.07077927174243402,
+      "variant": "BA.2.75.2* (Nextclade)"
+    },
+    {
+      "date": "2022-09-15",
+      "proportion": 0.002066115702479339,
+      "proportionCILow": 0.00007160679029719436,
+      "proportionCIHigh": 0.056477159941392976,
+      "variant": "BA.2.75.5* (Nextclade)"
+    },
+    {
+      "date": "2022-09-15",
+      "proportion": 0,
+      "proportionCILow": 0,
+      "proportionCIHigh": 0.05263403132393785,
+      "variant": "BM.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-09-16",
+      "proportion": 0.9263803680981594,
+      "proportionCILow": 0.8405257971576651,
+      "proportionCIHigh": 0.9677857210565757,
+      "variant": "BA.5* (Nextclade)"
+    },
+    {
+      "date": "2022-09-16",
+      "proportion": 0.042944785276073615,
+      "proportionCILow": 0.01471178583384301,
+      "proportionCIHigh": 0.11882478816671875,
+      "variant": "BA.4* (Nextclade)"
+    },
+    {
+      "date": "2022-09-16",
+      "proportion": 0.02249488752556237,
+      "proportionCILow": 0.00536492533013866,
+      "proportionCIHigh": 0.08940371014695832,
+      "variant": "BA.2.75* (Nextclade)"
+    },
+    {
+      "date": "2022-09-16",
+      "proportion": 0.010224948875255623,
+      "proportionCILow": 0.0014138152568376906,
+      "proportionCIHigh": 0.07009405710618041,
+      "variant": "BQ.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-09-16",
+      "proportion": 0.0020449897750511245,
+      "proportionCILow": 0.00007087456610444533,
+      "proportionCIHigh": 0.05592982238752773,
+      "variant": "nextcladePangoLineage:bq.1* & !nextcladepangolineage:bq.1.1*"
+    },
+    {
+      "date": "2022-09-16",
+      "proportion": 0.020449897750511245,
+      "proportionCILow": 0.004593362396980977,
+      "proportionCIHigh": 0.08629847922776951,
+      "variant": "BA.5.2.6* (Nextclade)"
+    },
+    {
+      "date": "2022-09-16",
+      "proportion": 0.008179959100204498,
+      "proportionCILow": 0.0009511715476661476,
+      "proportionCIHigh": 0.06667990696300546,
+      "variant": "BA.2.75.2* (Nextclade)"
+    },
+    {
+      "date": "2022-09-16",
+      "proportion": 0.004089979550102249,
+      "proportionCILow": 0.0002659890644056834,
+      "proportionCIHigh": 0.059611501741572974,
+      "variant": "BA.2.75.5* (Nextclade)"
+    },
+    {
+      "date": "2022-09-16",
+      "proportion": 0,
+      "proportionCILow": 0,
+      "proportionCIHigh": 0.0521239031012857,
+      "variant": "BM.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-09-17",
+      "proportion": 0.9376344086021505,
+      "proportionCILow": 0.8523173086138196,
+      "proportionCIHigh": 0.9751031006080154,
+      "variant": "BA.5* (Nextclade)"
+    },
+    {
+      "date": "2022-09-17",
+      "proportion": 0.03655913978494623,
+      "proportionCILow": 0.011224824014058695,
+      "proportionCIHigh": 0.11256339128173737,
+      "variant": "BA.4* (Nextclade)"
+    },
+    {
+      "date": "2022-09-17",
+      "proportion": 0.017204301075268817,
+      "proportionCILow": 0.003336678106000614,
+      "proportionCIHigh": 0.08385800557801895,
+      "variant": "BA.2.75* (Nextclade)"
+    },
+    {
+      "date": "2022-09-17",
+      "proportion": 0.012903225806451611,
+      "proportionCILow": 0.0020435349347009274,
+      "proportionCIHigh": 0.07701925283559054,
+      "variant": "BQ.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-09-17",
+      "proportion": 0.004301075268817204,
+      "proportionCILow": 0.00027972090512915225,
+      "proportionCIHigh": 0.06251927503770607,
+      "variant": "nextcladePangoLineage:bq.1* & !nextcladepangolineage:bq.1.1*"
+    },
+    {
+      "date": "2022-09-17",
+      "proportion": 0.02150537634408602,
+      "proportionCILow": 0.0048311699655958495,
+      "proportionCIHigh": 0.09049540963215182,
+      "variant": "BA.5.2.6* (Nextclade)"
+    },
+    {
+      "date": "2022-09-17",
+      "proportion": 0.008602150537634409,
+      "proportionCILow": 0.0010003032173395393,
+      "proportionCIHigh": 0.0699305886392238,
+      "variant": "BA.2.75.2* (Nextclade)"
+    },
+    {
+      "date": "2022-09-17",
+      "proportion": 0.002150537634408602,
+      "proportionCILow": 0.00007453286264064583,
+      "proportionCIHigh": 0.05865851512333054,
+      "variant": "BA.2.75.5* (Nextclade)"
+    },
+    {
+      "date": "2022-09-17",
+      "proportion": 0.002150537634408602,
+      "proportionCILow": 0.00007453286264064583,
+      "proportionCIHigh": 0.05865851512333054,
+      "variant": "BM.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-09-18",
+      "proportion": 0.9348314606741573,
+      "proportionCILow": 0.8461348495398265,
+      "proportionCIHigh": 0.9739711638071696,
+      "variant": "BA.5* (Nextclade)"
+    },
+    {
+      "date": "2022-09-18",
+      "proportion": 0.03595505617977528,
+      "proportionCILow": 0.010683244707817187,
+      "proportionCIHigh": 0.11411318032497503,
+      "variant": "BA.4* (Nextclade)"
+    },
+    {
+      "date": "2022-09-18",
+      "proportion": 0.022471910112359553,
+      "proportionCILow": 0.005049000909563606,
+      "proportionCIHigh": 0.09431778029851555,
+      "variant": "BA.2.75* (Nextclade)"
+    },
+    {
+      "date": "2022-09-18",
+      "proportion": 0.01348314606741573,
+      "proportionCILow": 0.002135522219668601,
+      "proportionCIHigh": 0.08027816310526852,
+      "variant": "BQ.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-09-18",
+      "proportion": 0.00449438202247191,
+      "proportionCILow": 0.0002922958588190701,
+      "proportionCIHigh": 0.065168293582976,
+      "variant": "nextcladePangoLineage:bq.1* & !nextcladepangolineage:bq.1.1*"
+    },
+    {
+      "date": "2022-09-18",
+      "proportion": 0.022471910112359553,
+      "proportionCILow": 0.005049000909563606,
+      "proportionCIHigh": 0.09431778029851555,
+      "variant": "BA.5.2.6* (Nextclade)"
+    },
+    {
+      "date": "2022-09-18",
+      "proportion": 0.00898876404494382,
+      "proportionCILow": 0.0010452979365130587,
+      "proportionCIHigh": 0.07289183944685304,
+      "variant": "BA.2.75.2* (Nextclade)"
+    },
+    {
+      "date": "2022-09-18",
+      "proportion": 0.00449438202247191,
+      "proportionCILow": 0.0002922958588190701,
+      "proportionCIHigh": 0.065168293582976,
+      "variant": "BA.2.75.5* (Nextclade)"
+    },
+    {
+      "date": "2022-09-18",
+      "proportion": 0.00449438202247191,
+      "proportionCILow": 0.0002922958588190701,
+      "proportionCIHigh": 0.065168293582976,
+      "variant": "BM.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-09-19",
+      "proportion": 0.9444444444444444,
+      "proportionCILow": 0.848927857671409,
+      "proportionCIHigh": 0.9809267314208602,
+      "variant": "BA.5* (Nextclade)"
+    },
+    {
+      "date": "2022-09-19",
+      "proportion": 0.026455026455026457,
+      "proportionCILow": 0.005947329231510263,
+      "proportionCIHigh": 0.1098623645332745,
+      "variant": "BA.4* (Nextclade)"
+    },
+    {
+      "date": "2022-09-19",
+      "proportion": 0.021164021164021163,
+      "proportionCILow": 0.004106786074224383,
+      "proportionCIHigh": 0.10182368639184289,
+      "variant": "BA.2.75* (Nextclade)"
+    },
+    {
+      "date": "2022-09-19",
+      "proportion": 0.02380952380952381,
+      "proportionCILow": 0.0049989450160516135,
+      "proportionCIHigh": 0.1058711380993744,
+      "variant": "BQ.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-09-19",
+      "proportion": 0.005291005291005291,
+      "proportionCILow": 0.000344120573650311,
+      "proportionCIHigh": 0.07594868799626449,
+      "variant": "nextcladePangoLineage:bq.1* & !nextcladepangolineage:bq.1.1*"
+    },
+    {
+      "date": "2022-09-19",
+      "proportion": 0.018518518518518517,
+      "proportionCILow": 0.0032764877485915154,
+      "proportionCIHigh": 0.097714374068117,
+      "variant": "BA.5.2.6* (Nextclade)"
+    },
+    {
+      "date": "2022-09-19",
+      "proportion": 0.007936507936507936,
+      "proportionCILow": 0.0007304778955123769,
+      "proportionCIHigh": 0.08050194132376118,
+      "variant": "BA.2.75.2* (Nextclade)"
+    },
+    {
+      "date": "2022-09-19",
+      "proportion": 0.005291005291005291,
+      "proportionCILow": 0.000344120573650311,
+      "proportionCIHigh": 0.07594868799626449,
+      "variant": "BA.2.75.5* (Nextclade)"
+    },
+    {
+      "date": "2022-09-19",
+      "proportion": 0.005291005291005291,
+      "proportionCILow": 0.000344120573650311,
+      "proportionCIHigh": 0.07594868799626449,
+      "variant": "BM.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-09-20",
+      "proportion": 0.9455040871934605,
+      "proportionCILow": 0.8484374625065815,
+      "proportionCIHigh": 0.9817431069637275,
+      "variant": "BA.5* (Nextclade)"
+    },
+    {
+      "date": "2022-09-20",
+      "proportion": 0.02452316076294278,
+      "proportionCILow": 0.005149285177326532,
+      "proportionCIHigh": 0.10881701835436196,
+      "variant": "BA.4* (Nextclade)"
+    },
+    {
+      "date": "2022-09-20",
+      "proportion": 0.021798365122615803,
+      "proportionCILow": 0.004230231685412917,
+      "proportionCIHigh": 0.10465851484645718,
+      "variant": "BA.2.75* (Nextclade)"
+    },
+    {
+      "date": "2022-09-20",
+      "proportion": 0.021798365122615803,
+      "proportionCILow": 0.004230231685412917,
+      "proportionCIHigh": 0.10465851484645718,
+      "variant": "BQ.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-09-20",
+      "proportion": 0.008174386920980926,
+      "proportionCILow": 0.000752386043221167,
+      "proportionCIHigh": 0.0827485754895569,
+      "variant": "nextcladePangoLineage:bq.1* & !nextcladepangolineage:bq.1.1*"
+    },
+    {
+      "date": "2022-09-20",
+      "proportion": 0.01907356948228883,
+      "proportionCILow": 0.003374926202860808,
+      "proportionCIHigh": 0.10043626332919088,
+      "variant": "BA.5.2.6* (Nextclade)"
+    },
+    {
+      "date": "2022-09-20",
+      "proportion": 0.005449591280653951,
+      "proportionCILow": 0.000354438025648031,
+      "proportionCIHigh": 0.07806896650731163,
+      "variant": "BA.2.75.2* (Nextclade)"
+    },
+    {
+      "date": "2022-09-20",
+      "proportion": 0.005449591280653951,
+      "proportionCILow": 0.000354438025648031,
+      "proportionCIHigh": 0.07806896650731163,
+      "variant": "BA.2.75.5* (Nextclade)"
+    },
+    {
+      "date": "2022-09-20",
+      "proportion": 0.005449591280653951,
+      "proportionCILow": 0.000354438025648031,
+      "proportionCIHigh": 0.07806896650731163,
+      "variant": "BM.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-09-21",
+      "proportion": 0.9493670886075949,
+      "proportionCILow": 0.858402648742019,
+      "proportionCIHigh": 0.98304849284982,
+      "variant": "BA.5* (Nextclade)"
+    },
+    {
+      "date": "2022-09-21",
+      "proportion": 0.02531645569620253,
+      "proportionCILow": 0.005690437498305603,
+      "proportionCIHigh": 0.10545272279200521,
+      "variant": "BA.4* (Nextclade)"
+    },
+    {
+      "date": "2022-09-21",
+      "proportion": 0.017721518987341773,
+      "proportionCILow": 0.0031351634761780846,
+      "proportionCIHigh": 0.0937862873787777,
+      "variant": "BA.2.75* (Nextclade)"
+    },
+    {
+      "date": "2022-09-21",
+      "proportion": 0.020253164556962022,
+      "proportionCILow": 0.003929566330612706,
+      "proportionCIHigh": 0.09773245433612807,
+      "variant": "BQ.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-09-21",
+      "proportion": 0.012658227848101266,
+      "proportionCILow": 0.001750714649176673,
+      "proportionCIHigh": 0.08568959658220908,
+      "variant": "nextcladePangoLineage:bq.1* & !nextcladepangolineage:bq.1.1*"
+    },
+    {
+      "date": "2022-09-21",
+      "proportion": 0.02531645569620253,
+      "proportionCILow": 0.005690437498305603,
+      "proportionCIHigh": 0.10545272279200521,
+      "variant": "BA.5.2.6* (Nextclade)"
+    },
+    {
+      "date": "2022-09-21",
+      "proportion": 0.0025316455696202528,
+      "proportionCILow": 0.00008774229950482939,
+      "proportionCIHigh": 0.0683902896847409,
+      "variant": "BA.2.75.2* (Nextclade)"
+    },
+    {
+      "date": "2022-09-21",
+      "proportion": 0.0050632911392405056,
+      "proportionCILow": 0.00032930603695637803,
+      "proportionCIHigh": 0.07288929575907435,
+      "variant": "BA.2.75.5* (Nextclade)"
+    },
+    {
+      "date": "2022-09-21",
+      "proportion": 0.0050632911392405056,
+      "proportionCILow": 0.00032930603695637803,
+      "proportionCIHigh": 0.07288929575907435,
+      "variant": "BM.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-09-22",
+      "proportion": 0.9502369668246445,
+      "proportionCILow": 0.8635996880639175,
+      "proportionCIHigh": 0.9829324713785026,
+      "variant": "BA.5* (Nextclade)"
+    },
+    {
+      "date": "2022-09-22",
+      "proportion": 0.026066350710900472,
+      "proportionCILow": 0.006219990463968067,
+      "proportionCIHigh": 0.10269352591243201,
+      "variant": "BA.4* (Nextclade)"
+    },
+    {
+      "date": "2022-09-22",
+      "proportion": 0.014218009478672985,
+      "proportionCILow": 0.002252104407288659,
+      "proportionCIHigh": 0.08438424987852142,
+      "variant": "BA.2.75* (Nextclade)"
+    },
+    {
+      "date": "2022-09-22",
+      "proportion": 0.01895734597156398,
+      "proportionCILow": 0.003677520445588624,
+      "proportionCIHigh": 0.09186969867645745,
+      "variant": "BQ.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-09-22",
+      "proportion": 0.011848341232227489,
+      "proportionCILow": 0.0016385627451853146,
+      "proportionCIHigh": 0.08054235912250676,
+      "variant": "nextcladePangoLineage:bq.1* & !nextcladepangolineage:bq.1.1*"
+    },
+    {
+      "date": "2022-09-22",
+      "proportion": 0.02132701421800948,
+      "proportionCILow": 0.004476192476622625,
+      "proportionCIHigh": 0.09552645906354146,
+      "variant": "BA.5.2.6* (Nextclade)"
+    },
+    {
+      "date": "2022-09-22",
+      "proportion": 0,
+      "proportionCILow": 0,
+      "proportionCIHigh": 0.059903759777102085,
+      "variant": "BA.2.75.2* (Nextclade)"
+    },
+    {
+      "date": "2022-09-22",
+      "proportion": 0.004739336492890995,
+      "proportionCILow": 0.0003082309888701283,
+      "proportionCIHigh": 0.06850639362446793,
+      "variant": "BA.2.75.5* (Nextclade)"
+    },
+    {
+      "date": "2022-09-22",
+      "proportion": 0.004739336492890995,
+      "proportionCILow": 0.0003082309888701283,
+      "proportionCIHigh": 0.06850639362446793,
+      "variant": "BM.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-09-23",
+      "proportion": 0.9423076923076923,
+      "proportionCILow": 0.8520343706513495,
+      "proportionCIHigh": 0.9788713268251701,
+      "variant": "BA.5* (Nextclade)"
+    },
+    {
+      "date": "2022-09-23",
+      "proportion": 0.028846153846153844,
+      "proportionCILow": 0.007260778053811046,
+      "proportionCIHigh": 0.1076440224603313,
+      "variant": "BA.4* (Nextclade)"
+    },
+    {
+      "date": "2022-09-23",
+      "proportion": 0.021634615384615384,
+      "proportionCILow": 0.004540945833034843,
+      "proportionCIHigh": 0.09681647917877295,
+      "variant": "BA.2.75* (Nextclade)"
+    },
+    {
+      "date": "2022-09-23",
+      "proportion": 0.01923076923076923,
+      "proportionCILow": 0.0037306960194548678,
+      "proportionCIHigh": 0.09311093715824141,
+      "variant": "BQ.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-09-23",
+      "proportion": 0.014423076923076922,
+      "proportionCILow": 0.002284640809630394,
+      "proportionCIHigh": 0.08552540869984285,
+      "variant": "nextcladePangoLineage:bq.1* & !nextcladepangolineage:bq.1.1*"
+    },
+    {
+      "date": "2022-09-23",
+      "proportion": 0.016826923076923076,
+      "proportionCILow": 0.0029765668251636457,
+      "proportionCIHigh": 0.0893492745184211,
+      "variant": "BA.5.2.6* (Nextclade)"
+    },
+    {
+      "date": "2022-09-23",
+      "proportion": 0,
+      "proportionCILow": 0,
+      "proportionCIHigh": 0.06071529850480413,
+      "variant": "BA.2.75.2* (Nextclade)"
+    },
+    {
+      "date": "2022-09-23",
+      "proportion": 0.0024038461538461535,
+      "proportionCILow": 0.00008331265638020977,
+      "proportionCIHigh": 0.06514777768253543,
+      "variant": "BA.2.75.5* (Nextclade)"
+    },
+    {
+      "date": "2022-09-23",
+      "proportion": 0.007211538461538461,
+      "proportionCILow": 0.0006637146800802092,
+      "proportionCIHigh": 0.07359895932705848,
+      "variant": "BM.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-09-24",
+      "proportion": 0.9404761904761905,
+      "proportionCILow": 0.8501680032939037,
+      "proportionCIHigh": 0.977775841906212,
+      "variant": "BA.5* (Nextclade)"
+    },
+    {
+      "date": "2022-09-24",
+      "proportion": 0.03333333333333333,
+      "proportionCILow": 0.009189319325541801,
+      "proportionCIHigh": 0.11363774197595713,
+      "variant": "BA.4* (Nextclade)"
+    },
+    {
+      "date": "2022-09-24",
+      "proportion": 0.019047619047619046,
+      "proportionCILow": 0.0036950764007199805,
+      "proportionCIHigh": 0.0922797520834779,
+      "variant": "BA.2.75* (Nextclade)"
+    },
+    {
+      "date": "2022-09-24",
+      "proportion": 0.011904761904761906,
+      "proportionCILow": 0.0016463751777710197,
+      "proportionCIHigh": 0.08090233689777633,
+      "variant": "BQ.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-09-24",
+      "proportion": 0.016666666666666666,
+      "proportionCILow": 0.002948159822102146,
+      "proportionCIHigh": 0.0885512965258789,
+      "variant": "nextcladePangoLineage:bq.1* & !nextcladepangolineage:bq.1.1*"
+    },
+    {
+      "date": "2022-09-24",
+      "proportion": 0.016666666666666666,
+      "proportionCILow": 0.002948159822102146,
+      "proportionCIHigh": 0.0885512965258789,
+      "variant": "BA.5.2.6* (Nextclade)"
+    },
+    {
+      "date": "2022-09-24",
+      "proportion": 0,
+      "proportionCILow": 0,
+      "proportionCIHigh": 0.06017185139446315,
+      "variant": "BA.2.75.2* (Nextclade)"
+    },
+    {
+      "date": "2022-09-24",
+      "proportion": 0.0023809523809523807,
+      "proportionCILow": 0.00008251914141144573,
+      "proportionCIHigh": 0.06456470438926853,
+      "variant": "BA.2.75.5* (Nextclade)"
+    },
+    {
+      "date": "2022-09-24",
+      "proportion": 0.0047619047619047615,
+      "proportionCILow": 0.0003096991547651135,
+      "proportionCIHigh": 0.06881289651213171,
+      "variant": "BM.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-09-25",
+      "proportion": 0.9421686746987952,
+      "proportionCILow": 0.8517031379707033,
+      "proportionCIHigh": 0.9788198981610631,
+      "variant": "BA.5* (Nextclade)"
+    },
+    {
+      "date": "2022-09-25",
+      "proportion": 0.038554216867469876,
+      "proportionCILow": 0.011460405969417836,
+      "proportionCIHigh": 0.12180846913012844,
+      "variant": "BA.4* (Nextclade)"
+    },
+    {
+      "date": "2022-09-25",
+      "proportion": 0.014457831325301203,
+      "proportionCILow": 0.0022901551641999274,
+      "proportionCIHigh": 0.08571860897448717,
+      "variant": "BA.2.75* (Nextclade)"
+    },
+    {
+      "date": "2022-09-25",
+      "proportion": 0.019277108433734938,
+      "proportionCILow": 0.0037397084854089973,
+      "proportionCIHigh": 0.09332107784544993,
+      "variant": "BQ.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-09-25",
+      "proportion": 0.019277108433734938,
+      "proportionCILow": 0.0037397084854089973,
+      "proportionCIHigh": 0.09332107784544993,
+      "variant": "nextcladePangoLineage:bq.1* & !nextcladepangolineage:bq.1.1*"
+    },
+    {
+      "date": "2022-09-25",
+      "proportion": 0.019277108433734938,
+      "proportionCILow": 0.0037397084854089973,
+      "proportionCIHigh": 0.09332107784544993,
+      "variant": "BA.5.2.6* (Nextclade)"
+    },
+    {
+      "date": "2022-09-25",
+      "proportion": 0,
+      "proportionCILow": 0,
+      "proportionCIHigh": 0.06085269756217157,
+      "variant": "BA.2.75.2* (Nextclade)"
+    },
+    {
+      "date": "2022-09-25",
+      "proportion": 0,
+      "proportionCILow": 0,
+      "proportionCIHigh": 0.06085269756217157,
+      "variant": "BA.2.75.5* (Nextclade)"
+    },
+    {
+      "date": "2022-09-25",
+      "proportion": 0.0024096385542168672,
+      "proportionCILow": 0.00008351342541400406,
+      "proportionCIHigh": 0.06529519523284348,
+      "variant": "BM.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-09-26",
+      "proportion": 0.9333333333333333,
+      "proportionCILow": 0.840746427668706,
+      "proportionCIHigh": 0.9737713011227592,
+      "variant": "BA.5* (Nextclade)"
+    },
+    {
+      "date": "2022-09-26",
+      "proportion": 0.03809523809523809,
+      "proportionCILow": 0.011323120709564566,
+      "proportionCIHigh": 0.12045468486436806,
+      "variant": "BA.4* (Nextclade)"
+    },
+    {
+      "date": "2022-09-26",
+      "proportion": 0.02142857142857143,
+      "proportionCILow": 0.004497570752360397,
+      "proportionCIHigh": 0.09595262986805433,
+      "variant": "BA.2.75* (Nextclade)"
+    },
+    {
+      "date": "2022-09-26",
+      "proportion": 0.016666666666666666,
+      "proportionCILow": 0.002948159822102146,
+      "proportionCIHigh": 0.0885512965258789,
+      "variant": "BQ.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-09-26",
+      "proportion": 0.019047619047619046,
+      "proportionCILow": 0.0036950764007199805,
+      "proportionCIHigh": 0.0922797520834779,
+      "variant": "nextcladePangoLineage:bq.1* & !nextcladepangolineage:bq.1.1*"
+    },
+    {
+      "date": "2022-09-26",
+      "proportion": 0.019047619047619046,
+      "proportionCILow": 0.0036950764007199805,
+      "proportionCIHigh": 0.0922797520834779,
+      "variant": "BA.5.2.6* (Nextclade)"
+    },
+    {
+      "date": "2022-09-26",
+      "proportion": 0,
+      "proportionCILow": 0,
+      "proportionCIHigh": 0.06017185139446315,
+      "variant": "BA.2.75.2* (Nextclade)"
+    },
+    {
+      "date": "2022-09-26",
+      "proportion": 0,
+      "proportionCILow": 0,
+      "proportionCIHigh": 0.06017185139446315,
+      "variant": "BA.2.75.5* (Nextclade)"
+    },
+    {
+      "date": "2022-09-26",
+      "proportion": 0.0047619047619047615,
+      "proportionCILow": 0.0003096991547651135,
+      "proportionCIHigh": 0.06881289651213171,
+      "variant": "BM.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-09-27",
+      "proportion": 0.929951690821256,
+      "proportionCILow": 0.8354594642285025,
+      "proportionCIHigh": 0.9719977911234604,
+      "variant": "BA.5* (Nextclade)"
+    },
+    {
+      "date": "2022-09-27",
+      "proportion": 0.03864734299516908,
+      "proportionCILow": 0.011488263487995613,
+      "proportionCIHigh": 0.12208288385905552,
+      "variant": "BA.4* (Nextclade)"
+    },
+    {
+      "date": "2022-09-27",
+      "proportion": 0.021739130434782608,
+      "proportionCILow": 0.004562948632152547,
+      "proportionCIHigh": 0.09725426170667535,
+      "variant": "BA.2.75* (Nextclade)"
+    },
+    {
+      "date": "2022-09-27",
+      "proportion": 0.021739130434782608,
+      "proportionCILow": 0.004562948632152547,
+      "proportionCIHigh": 0.09725426170667535,
+      "variant": "BQ.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-09-27",
+      "proportion": 0.016908212560386472,
+      "proportionCILow": 0.0029909766082668035,
+      "proportionCIHigh": 0.08975368029964015,
+      "variant": "nextcladePangoLineage:bq.1* & !nextcladepangolineage:bq.1.1*"
+    },
+    {
+      "date": "2022-09-27",
+      "proportion": 0.01932367149758454,
+      "proportionCILow": 0.003748764601011133,
+      "proportionCIHigh": 0.0935321690223563,
+      "variant": "BA.5.2.6* (Nextclade)"
+    },
+    {
+      "date": "2022-09-27",
+      "proportion": 0,
+      "proportionCILow": 6.5156857694004e-18,
+      "proportionCIHigh": 0.0609907198996837,
+      "variant": "BA.2.75.2* (Nextclade)"
+    },
+    {
+      "date": "2022-09-27",
+      "proportion": 0,
+      "proportionCILow": 6.5156857694004e-18,
+      "proportionCIHigh": 0.0609907198996837,
+      "variant": "BA.2.75.5* (Nextclade)"
+    },
+    {
+      "date": "2022-09-27",
+      "proportion": 0.004830917874396135,
+      "proportionCILow": 0.00031418878701165893,
+      "proportionCIHigh": 0.06974908454359298,
+      "variant": "BM.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-09-28",
+      "proportion": 0.9254143646408839,
+      "proportionCILow": 0.820912545358206,
+      "proportionCIHigh": 0.9710847612842777,
+      "variant": "BA.5* (Nextclade)"
+    },
+    {
+      "date": "2022-09-28",
+      "proportion": 0.04143646408839779,
+      "proportionCILow": 0.011892111050000853,
+      "proportionCIHigh": 0.13439650646524381,
+      "variant": "BA.4* (Nextclade)"
+    },
+    {
+      "date": "2022-09-28",
+      "proportion": 0.024861878453038676,
+      "proportionCILow": 0.005220652429525702,
+      "proportionCIHigh": 0.11021092716458321,
+      "variant": "BA.2.75* (Nextclade)"
+    },
+    {
+      "date": "2022-09-28",
+      "proportion": 0.03038674033149171,
+      "proportionCILow": 0.0072555758990367845,
+      "proportionCIHigh": 0.11846168300211736,
+      "variant": "BQ.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-09-28",
+      "proportion": 0.013812154696132596,
+      "proportionCILow": 0.0019105417429875293,
+      "proportionCIHigh": 0.09294967923703087,
+      "variant": "nextcladePangoLineage:bq.1* & !nextcladepangolineage:bq.1.1*"
+    },
+    {
+      "date": "2022-09-28",
+      "proportion": 0.013812154696132596,
+      "proportionCILow": 0.0019105417429875293,
+      "proportionCIHigh": 0.09294967923703087,
+      "variant": "BA.5.2.6* (Nextclade)"
+    },
+    {
+      "date": "2022-09-28",
+      "proportion": 0,
+      "proportionCILow": 6.459096988428689e-18,
+      "proportionCIHigh": 0.06914602271240529,
+      "variant": "BA.2.75.2* (Nextclade)"
+    },
+    {
+      "date": "2022-09-28",
+      "proportion": 0.0027624309392265192,
+      "proportionCILow": 0.00009574162154007055,
+      "proportionCIHigh": 0.07419312074438784,
+      "variant": "BA.2.75.5* (Nextclade)"
+    },
+    {
+      "date": "2022-09-28",
+      "proportion": 0.0055248618784530384,
+      "proportionCILow": 0.00035933512381443425,
+      "proportionCIHigh": 0.07907236689563611,
+      "variant": "BM.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-09-29",
+      "proportion": 0.8932038834951456,
+      "proportionCILow": 0.768840733242011,
+      "proportionCIHigh": 0.9546099412949631,
+      "variant": "BA.5* (Nextclade)"
+    },
+    {
+      "date": "2022-09-29",
+      "proportion": 0.042071197411003236,
+      "proportionCILow": 0.011127061534685349,
+      "proportionCIHigh": 0.14633573314036097,
+      "variant": "BA.4* (Nextclade)"
+    },
+    {
+      "date": "2022-09-29",
+      "proportion": 0.055016181229773455,
+      "proportionCILow": 0.01694369961430219,
+      "proportionCIHigh": 0.16433640121834,
+      "variant": "BA.2.75* (Nextclade)"
+    },
+    {
+      "date": "2022-09-29",
+      "proportion": 0.042071197411003236,
+      "proportionCILow": 0.011127061534685349,
+      "proportionCIHigh": 0.14633573314036097,
+      "variant": "BQ.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-09-29",
+      "proportion": 0.012944983818770225,
+      "proportionCILow": 0.0015059140462986725,
+      "proportionCIHigh": 0.10236794177415698,
+      "variant": "nextcladePangoLineage:bq.1* & !nextcladepangolineage:bq.1.1*"
+    },
+    {
+      "date": "2022-09-29",
+      "proportion": 0.019417475728155338,
+      "proportionCILow": 0.003077539299287261,
+      "proportionCIHigh": 0.11270496959996633,
+      "variant": "BA.5.2.6* (Nextclade)"
+    },
+    {
+      "date": "2022-09-29",
+      "proportion": 0.0032362459546925564,
+      "proportionCILow": 0.00011216504250110135,
+      "proportionCIHigh": 0.08589871115975764,
+      "variant": "BA.2.75.2* (Nextclade)"
+    },
+    {
+      "date": "2022-09-29",
+      "proportion": 0.012944983818770225,
+      "proportionCILow": 0.0015059140462986725,
+      "proportionCIHigh": 0.10236794177415698,
+      "variant": "BA.2.75.5* (Nextclade)"
+    },
+    {
+      "date": "2022-09-29",
+      "proportion": 0.009708737864077669,
+      "proportionCILow": 0.000893715704052284,
+      "proportionCIHigh": 0.0970258135770044,
+      "variant": "BM.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-09-30",
+      "proportion": 0.8707224334600762,
+      "proportionCILow": 0.7285192691766917,
+      "proportionCIHigh": 0.9441491837021442,
+      "variant": "BA.5* (Nextclade)"
+    },
+    {
+      "date": "2022-09-30",
+      "proportion": 0.04942965779467681,
+      "proportionCILow": 0.01308834047334138,
+      "proportionCIHigh": 0.1693607706431506,
+      "variant": "BA.4* (Nextclade)"
+    },
+    {
+      "date": "2022-09-30",
+      "proportion": 0.06844106463878327,
+      "proportionCILow": 0.021774133314456677,
+      "proportionCIHigh": 0.19517079589838585,
+      "variant": "BA.2.75* (Nextclade)"
+    },
+    {
+      "date": "2022-09-30",
+      "proportion": 0.045627376425855515,
+      "proportionCILow": 0.011514226285126748,
+      "proportionCIHigh": 0.16403572121209511,
+      "variant": "BQ.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-09-30",
+      "proportion": 0.015209125475285171,
+      "proportionCILow": 0.0017696759040779783,
+      "proportionCIHigh": 0.11858696263898302,
+      "variant": "nextcladePangoLineage:bq.1* & !nextcladepangolineage:bq.1.1*"
+    },
+    {
+      "date": "2022-09-30",
+      "proportion": 0.022813688212927757,
+      "proportionCILow": 0.0036172385818977223,
+      "proportionCIHigh": 0.1305377271997035,
+      "variant": "BA.5.2.6* (Nextclade)"
+    },
+    {
+      "date": "2022-09-30",
+      "proportion": 0.0038022813688212928,
+      "proportionCILow": 0.0001317856756188394,
+      "proportionCIHigh": 0.09952736200963182,
+      "variant": "BA.2.75.2* (Nextclade)"
+    },
+    {
+      "date": "2022-09-30",
+      "proportion": 0.030418250950570342,
+      "proportionCILow": 0.005909750976368406,
+      "proportionCIHigh": 0.14204354204377304,
+      "variant": "BA.2.75.5* (Nextclade)"
+    },
+    {
+      "date": "2022-09-30",
+      "proportion": 0.0076045627376425855,
+      "proportionCILow": 0.0004946569387385462,
+      "proportionCIHigh": 0.10606365436578223,
+      "variant": "BM.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-10-01",
+      "proportion": 0.8457943925233644,
+      "proportionCILow": 0.6805081182171523,
+      "proportionCIHigh": 0.9338796526532109,
+      "variant": "BA.5* (Nextclade)"
+    },
+    {
+      "date": "2022-10-01",
+      "proportion": 0.04672897196261682,
+      "proportionCILow": 0.010535880983666925,
+      "proportionCIHigh": 0.18411798692950557,
+      "variant": "BA.4* (Nextclade)"
+    },
+    {
+      "date": "2022-10-01",
+      "proportion": 0.08878504672897196,
+      "proportionCILow": 0.0291511025143895,
+      "proportionCIHigh": 0.24022560239652982,
+      "variant": "BA.2.75* (Nextclade)"
+    },
+    {
+      "date": "2022-10-01",
+      "proportion": 0.06542056074766354,
+      "proportionCILow": 0.018128010740209644,
+      "proportionCIHigh": 0.2097360069497392,
+      "variant": "BQ.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-10-01",
+      "proportion": 0.014018691588785045,
+      "proportionCILow": 0.0012908853052862315,
+      "proportionCIHigh": 0.13524522049852758,
+      "variant": "nextcladePangoLineage:bq.1* & !nextcladepangolineage:bq.1.1*"
+    },
+    {
+      "date": "2022-10-01",
+      "proportion": 0.02336448598130841,
+      "proportionCILow": 0.0032351009385841742,
+      "proportionCIHigh": 0.14990607975361783,
+      "variant": "BA.5.2.6* (Nextclade)"
+    },
+    {
+      "date": "2022-10-01",
+      "proportion": 0.004672897196261682,
+      "proportionCILow": 0.00016196546160657154,
+      "proportionCIHigh": 0.11976906545381902,
+      "variant": "BA.2.75.2* (Nextclade)"
+    },
+    {
+      "date": "2022-10-01",
+      "proportion": 0.04205607476635514,
+      "proportionCILow": 0.008852299658132536,
+      "proportionCIHigh": 0.17749903081084586,
+      "variant": "BA.2.75.5* (Nextclade)"
+    },
+    {
+      "date": "2022-10-01",
+      "proportion": 0.009345794392523364,
+      "proportionCILow": 0.0006079800210898558,
+      "proportionCIHigh": 0.12762558833852986,
+      "variant": "BM.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-10-02",
+      "proportion": 0.8351063829787233,
+      "proportionCILow": 0.6553690533536936,
+      "proportionCIHigh": 0.9309768727141059,
+      "variant": "BA.5* (Nextclade)"
+    },
+    {
+      "date": "2022-10-02",
+      "proportion": 0.03723404255319149,
+      "proportionCILow": 0.006603246010316582,
+      "proportionCIHigh": 0.1836809513246268,
+      "variant": "BA.4* (Nextclade)"
+    },
+    {
+      "date": "2022-10-02",
+      "proportion": 0.10638297872340426,
+      "proportionCILow": 0.03596324191979785,
+      "proportionCIHigh": 0.27531297190532644,
+      "variant": "BA.2.75* (Nextclade)"
+    },
+    {
+      "date": "2022-10-02",
+      "proportion": 0.06914893617021277,
+      "proportionCILow": 0.018366870188352123,
+      "proportionCIHigh": 0.22775979629590548,
+      "variant": "BQ.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-10-02",
+      "proportion": 0.015957446808510637,
+      "proportionCILow": 0.0014696306693107594,
+      "proportionCIHigh": 0.15158625389942315,
+      "variant": "nextcladePangoLineage:bq.1* & !nextcladepangolineage:bq.1.1*"
+    },
+    {
+      "date": "2022-10-02",
+      "proportion": 0.02127659574468085,
+      "proportionCILow": 0.002477053051217849,
+      "proportionCIHigh": 0.15988590970906844,
+      "variant": "BA.5.2.6* (Nextclade)"
+    },
+    {
+      "date": "2022-10-02",
+      "proportion": 0.005319148936170213,
+      "proportionCILow": 0.00018436879470159188,
+      "proportionCIHigh": 0.13425735939092753,
+      "variant": "BA.2.75.2* (Nextclade)"
+    },
+    {
+      "date": "2022-10-02",
+      "proportion": 0.05319148936170213,
+      "proportionCILow": 0.01200423051016839,
+      "proportionCIHigh": 0.20620120139943213,
+      "variant": "BA.2.75.5* (Nextclade)"
+    },
+    {
+      "date": "2022-10-02",
+      "proportion": 0.010638297872340425,
+      "proportionCILow": 0.0006921135120623065,
+      "proportionCIHigh": 0.1430566928651192,
+      "variant": "BM.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-10-03",
+      "proportion": 0.7483870967741937,
+      "proportionCILow": 0.540824650349497,
+      "proportionCIHigh": 0.8825076412116526,
+      "variant": "BA.5* (Nextclade)"
+    },
+    {
+      "date": "2022-10-03",
+      "proportion": 0.04516129032258065,
+      "proportionCILow": 0.008017071306646438,
+      "proportionCIHigh": 0.21679003115930082,
+      "variant": "BA.4* (Nextclade)"
+    },
+    {
+      "date": "2022-10-03",
+      "proportion": 0.16129032258064518,
+      "proportionCILow": 0.061343514538925205,
+      "proportionCIHigh": 0.3613851787867802,
+      "variant": "BA.2.75* (Nextclade)"
+    },
+    {
+      "date": "2022-10-03",
+      "proportion": 0.07096774193548387,
+      "proportionCILow": 0.01704866464288695,
+      "proportionCIHigh": 0.2517410135696732,
+      "variant": "BQ.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-10-03",
+      "proportion": 0.025806451612903226,
+      "proportionCILow": 0.003005686286747394,
+      "proportionCIHigh": 0.18881448436924012,
+      "variant": "nextcladePangoLineage:bq.1* & !nextcladepangolineage:bq.1.1*"
+    },
+    {
+      "date": "2022-10-03",
+      "proportion": 0.01935483870967742,
+      "proportionCILow": 0.0017829849384627704,
+      "proportionCIHigh": 0.1790415417808715,
+      "variant": "BA.5.2.6* (Nextclade)"
+    },
+    {
+      "date": "2022-10-03",
+      "proportion": 0.0064516129032258064,
+      "proportionCILow": 0.00022362969899012347,
+      "proportionCIHigh": 0.1586096091470377,
+      "variant": "BA.2.75.2* (Nextclade)"
+    },
+    {
+      "date": "2022-10-03",
+      "proportion": 0.0967741935483871,
+      "proportionCILow": 0.028027600177452552,
+      "proportionCIHigh": 0.28474465378172054,
+      "variant": "BA.2.75.5* (Nextclade)"
+    },
+    {
+      "date": "2022-10-03",
+      "proportion": 0.012903225806451613,
+      "proportionCILow": 0.0008395754669667447,
+      "proportionCIHigh": 0.1689893073157143,
+      "variant": "BM.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-10-04",
+      "proportion": 0.7133333333333334,
+      "proportionCILow": 0.5016341593835656,
+      "proportionCIHigh": 0.8601721808164967,
+      "variant": "BA.5* (Nextclade)"
+    },
+    {
+      "date": "2022-10-04",
+      "proportion": 0.04666666666666667,
+      "proportionCILow": 0.008285875315960861,
+      "proportionCIHigh": 0.22287565175890703,
+      "variant": "BA.4* (Nextclade)"
+    },
+    {
+      "date": "2022-10-04",
+      "proportion": 0.18666666666666668,
+      "proportionCILow": 0.0750871164523218,
+      "proportionCIHigh": 0.39350982137883694,
+      "variant": "BA.2.75* (Nextclade)"
+    },
+    {
+      "date": "2022-10-04",
+      "proportion": 0.06000000000000001,
+      "proportionCILow": 0.012661017257702092,
+      "proportionCIHigh": 0.24111340607966975,
+      "variant": "BQ.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-10-04",
+      "proportion": 0.02666666666666667,
+      "proportionCILow": 0.00310612345487756,
+      "proportionCIHigh": 0.19413605922623453,
+      "variant": "nextcladePangoLineage:bq.1* & !nextcladepangolineage:bq.1.1*"
+    },
+    {
+      "date": "2022-10-04",
+      "proportion": 0.02,
+      "proportionCILow": 0.0018425091043777144,
+      "proportionCIHigh": 0.18409322544548243,
+      "variant": "BA.5.2.6* (Nextclade)"
+    },
+    {
+      "date": "2022-10-04",
+      "proportion": 0.006666666666666667,
+      "proportionCILow": 0.00023108563016503424,
+      "proportionCIHigh": 0.1630917526571912,
+      "variant": "BA.2.75.2* (Nextclade)"
+    },
+    {
+      "date": "2022-10-04",
+      "proportion": 0.1,
+      "proportionCILow": 0.028977453151801183,
+      "proportionCIHigh": 0.29263565897308225,
+      "variant": "BA.2.75.5* (Nextclade)"
+    },
+    {
+      "date": "2022-10-04",
+      "proportion": 0.02,
+      "proportionCILow": 0.0018425091043777144,
+      "proportionCIHigh": 0.18409322544548243,
+      "variant": "BM.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-10-05",
+      "proportion": 0.697841726618705,
+      "proportionCILow": 0.47813464873957745,
+      "proportionCIHigh": 0.8534099284802895,
+      "variant": "BA.5* (Nextclade)"
+    },
+    {
+      "date": "2022-10-05",
+      "proportion": 0.050359712230215826,
+      "proportionCILow": 0.008945749489257105,
+      "proportionCIHigh": 0.23754384773831796,
+      "variant": "BA.4* (Nextclade)"
+    },
+    {
+      "date": "2022-10-05",
+      "proportion": 0.19424460431654675,
+      "proportionCILow": 0.07699315381317218,
+      "proportionCIHigh": 0.4106197723015788,
+      "variant": "BA.2.75* (Nextclade)"
+    },
+    {
+      "date": "2022-10-05",
+      "proportion": 0.05755395683453237,
+      "proportionCILow": 0.011222224719364583,
+      "proportionCIHigh": 0.24732353895256928,
+      "variant": "BQ.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-10-05",
+      "proportion": 0.028776978417266185,
+      "proportionCILow": 0.003352587707677012,
+      "proportionCIHigh": 0.20696851018682164,
+      "variant": "nextcladePangoLineage:bq.1* & !nextcladepangolineage:bq.1.1*"
+    },
+    {
+      "date": "2022-10-05",
+      "proportion": 0.021582733812949638,
+      "proportionCILow": 0.0019885610579609973,
+      "proportionCIHigh": 0.19627637039217885,
+      "variant": "BA.5.2.6* (Nextclade)"
+    },
+    {
+      "date": "2022-10-05",
+      "proportion": 0.007194244604316546,
+      "proportionCILow": 0.00024937723905150554,
+      "proportionCIHigh": 0.17390322132237077,
+      "variant": "BA.2.75.2* (Nextclade)"
+    },
+    {
+      "date": "2022-10-05",
+      "proportion": 0.10071942446043165,
+      "proportionCILow": 0.02807027945985643,
+      "proportionCIHigh": 0.3028124828782302,
+      "variant": "BA.2.75.5* (Nextclade)"
+    },
+    {
+      "date": "2022-10-05",
+      "proportion": 0.021582733812949638,
+      "proportionCILow": 0.0019885610579609973,
+      "proportionCIHigh": 0.19627637039217885,
+      "variant": "BM.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-10-06",
+      "proportion": 0.69,
+      "proportionCILow": 0.43305559128954113,
+      "proportionCIHigh": 0.8664158934209502,
+      "variant": "BA.5* (Nextclade)"
+    },
+    {
+      "date": "2022-10-06",
+      "proportion": 0.049999999999999996,
+      "proportionCILow": 0.006942659435405457,
+      "proportionCIHigh": 0.2837827715134306,
+      "variant": "BA.4* (Nextclade)"
+    },
+    {
+      "date": "2022-10-06",
+      "proportion": 0.19,
+      "proportionCILow": 0.06352305885301154,
+      "proportionCIHigh": 0.4478655713561866,
+      "variant": "BA.2.75* (Nextclade)"
+    },
+    {
+      "date": "2022-10-06",
+      "proportion": 0.049999999999999996,
+      "proportionCILow": 0.006942659435405457,
+      "proportionCIHigh": 0.2837827715134306,
+      "variant": "BQ.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-10-06",
+      "proportion": 0.039999999999999994,
+      "proportionCILow": 0.004664957788321339,
+      "proportionCIHigh": 0.27029881607048883,
+      "variant": "nextcladePangoLineage:bq.1* & !nextcladepangolineage:bq.1.1*"
+    },
+    {
+      "date": "2022-10-06",
+      "proportion": 0.019999999999999997,
+      "proportionCILow": 0.0013018707310157166,
+      "proportionCIHigh": 0.24213858894774273,
+      "variant": "BA.5.2.6* (Nextclade)"
+    },
+    {
+      "date": "2022-10-06",
+      "proportion": 0,
+      "proportionCILow": 0,
+      "proportionCIHigh": 0.21191714549870674,
+      "variant": "BA.2.75.2* (Nextclade)"
+    },
+    {
+      "date": "2022-10-06",
+      "proportion": 0.10999999999999999,
+      "proportionCILow": 0.026583456193363164,
+      "proportionCIHigh": 0.35871191729562807,
+      "variant": "BA.2.75.5* (Nextclade)"
+    },
+    {
+      "date": "2022-10-06",
+      "proportion": 0.019999999999999997,
+      "proportionCILow": 0.0013018707310157166,
+      "proportionCIHigh": 0.24213858894774273,
+      "variant": "BM.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-10-07",
+      "proportion": 0.6849315068493151,
+      "proportionCILow": 0.3890359917943728,
+      "proportionCIHigh": 0.8812607632576016,
+      "variant": "BA.5* (Nextclade)"
+    },
+    {
+      "date": "2022-10-07",
+      "proportion": 0.0273972602739726,
+      "proportionCILow": 0.0017841408148179078,
+      "proportionCIHigh": 0.30745748516347,
+      "variant": "BA.4* (Nextclade)"
+    },
+    {
+      "date": "2022-10-07",
+      "proportion": 0.1917808219178082,
+      "proportionCILow": 0.05427544120010867,
+      "proportionCIHigh": 0.4952299670466009,
+      "variant": "BA.2.75* (Nextclade)"
+    },
+    {
+      "date": "2022-10-07",
+      "proportion": 0.0684931506849315,
+      "proportionCILow": 0.009529261363477844,
+      "proportionCIHigh": 0.3597783101819155,
+      "variant": "BQ.1.1* (Nextclade)"
+    },
+    {
+      "date": "2022-10-07",
+      "proportion": 0.0410958904109589,
+      "proportionCILow": 0.003792134983190935,
+      "proportionCIHigh": 0.32547147285079875,
+      "variant": "nextcladePangoLineage:bq.1* & !nextcladepangolineage:bq.1.1*"
+    },
+    {
+      "date": "2022-10-07",
+      "proportion": 0,
+      "proportionCILow": 0,
+      "proportionCIHigh": 0.26919766226688435,
+      "variant": "BA.5.2.6* (Nextclade)"
+    },
+    {
+      "date": "2022-10-07",
+      "proportion": 0,
+      "proportionCILow": 0,
+      "proportionCIHigh": 0.26919766226688435,
+      "variant": "BA.2.75.2* (Nextclade)"
+    },
+    {
+      "date": "2022-10-07",
+      "proportion": 0.0958904109589041,
+      "proportionCILow": 0.017132536305506468,
+      "proportionCIHigh": 0.3922189989512905,
+      "variant": "BA.2.75.5* (Nextclade)"
+    },
+    {
+      "date": "2022-10-07",
+      "proportion": 0.0273972602739726,
+      "proportionCILow": 0.0017841408148179078,
+      "proportionCIHigh": 0.30745748516347,
+      "variant": "BM.1.1* (Nextclade)"
+    }
+  ]
+}
