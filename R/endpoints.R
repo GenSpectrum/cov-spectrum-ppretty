@@ -1,5 +1,7 @@
 library(tidyverse)
 source("make_plots.R")
+source("plot_shared_elements.R")
+source("plot_helper_functions.R")
 
 
 # ----- Example request data -----
