@@ -1,0 +1,153 @@
+{
+  "config": {},
+  "metadata": {
+    "location": "Switzerland",
+    "variant": "BA.2.75* (Nextclade)"
+  },
+  "data": [
+    {
+      "date": "2022-09-15",
+      "estimatedCases": 50,
+      "estimatedCasesCILow": 13,
+      "estimatedCasesCIHigh": 179
+    },
+    {
+      "date": "2022-09-16",
+      "estimatedCases": 49,
+      "estimatedCasesCILow": 12,
+      "estimatedCasesCIHigh": 184
+    },
+    {
+      "date": "2022-09-17",
+      "estimatedCases": 44,
+      "estimatedCasesCILow": 11,
+      "estimatedCasesCIHigh": 175
+    },
+    {
+      "date": "2022-09-18",
+      "estimatedCases": 34,
+      "estimatedCasesCILow": 7,
+      "estimatedCasesCIHigh": 165
+    },
+    {
+      "date": "2022-09-19",
+      "estimatedCases": 44,
+      "estimatedCasesCILow": 10,
+      "estimatedCasesCIHigh": 185
+    },
+    {
+      "date": "2022-09-20",
+      "estimatedCases": 42,
+      "estimatedCasesCILow": 8,
+      "estimatedCasesCIHigh": 200
+    },
+    {
+      "date": "2022-09-21",
+      "estimatedCases": 43,
+      "estimatedCasesCILow": 8,
+      "estimatedCasesCIHigh": 205
+    },
+    {
+      "date": "2022-09-22",
+      "estimatedCases": 35,
+      "estimatedCasesCILow": 6,
+      "estimatedCasesCIHigh": 184
+    },
+    {
+      "date": "2022-09-23",
+      "estimatedCases": 28,
+      "estimatedCasesCILow": 4,
+      "estimatedCasesCIHigh": 166
+    },
+    {
+      "date": "2022-09-24",
+      "estimatedCases": 52,
+      "estimatedCasesCILow": 11,
+      "estimatedCasesCIHigh": 233
+    },
+    {
+      "date": "2022-09-25",
+      "estimatedCases": 46,
+      "estimatedCasesCILow": 9,
+      "estimatedCasesCIHigh": 222
+    },
+    {
+      "date": "2022-09-26",
+      "estimatedCases": 35,
+      "estimatedCasesCILow": 6,
+      "estimatedCasesCIHigh": 207
+    },
+    {
+      "date": "2022-09-27",
+      "estimatedCases": 52,
+      "estimatedCasesCILow": 11,
+      "estimatedCasesCIHigh": 231
+    },
+    {
+      "date": "2022-09-28",
+      "estimatedCases": 52,
+      "estimatedCasesCILow": 11,
+      "estimatedCasesCIHigh": 234
+    },
+    {
+      "date": "2022-09-29",
+      "estimatedCases": 60,
+      "estimatedCasesCILow": 13,
+      "estimatedCasesCIHigh": 266
+    },
+    {
+      "date": "2022-09-30",
+      "estimatedCases": 133,
+      "estimatedCasesCILow": 41,
+      "estimatedCasesCIHigh": 396
+    },
+    {
+      "date": "2022-10-01",
+      "estimatedCases": 246,
+      "estimatedCasesCILow": 78,
+      "estimatedCasesCIHigh": 701
+    },
+    {
+      "date": "2022-10-02",
+      "estimatedCases": 319,
+      "estimatedCasesCILow": 105,
+      "estimatedCasesCIHigh": 863
+    },
+    {
+      "date": "2022-10-03",
+      "estimatedCases": 382,
+      "estimatedCasesCILow": 129,
+      "estimatedCasesCIHigh": 989
+    },
+    {
+      "date": "2022-10-04",
+      "estimatedCases": 579,
+      "estimatedCasesCILow": 220,
+      "estimatedCasesCIHigh": 1298
+    },
+    {
+      "date": "2022-10-05",
+      "estimatedCases": 670,
+      "estimatedCasesCILow": 270,
+      "estimatedCasesCIHigh": 1413
+    },
+    {
+      "date": "2022-10-06",
+      "estimatedCases": 698,
+      "estimatedCasesCILow": 276,
+      "estimatedCasesCIHigh": 1475
+    },
+    {
+      "date": "2022-10-07",
+      "estimatedCases": 682,
+      "estimatedCasesCILow": 228,
+      "estimatedCasesCIHigh": 1608
+    },
+    {
+      "date": "2022-10-08",
+      "estimatedCases": 975,
+      "estimatedCasesCILow": 276,
+      "estimatedCasesCIHigh": 2518
+    }
+  ]
+}

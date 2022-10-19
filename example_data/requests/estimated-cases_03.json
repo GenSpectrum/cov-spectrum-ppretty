@@ -1,0 +1,1035 @@
+{
+  "config": {},
+  "metadata": {
+    "location": "World",
+    "variant": "[4-of: S:346, S:356, S:444, S:445, S:450, S:446, S:452, S:460, S:486, S:490, S:494, S:493Q]& ! (S:346- | S:356- | S:444- | S:445- | S:450- | S:446- | S:452- | S:486- | S:490- | S:494-) & !nextstrainClade:21K"
+  },
+  "data": [
+    {
+      "date": "2022-04-21",
+      "estimatedCases": 34,
+      "estimatedCasesCILow": 5,
+      "estimatedCasesCIHigh": 217
+    },
+    {
+      "date": "2022-04-22",
+      "estimatedCases": 60,
+      "estimatedCasesCILow": 14,
+      "estimatedCasesCIHigh": 252
+    },
+    {
+      "date": "2022-04-23",
+      "estimatedCases": 77,
+      "estimatedCasesCILow": 21,
+      "estimatedCasesCIHigh": 282
+    },
+    {
+      "date": "2022-04-24",
+      "estimatedCases": 71,
+      "estimatedCasesCILow": 19,
+      "estimatedCasesCIHigh": 269
+    },
+    {
+      "date": "2022-04-25",
+      "estimatedCases": 76,
+      "estimatedCasesCILow": 21,
+      "estimatedCasesCIHigh": 276
+    },
+    {
+      "date": "2022-04-26",
+      "estimatedCases": 85,
+      "estimatedCasesCILow": 25,
+      "estimatedCasesCIHigh": 289
+    },
+    {
+      "date": "2022-04-27",
+      "estimatedCases": 74,
+      "estimatedCasesCILow": 20,
+      "estimatedCasesCIHigh": 268
+    },
+    {
+      "date": "2022-04-28",
+      "estimatedCases": 79,
+      "estimatedCasesCILow": 22,
+      "estimatedCasesCIHigh": 277
+    },
+    {
+      "date": "2022-04-29",
+      "estimatedCases": 53,
+      "estimatedCasesCILow": 12,
+      "estimatedCasesCIHigh": 236
+    },
+    {
+      "date": "2022-04-30",
+      "estimatedCases": 86,
+      "estimatedCasesCILow": 25,
+      "estimatedCasesCIHigh": 292
+    },
+    {
+      "date": "2022-05-01",
+      "estimatedCases": 88,
+      "estimatedCasesCILow": 27,
+      "estimatedCasesCIHigh": 289
+    },
+    {
+      "date": "2022-05-02",
+      "estimatedCases": 89,
+      "estimatedCasesCILow": 28,
+      "estimatedCasesCIHigh": 284
+    },
+    {
+      "date": "2022-05-03",
+      "estimatedCases": 87,
+      "estimatedCasesCILow": 28,
+      "estimatedCasesCIHigh": 278
+    },
+    {
+      "date": "2022-05-04",
+      "estimatedCases": 91,
+      "estimatedCasesCILow": 29,
+      "estimatedCasesCIHigh": 281
+    },
+    {
+      "date": "2022-05-05",
+      "estimatedCases": 95,
+      "estimatedCasesCILow": 31,
+      "estimatedCasesCIHigh": 286
+    },
+    {
+      "date": "2022-05-06",
+      "estimatedCases": 129,
+      "estimatedCasesCILow": 48,
+      "estimatedCasesCIHigh": 342
+    },
+    {
+      "date": "2022-05-07",
+      "estimatedCases": 98,
+      "estimatedCasesCILow": 33,
+      "estimatedCasesCIHigh": 296
+    },
+    {
+      "date": "2022-05-08",
+      "estimatedCases": 125,
+      "estimatedCasesCILow": 46,
+      "estimatedCasesCIHigh": 337
+    },
+    {
+      "date": "2022-05-09",
+      "estimatedCases": 170,
+      "estimatedCasesCILow": 72,
+      "estimatedCasesCIHigh": 404
+    },
+    {
+      "date": "2022-05-10",
+      "estimatedCases": 194,
+      "estimatedCasesCILow": 87,
+      "estimatedCasesCIHigh": 436
+    },
+    {
+      "date": "2022-05-11",
+      "estimatedCases": 215,
+      "estimatedCasesCILow": 99,
+      "estimatedCasesCIHigh": 470
+    },
+    {
+      "date": "2022-05-12",
+      "estimatedCases": 211,
+      "estimatedCasesCILow": 95,
+      "estimatedCasesCIHigh": 468
+    },
+    {
+      "date": "2022-05-13",
+      "estimatedCases": 249,
+      "estimatedCasesCILow": 119,
+      "estimatedCasesCIHigh": 521
+    },
+    {
+      "date": "2022-05-14",
+      "estimatedCases": 275,
+      "estimatedCasesCILow": 136,
+      "estimatedCasesCIHigh": 556
+    },
+    {
+      "date": "2022-05-15",
+      "estimatedCases": 286,
+      "estimatedCasesCILow": 142,
+      "estimatedCasesCIHigh": 575
+    },
+    {
+      "date": "2022-05-16",
+      "estimatedCases": 301,
+      "estimatedCasesCILow": 151,
+      "estimatedCasesCIHigh": 596
+    },
+    {
+      "date": "2022-05-17",
+      "estimatedCases": 341,
+      "estimatedCasesCILow": 178,
+      "estimatedCasesCIHigh": 655
+    },
+    {
+      "date": "2022-05-18",
+      "estimatedCases": 372,
+      "estimatedCasesCILow": 199,
+      "estimatedCasesCIHigh": 694
+    },
+    {
+      "date": "2022-05-19",
+      "estimatedCases": 412,
+      "estimatedCasesCILow": 229,
+      "estimatedCasesCIHigh": 744
+    },
+    {
+      "date": "2022-05-20",
+      "estimatedCases": 509,
+      "estimatedCasesCILow": 299,
+      "estimatedCasesCIHigh": 865
+    },
+    {
+      "date": "2022-05-21",
+      "estimatedCases": 529,
+      "estimatedCasesCILow": 314,
+      "estimatedCasesCIHigh": 890
+    },
+    {
+      "date": "2022-05-22",
+      "estimatedCases": 647,
+      "estimatedCasesCILow": 407,
+      "estimatedCasesCIHigh": 1030
+    },
+    {
+      "date": "2022-05-23",
+      "estimatedCases": 674,
+      "estimatedCasesCILow": 427,
+      "estimatedCasesCIHigh": 1064
+    },
+    {
+      "date": "2022-05-24",
+      "estimatedCases": 710,
+      "estimatedCasesCILow": 456,
+      "estimatedCasesCIHigh": 1105
+    },
+    {
+      "date": "2022-05-25",
+      "estimatedCases": 762,
+      "estimatedCasesCILow": 498,
+      "estimatedCasesCIHigh": 1164
+    },
+    {
+      "date": "2022-05-26",
+      "estimatedCases": 775,
+      "estimatedCasesCILow": 510,
+      "estimatedCasesCIHigh": 1177
+    },
+    {
+      "date": "2022-05-27",
+      "estimatedCases": 717,
+      "estimatedCasesCILow": 463,
+      "estimatedCasesCIHigh": 1111
+    },
+    {
+      "date": "2022-05-28",
+      "estimatedCases": 911,
+      "estimatedCasesCILow": 619,
+      "estimatedCasesCIHigh": 1340
+    },
+    {
+      "date": "2022-05-29",
+      "estimatedCases": 986,
+      "estimatedCasesCILow": 680,
+      "estimatedCasesCIHigh": 1430
+    },
+    {
+      "date": "2022-05-30",
+      "estimatedCases": 1191,
+      "estimatedCasesCILow": 853,
+      "estimatedCasesCIHigh": 1662
+    },
+    {
+      "date": "2022-05-31",
+      "estimatedCases": 1294,
+      "estimatedCasesCILow": 941,
+      "estimatedCasesCIHigh": 1779
+    },
+    {
+      "date": "2022-06-01",
+      "estimatedCases": 1334,
+      "estimatedCasesCILow": 977,
+      "estimatedCasesCIHigh": 1820
+    },
+    {
+      "date": "2022-06-02",
+      "estimatedCases": 1471,
+      "estimatedCasesCILow": 1095,
+      "estimatedCasesCIHigh": 1977
+    },
+    {
+      "date": "2022-06-03",
+      "estimatedCases": 1871,
+      "estimatedCasesCILow": 1440,
+      "estimatedCasesCIHigh": 2430
+    },
+    {
+      "date": "2022-06-04",
+      "estimatedCases": 2053,
+      "estimatedCasesCILow": 1607,
+      "estimatedCasesCIHigh": 2623
+    },
+    {
+      "date": "2022-06-05",
+      "estimatedCases": 2190,
+      "estimatedCasesCILow": 1728,
+      "estimatedCasesCIHigh": 2775
+    },
+    {
+      "date": "2022-06-06",
+      "estimatedCases": 2436,
+      "estimatedCasesCILow": 1946,
+      "estimatedCasesCIHigh": 3048
+    },
+    {
+      "date": "2022-06-07",
+      "estimatedCases": 2644,
+      "estimatedCasesCILow": 2135,
+      "estimatedCasesCIHigh": 3274
+    },
+    {
+      "date": "2022-06-08",
+      "estimatedCases": 2832,
+      "estimatedCasesCILow": 2302,
+      "estimatedCasesCIHigh": 3482
+    },
+    {
+      "date": "2022-06-09",
+      "estimatedCases": 2897,
+      "estimatedCasesCILow": 2367,
+      "estimatedCasesCIHigh": 3544
+    },
+    {
+      "date": "2022-06-10",
+      "estimatedCases": 3283,
+      "estimatedCasesCILow": 2720,
+      "estimatedCasesCIHigh": 3962
+    },
+    {
+      "date": "2022-06-11",
+      "estimatedCases": 3834,
+      "estimatedCasesCILow": 3190,
+      "estimatedCasesCIHigh": 4606
+    },
+    {
+      "date": "2022-06-12",
+      "estimatedCases": 4175,
+      "estimatedCasesCILow": 3506,
+      "estimatedCasesCIHigh": 4971
+    },
+    {
+      "date": "2022-06-13",
+      "estimatedCases": 4213,
+      "estimatedCasesCILow": 3542,
+      "estimatedCasesCIHigh": 5009
+    },
+    {
+      "date": "2022-06-14",
+      "estimatedCases": 4469,
+      "estimatedCasesCILow": 3775,
+      "estimatedCasesCIHigh": 5289
+    },
+    {
+      "date": "2022-06-15",
+      "estimatedCases": 4524,
+      "estimatedCasesCILow": 3832,
+      "estimatedCasesCIHigh": 5340
+    },
+    {
+      "date": "2022-06-16",
+      "estimatedCases": 4713,
+      "estimatedCasesCILow": 3997,
+      "estimatedCasesCIHigh": 5555
+    },
+    {
+      "date": "2022-06-17",
+      "estimatedCases": 5104,
+      "estimatedCasesCILow": 4345,
+      "estimatedCasesCIHigh": 5995
+    },
+    {
+      "date": "2022-06-18",
+      "estimatedCases": 5524,
+      "estimatedCasesCILow": 4745,
+      "estimatedCasesCIHigh": 6430
+    },
+    {
+      "date": "2022-06-19",
+      "estimatedCases": 6038,
+      "estimatedCasesCILow": 5214,
+      "estimatedCasesCIHigh": 6990
+    },
+    {
+      "date": "2022-06-20",
+      "estimatedCases": 6987,
+      "estimatedCasesCILow": 6079,
+      "estimatedCasesCIHigh": 8029
+    },
+    {
+      "date": "2022-06-21",
+      "estimatedCases": 7769,
+      "estimatedCasesCILow": 6793,
+      "estimatedCasesCIHigh": 8883
+    },
+    {
+      "date": "2022-06-22",
+      "estimatedCases": 8123,
+      "estimatedCasesCILow": 7115,
+      "estimatedCasesCIHigh": 9271
+    },
+    {
+      "date": "2022-06-23",
+      "estimatedCases": 8506,
+      "estimatedCasesCILow": 7480,
+      "estimatedCasesCIHigh": 9670
+    },
+    {
+      "date": "2022-06-24",
+      "estimatedCases": 9788,
+      "estimatedCasesCILow": 8685,
+      "estimatedCasesCIHigh": 11028
+    },
+    {
+      "date": "2022-06-25",
+      "estimatedCases": 10739,
+      "estimatedCasesCILow": 9570,
+      "estimatedCasesCIHigh": 12049
+    },
+    {
+      "date": "2022-06-26",
+      "estimatedCases": 11550,
+      "estimatedCasesCILow": 10319,
+      "estimatedCasesCIHigh": 12925
+    },
+    {
+      "date": "2022-06-27",
+      "estimatedCases": 12715,
+      "estimatedCasesCILow": 11391,
+      "estimatedCasesCIHigh": 14190
+    },
+    {
+      "date": "2022-06-28",
+      "estimatedCases": 13604,
+      "estimatedCasesCILow": 12221,
+      "estimatedCasesCIHigh": 15141
+    },
+    {
+      "date": "2022-06-29",
+      "estimatedCases": 14168,
+      "estimatedCasesCILow": 12759,
+      "estimatedCasesCIHigh": 15729
+    },
+    {
+      "date": "2022-06-30",
+      "estimatedCases": 14760,
+      "estimatedCasesCILow": 13316,
+      "estimatedCasesCIHigh": 16358
+    },
+    {
+      "date": "2022-07-01",
+      "estimatedCases": 15097,
+      "estimatedCasesCILow": 13600,
+      "estimatedCasesCIHigh": 16756
+    },
+    {
+      "date": "2022-07-02",
+      "estimatedCases": 16572,
+      "estimatedCasesCILow": 14999,
+      "estimatedCasesCIHigh": 18305
+    },
+    {
+      "date": "2022-07-03",
+      "estimatedCases": 17881,
+      "estimatedCasesCILow": 16216,
+      "estimatedCasesCIHigh": 19712
+    },
+    {
+      "date": "2022-07-04",
+      "estimatedCases": 18249,
+      "estimatedCasesCILow": 16573,
+      "estimatedCasesCIHigh": 20090
+    },
+    {
+      "date": "2022-07-05",
+      "estimatedCases": 19032,
+      "estimatedCasesCILow": 17318,
+      "estimatedCasesCIHigh": 20911
+    },
+    {
+      "date": "2022-07-06",
+      "estimatedCases": 20079,
+      "estimatedCasesCILow": 18297,
+      "estimatedCasesCIHigh": 22030
+    },
+    {
+      "date": "2022-07-07",
+      "estimatedCases": 20873,
+      "estimatedCasesCILow": 19050,
+      "estimatedCasesCIHigh": 22867
+    },
+    {
+      "date": "2022-07-08",
+      "estimatedCases": 23503,
+      "estimatedCasesCILow": 21580,
+      "estimatedCasesCIHigh": 25592
+    },
+    {
+      "date": "2022-07-09",
+      "estimatedCases": 24246,
+      "estimatedCasesCILow": 22259,
+      "estimatedCasesCIHigh": 26406
+    },
+    {
+      "date": "2022-07-10",
+      "estimatedCases": 26069,
+      "estimatedCasesCILow": 23966,
+      "estimatedCasesCIHigh": 28351
+    },
+    {
+      "date": "2022-07-11",
+      "estimatedCases": 26764,
+      "estimatedCasesCILow": 24641,
+      "estimatedCasesCIHigh": 29065
+    },
+    {
+      "date": "2022-07-12",
+      "estimatedCases": 27578,
+      "estimatedCasesCILow": 25410,
+      "estimatedCasesCIHigh": 29925
+    },
+    {
+      "date": "2022-07-13",
+      "estimatedCases": 28603,
+      "estimatedCasesCILow": 26390,
+      "estimatedCasesCIHigh": 30996
+    },
+    {
+      "date": "2022-07-14",
+      "estimatedCases": 29479,
+      "estimatedCasesCILow": 27225,
+      "estimatedCasesCIHigh": 31913
+    },
+    {
+      "date": "2022-07-15",
+      "estimatedCases": 31866,
+      "estimatedCasesCILow": 29464,
+      "estimatedCasesCIHigh": 34458
+    },
+    {
+      "date": "2022-07-16",
+      "estimatedCases": 34346,
+      "estimatedCasesCILow": 31810,
+      "estimatedCasesCIHigh": 37077
+    },
+    {
+      "date": "2022-07-17",
+      "estimatedCases": 36609,
+      "estimatedCasesCILow": 33946,
+      "estimatedCasesCIHigh": 39472
+    },
+    {
+      "date": "2022-07-18",
+      "estimatedCases": 38146,
+      "estimatedCasesCILow": 35381,
+      "estimatedCasesCIHigh": 41119
+    },
+    {
+      "date": "2022-07-19",
+      "estimatedCases": 39968,
+      "estimatedCasesCILow": 37115,
+      "estimatedCasesCIHigh": 43031
+    },
+    {
+      "date": "2022-07-20",
+      "estimatedCases": 41553,
+      "estimatedCasesCILow": 38600,
+      "estimatedCasesCIHigh": 44723
+    },
+    {
+      "date": "2022-07-21",
+      "estimatedCases": 43397,
+      "estimatedCasesCILow": 40338,
+      "estimatedCasesCIHigh": 46677
+    },
+    {
+      "date": "2022-07-22",
+      "estimatedCases": 44254,
+      "estimatedCasesCILow": 41182,
+      "estimatedCasesCIHigh": 47545
+    },
+    {
+      "date": "2022-07-23",
+      "estimatedCases": 44882,
+      "estimatedCasesCILow": 41783,
+      "estimatedCasesCIHigh": 48200
+    },
+    {
+      "date": "2022-07-24",
+      "estimatedCases": 45181,
+      "estimatedCasesCILow": 42071,
+      "estimatedCasesCIHigh": 48510
+    },
+    {
+      "date": "2022-07-25",
+      "estimatedCases": 46149,
+      "estimatedCasesCILow": 42973,
+      "estimatedCasesCIHigh": 49548
+    },
+    {
+      "date": "2022-07-26",
+      "estimatedCases": 49028,
+      "estimatedCasesCILow": 45637,
+      "estimatedCasesCIHigh": 52657
+    },
+    {
+      "date": "2022-07-27",
+      "estimatedCases": 49108,
+      "estimatedCasesCILow": 45724,
+      "estimatedCasesCIHigh": 52729
+    },
+    {
+      "date": "2022-07-28",
+      "estimatedCases": 49445,
+      "estimatedCasesCILow": 46039,
+      "estimatedCasesCIHigh": 53088
+    },
+    {
+      "date": "2022-07-29",
+      "estimatedCases": 51281,
+      "estimatedCasesCILow": 47822,
+      "estimatedCasesCIHigh": 54976
+    },
+    {
+      "date": "2022-07-30",
+      "estimatedCases": 53663,
+      "estimatedCasesCILow": 50121,
+      "estimatedCasesCIHigh": 57441
+    },
+    {
+      "date": "2022-07-31",
+      "estimatedCases": 53734,
+      "estimatedCasesCILow": 50244,
+      "estimatedCasesCIHigh": 57451
+    },
+    {
+      "date": "2022-08-01",
+      "estimatedCases": 55618,
+      "estimatedCasesCILow": 52062,
+      "estimatedCasesCIHigh": 59400
+    },
+    {
+      "date": "2022-08-02",
+      "estimatedCases": 53506,
+      "estimatedCasesCILow": 50126,
+      "estimatedCasesCIHigh": 57098
+    },
+    {
+      "date": "2022-08-03",
+      "estimatedCases": 58295,
+      "estimatedCasesCILow": 54602,
+      "estimatedCasesCIHigh": 62220
+    },
+    {
+      "date": "2022-08-04",
+      "estimatedCases": 58800,
+      "estimatedCasesCILow": 55071,
+      "estimatedCasesCIHigh": 62763
+    },
+    {
+      "date": "2022-08-05",
+      "estimatedCases": 61747,
+      "estimatedCasesCILow": 57861,
+      "estimatedCasesCIHigh": 65876
+    },
+    {
+      "date": "2022-08-06",
+      "estimatedCases": 62001,
+      "estimatedCasesCILow": 58069,
+      "estimatedCasesCIHigh": 66178
+    },
+    {
+      "date": "2022-08-07",
+      "estimatedCases": 61982,
+      "estimatedCasesCILow": 58054,
+      "estimatedCasesCIHigh": 66154
+    },
+    {
+      "date": "2022-08-08",
+      "estimatedCases": 64187,
+      "estimatedCasesCILow": 60186,
+      "estimatedCasesCIHigh": 68433
+    },
+    {
+      "date": "2022-08-09",
+      "estimatedCases": 65044,
+      "estimatedCasesCILow": 61044,
+      "estimatedCasesCIHigh": 69284
+    },
+    {
+      "date": "2022-08-10",
+      "estimatedCases": 62252,
+      "estimatedCasesCILow": 58473,
+      "estimatedCasesCIHigh": 66255
+    },
+    {
+      "date": "2022-08-11",
+      "estimatedCases": 62898,
+      "estimatedCasesCILow": 59115,
+      "estimatedCasesCIHigh": 66902
+    },
+    {
+      "date": "2022-08-12",
+      "estimatedCases": 64572,
+      "estimatedCasesCILow": 60655,
+      "estimatedCasesCIHigh": 68719
+    },
+    {
+      "date": "2022-08-13",
+      "estimatedCases": 67192,
+      "estimatedCasesCILow": 63233,
+      "estimatedCasesCIHigh": 71375
+    },
+    {
+      "date": "2022-08-14",
+      "estimatedCases": 69343,
+      "estimatedCasesCILow": 65327,
+      "estimatedCasesCIHigh": 73583
+    },
+    {
+      "date": "2022-08-15",
+      "estimatedCases": 69894,
+      "estimatedCasesCILow": 65871,
+      "estimatedCasesCIHigh": 74138
+    },
+    {
+      "date": "2022-08-16",
+      "estimatedCases": 71617,
+      "estimatedCasesCILow": 67522,
+      "estimatedCasesCIHigh": 75936
+    },
+    {
+      "date": "2022-08-17",
+      "estimatedCases": 72098,
+      "estimatedCasesCILow": 67997,
+      "estimatedCasesCIHigh": 76422
+    },
+    {
+      "date": "2022-08-18",
+      "estimatedCases": 73356,
+      "estimatedCasesCILow": 69208,
+      "estimatedCasesCIHigh": 77727
+    },
+    {
+      "date": "2022-08-19",
+      "estimatedCases": 73887,
+      "estimatedCasesCILow": 69839,
+      "estimatedCasesCIHigh": 78145
+    },
+    {
+      "date": "2022-08-20",
+      "estimatedCases": 73400,
+      "estimatedCasesCILow": 69352,
+      "estimatedCasesCIHigh": 77656
+    },
+    {
+      "date": "2022-08-21",
+      "estimatedCases": 72865,
+      "estimatedCasesCILow": 68842,
+      "estimatedCasesCIHigh": 77097
+    },
+    {
+      "date": "2022-08-22",
+      "estimatedCases": 73719,
+      "estimatedCasesCILow": 69634,
+      "estimatedCasesCIHigh": 78015
+    },
+    {
+      "date": "2022-08-23",
+      "estimatedCases": 75557,
+      "estimatedCasesCILow": 71429,
+      "estimatedCasesCIHigh": 79894
+    },
+    {
+      "date": "2022-08-24",
+      "estimatedCases": 75907,
+      "estimatedCasesCILow": 71829,
+      "estimatedCasesCIHigh": 80188
+    },
+    {
+      "date": "2022-08-25",
+      "estimatedCases": 76456,
+      "estimatedCasesCILow": 72384,
+      "estimatedCasesCIHigh": 80728
+    },
+    {
+      "date": "2022-08-26",
+      "estimatedCases": 78357,
+      "estimatedCasesCILow": 74259,
+      "estimatedCasesCIHigh": 82649
+    },
+    {
+      "date": "2022-08-27",
+      "estimatedCases": 78074,
+      "estimatedCasesCILow": 74049,
+      "estimatedCasesCIHigh": 82288
+    },
+    {
+      "date": "2022-08-28",
+      "estimatedCases": 80216,
+      "estimatedCasesCILow": 76136,
+      "estimatedCasesCIHigh": 84484
+    },
+    {
+      "date": "2022-08-29",
+      "estimatedCases": 78004,
+      "estimatedCasesCILow": 74082,
+      "estimatedCasesCIHigh": 82102
+    },
+    {
+      "date": "2022-08-30",
+      "estimatedCases": 78250,
+      "estimatedCasesCILow": 74306,
+      "estimatedCasesCIHigh": 82370
+    },
+    {
+      "date": "2022-08-31",
+      "estimatedCases": 78465,
+      "estimatedCasesCILow": 74525,
+      "estimatedCasesCIHigh": 82581
+    },
+    {
+      "date": "2022-09-01",
+      "estimatedCases": 79806,
+      "estimatedCasesCILow": 75854,
+      "estimatedCasesCIHigh": 83930
+    },
+    {
+      "date": "2022-09-02",
+      "estimatedCases": 80520,
+      "estimatedCasesCILow": 76471,
+      "estimatedCasesCIHigh": 84746
+    },
+    {
+      "date": "2022-09-03",
+      "estimatedCases": 84306,
+      "estimatedCasesCILow": 80226,
+      "estimatedCasesCIHigh": 88557
+    },
+    {
+      "date": "2022-09-04",
+      "estimatedCases": 82479,
+      "estimatedCasesCILow": 78549,
+      "estimatedCasesCIHigh": 86569
+    },
+    {
+      "date": "2022-09-05",
+      "estimatedCases": 83737,
+      "estimatedCasesCILow": 79786,
+      "estimatedCasesCIHigh": 87845
+    },
+    {
+      "date": "2022-09-06",
+      "estimatedCases": 83296,
+      "estimatedCasesCILow": 79391,
+      "estimatedCasesCIHigh": 87354
+    },
+    {
+      "date": "2022-09-07",
+      "estimatedCases": 83975,
+      "estimatedCasesCILow": 80089,
+      "estimatedCasesCIHigh": 88011
+    },
+    {
+      "date": "2022-09-08",
+      "estimatedCases": 84929,
+      "estimatedCasesCILow": 81016,
+      "estimatedCasesCIHigh": 88990
+    },
+    {
+      "date": "2022-09-09",
+      "estimatedCases": 90392,
+      "estimatedCasesCILow": 86455,
+      "estimatedCasesCIHigh": 94467
+    },
+    {
+      "date": "2022-09-10",
+      "estimatedCases": 91257,
+      "estimatedCasesCILow": 87319,
+      "estimatedCasesCIHigh": 95331
+    },
+    {
+      "date": "2022-09-11",
+      "estimatedCases": 96343,
+      "estimatedCasesCILow": 92201,
+      "estimatedCasesCIHigh": 100625
+    },
+    {
+      "date": "2022-09-12",
+      "estimatedCases": 99730,
+      "estimatedCasesCILow": 95515,
+      "estimatedCasesCIHigh": 104084
+    },
+    {
+      "date": "2022-09-13",
+      "estimatedCases": 100713,
+      "estimatedCasesCILow": 96561,
+      "estimatedCasesCIHigh": 104997
+    },
+    {
+      "date": "2022-09-14",
+      "estimatedCases": 101652,
+      "estimatedCasesCILow": 97451,
+      "estimatedCasesCIHigh": 105984
+    },
+    {
+      "date": "2022-09-15",
+      "estimatedCases": 100603,
+      "estimatedCasesCILow": 96458,
+      "estimatedCasesCIHigh": 104877
+    },
+    {
+      "date": "2022-09-16",
+      "estimatedCases": 102693,
+      "estimatedCasesCILow": 98474,
+      "estimatedCasesCIHigh": 107042
+    },
+    {
+      "date": "2022-09-17",
+      "estimatedCases": 105373,
+      "estimatedCasesCILow": 101040,
+      "estimatedCasesCIHigh": 109836
+    },
+    {
+      "date": "2022-09-18",
+      "estimatedCases": 102746,
+      "estimatedCasesCILow": 98582,
+      "estimatedCasesCIHigh": 107031
+    },
+    {
+      "date": "2022-09-19",
+      "estimatedCases": 105565,
+      "estimatedCasesCILow": 101278,
+      "estimatedCasesCIHigh": 109976
+    },
+    {
+      "date": "2022-09-20",
+      "estimatedCases": 109224,
+      "estimatedCasesCILow": 104732,
+      "estimatedCasesCIHigh": 113846
+    },
+    {
+      "date": "2022-09-21",
+      "estimatedCases": 109315,
+      "estimatedCasesCILow": 104783,
+      "estimatedCasesCIHigh": 113979
+    },
+    {
+      "date": "2022-09-22",
+      "estimatedCases": 110258,
+      "estimatedCasesCILow": 105673,
+      "estimatedCasesCIHigh": 114975
+    },
+    {
+      "date": "2022-09-23",
+      "estimatedCases": 117956,
+      "estimatedCasesCILow": 113119,
+      "estimatedCasesCIHigh": 122924
+    },
+    {
+      "date": "2022-09-24",
+      "estimatedCases": 126437,
+      "estimatedCasesCILow": 121243,
+      "estimatedCasesCIHigh": 131766
+    },
+    {
+      "date": "2022-09-25",
+      "estimatedCases": 131048,
+      "estimatedCasesCILow": 125520,
+      "estimatedCasesCIHigh": 136719
+    },
+    {
+      "date": "2022-09-26",
+      "estimatedCases": 137262,
+      "estimatedCasesCILow": 131326,
+      "estimatedCasesCIHigh": 143352
+    },
+    {
+      "date": "2022-09-27",
+      "estimatedCases": 140006,
+      "estimatedCasesCILow": 133821,
+      "estimatedCasesCIHigh": 146346
+    },
+    {
+      "date": "2022-09-28",
+      "estimatedCases": 142666,
+      "estimatedCasesCILow": 136309,
+      "estimatedCasesCIHigh": 149181
+    },
+    {
+      "date": "2022-09-29",
+      "estimatedCases": 146344,
+      "estimatedCasesCILow": 139684,
+      "estimatedCasesCIHigh": 153164
+    },
+    {
+      "date": "2022-09-30",
+      "estimatedCases": 148677,
+      "estimatedCasesCILow": 141419,
+      "estimatedCasesCIHigh": 156106
+    },
+    {
+      "date": "2022-10-01",
+      "estimatedCases": 156379,
+      "estimatedCasesCILow": 148460,
+      "estimatedCasesCIHigh": 164478
+    },
+    {
+      "date": "2022-10-02",
+      "estimatedCases": 166100,
+      "estimatedCasesCILow": 157502,
+      "estimatedCasesCIHigh": 174880
+    },
+    {
+      "date": "2022-10-03",
+      "estimatedCases": 173542,
+      "estimatedCasesCILow": 164396,
+      "estimatedCasesCIHigh": 182866
+    },
+    {
+      "date": "2022-10-04",
+      "estimatedCases": 184934,
+      "estimatedCasesCILow": 175054,
+      "estimatedCasesCIHigh": 194985
+    },
+    {
+      "date": "2022-10-05",
+      "estimatedCases": 187913,
+      "estimatedCasesCILow": 177603,
+      "estimatedCasesCIHigh": 198390
+    },
+    {
+      "date": "2022-10-06",
+      "estimatedCases": 193825,
+      "estimatedCasesCILow": 183060,
+      "estimatedCasesCIHigh": 204745
+    },
+    {
+      "date": "2022-10-07",
+      "estimatedCases": 214738,
+      "estimatedCasesCILow": 200808,
+      "estimatedCasesCIHigh": 228846
+    },
+    {
+      "date": "2022-10-08",
+      "estimatedCases": 232724,
+      "estimatedCasesCILow": 214715,
+      "estimatedCasesCIHigh": 250818
+    }
+  ]
+}
