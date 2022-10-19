@@ -1,5 +1,8 @@
 {
-  "config": {},
+  "config": {
+    "plotName": "sequences-over-time_country-comparison",
+    "plotType": "line"
+  },
   "metadata": {
     "variant": "BA.2.75* (Nextclade)"
   },

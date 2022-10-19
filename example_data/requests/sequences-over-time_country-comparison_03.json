@@ -1,5 +1,8 @@
 {
-  "config": {},
+  "config": {
+    "plotName": "sequences-over-time_country-comparison",
+    "plotType": "line"
+  },
   "metadata": {
     "location": "World",
     "variant": "[4-of: S:346, S:356, S:444, S:445, S:450, S:446, S:452, S:460, S:486, S:490, S:494, S:493Q]& ! (S:346- | S:356- | S:444- | S:445- | S:450- | S:446- | S:452- | S:486- | S:490- | S:494-) & !nextstrainClade:21K"

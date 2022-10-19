@@ -1,5 +1,8 @@
 {
-  "config": {},
+  "config": {
+    "plotName": "sequences-over-time_country-comparison",
+    "plotType": "line"
+  },
   "metadata": {
     "variant": "S:H69-, S:V70-"
   },

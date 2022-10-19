@@ -1,5 +1,8 @@
 {
-  "config": {},
+  "config": {
+    "plotName": "sequences-over-time_variant-comparison",
+    "plotType": "line"
+  },
   "metadata": {
     "location": "World"
   },
