@@ -1,10 +1,10 @@
 # ----- Requirements -----
 
 library(tidyverse)
-source("transform_data.R")
-source("make_plot.R")
-source("plot_shared_elements.R")
-source("plot_helper_functions.R")
+# source("R/transform_data.R")  # TODO: the functions in these scripts should all be exposed in the package
+# source("R/make_plot.R")
+# source("R/plot_shared_elements.R")
+# source("R/plot_helper_functions.R")
 
 
 # ----- Example request data -----

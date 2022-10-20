@@ -1,0 +1,21 @@
+Package: ppretty
+Title: Ppretty makes pretty plots for cov-spectrum.org
+Version: 1.0
+Authors@R: 
+    person("Sarah", "Nadeau", , role = c("aut", "cre"))
+    person("Chaoran", "Chen", , role = c("aut", "cre"))
+Description: Ppretty makes pretty plots for cov-spectrum.org. These plots are for downloading and do not match the same style as the plots shown in the browser.
+License: `use_gpl3_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+Imports:
+  tidyverse,
+  plumber,
+  lubridate,
+  ggplot2,
+  jsonlite,
+  RColorBrewer
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3

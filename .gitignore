@@ -1,3 +1,4 @@
 # Editors
 .idea/
 *.Rproj*
+.Rproj.user
