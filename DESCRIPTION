@@ -1,9 +1,7 @@
 Package: ppretty
 Title: Ppretty makes pretty plots for cov-spectrum.org
 Version: 1.0
-Authors@R: 
-    person("Sarah", "Nadeau", , role = c("aut", "cre"))
-    person("Chaoran", "Chen", , role = c("aut", "cre"))
+Maintainer: Chaoran Chen <chaoran.chen@bsse.ethz.ch>
 Description: Ppretty makes pretty plots for cov-spectrum.org. These plots are for downloading and do not match the same style as the plots shown in the browser.
 License: `use_gpl3_license()`
 Encoding: UTF-8
