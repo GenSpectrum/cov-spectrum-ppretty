@@ -1,5 +1,8 @@
+# ----- Requirements -----
+
 library(tidyverse)
-source("make_plots.R")
+source("transform_data.R")
+source("make_plot.R")
 source("plot_shared_elements.R")
 source("plot_helper_functions.R")
 
@@ -42,19 +45,4 @@ function(config = config_ex, data = plot_data_ex) {
 
   p <- make_plot(config = config, data = data_transformed)
   return(print(p))
-}
-
-
-# ----- Helper functions to clean and transform the input data -----
-
-transformData <- function(data) {
-  # Use a tibble
-  d <- tibble(data)
-
-  # If there is a date column, change the column type
-  if ("date" %in% names(d)) {
-    d <- d %>% mutate(date = as.Date(date))
-  }
-
-  return(d)
 }
