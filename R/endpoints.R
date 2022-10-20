@@ -7,15 +7,15 @@ source("plot_helper_functions.R")
 # ----- Example request data -----
 
 config_ex <- jsonlite::fromJSON('{
-    "aspectRatio": 1.5,
-    "backgroundTransparent": true
+    "plotName": "sequences-over-time",
+    "plotType": "line"
 }')
 
 plot_data_ex <- jsonlite::fromJSON('[
-    {"date": "2021-01-01", "count": 3},
-    {"date": "2021-01-02", "count": 5},
-    {"date": "2021-01-03", "count": 7},
-    {"date": "2021-01-04", "count": 11}
+    {"date": "2022-09-22", "proportion": 0.0177, "proportionCILow": 0.0031, "proportionCIHigh": 0.0938},
+    {"date": "2022-09-23", "proportion": 0.0142, "proportionCILow": 0.0023, "proportionCIHigh": 0.0844},
+    {"date": "2022-09-24", "proportion": 0.0216, "proportionCILow": 0.0045, "proportionCIHigh": 0.0968},
+    {"date": "2022-09-25", "proportion": 0.019, "proportionCILow": 0.0037, "proportionCIHigh": 0.0923}
 ]')
 
 
