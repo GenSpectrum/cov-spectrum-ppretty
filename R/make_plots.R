@@ -8,32 +8,30 @@ library(ggplot2)
 #' @param data Data to plot
 #' @return A ggplot object
 make_plot <- function(config, data) {
-  # TODO: implement a config entry that actually details what type of plot
-  plot <- plot_sequences_over_time(config = config, sequences_over_time_data = data)
+  if (config$plotName %in% c("sequences-over-time", "sequences-over-time_collection")) {
+    plot <- plot_sequences_over_time(config = config, data = data)
+  } else if (config$plotName == "sequences-over-time_country-comparison") {
+    plot <- plot_sequences_over_time_country_comparison(config = config, data = data)
+  } else {
+    stop(paste("Plot name", config$plotName, "is unknown"))
+  }
   # TODO: apply config options like aspect ratio, transparent background
   return(plot)
 }
 
 #' Plot sequences over time
 #' @param config Configuration information
-#' @param sequences_over_time_data
+#' @param data
 #' @return A ggplot object
-plot_sequences_over_time <- function(config, sequences_over_time_data) {
-  date_scale <- get_date_scale(sequences_over_time_data)
-
-  if (config$plotType == "line") {
-    geom_bar_or_line <- geom_line
-    geom_errbar_or_ribbon <- geom_ribbon
-  } else if (config$plotType == "bar") {
-    geom_bar_or_line <- geom_bar
-    geom_errbar_or_ribbon <- geom_errorbar
-  }
+plot_sequences_over_time <- function(config, data) {
+  date_scale <- get_date_scale(data)
+  bar_line_specs <- get_bar_vs_line_specs(config$plotType)
 
   plot <- ggplot(
-    data = sequences_over_time_data,
+    data = data,
     aes(x = as.Date(date), y = proportion)
-  ) + # TODO: is count a standard column name?
-    geom_bar_or_line() +
+  ) +
+    bar_line_specs$geom_bar_or_line(alpha = bar_line_specs$alpha_estimate) +
     date_scale +
     labs(
       x = element_blank(),
@@ -45,11 +43,38 @@ plot_sequences_over_time <- function(config, sequences_over_time_data) {
   # Add uncertainty bounds if present in data
   if ("proportionCILow" %in% colnames(data)) {
     plot <- plot +
-      geom_errbar_or_ribbon(
+      bar_line_specs$geom_errbar_or_ribbon(
         aes(ymin = proportionCILow, ymax = proportionCIHigh),
-        alpha = 0.5
+        alpha = bar_line_specs$alpha_uncertainty
       )
   }
+
+  return(plot)
+}
+
+#' Plot sequences over time with country comparison
+#' @param config Configuration information
+#' @param data
+#' @return A ggplot object
+plot_sequences_over_time_country_comparison <- function(config, data) {
+  date_scale <- get_date_scale(data)
+  bar_line_specs <- get_bar_vs_line_specs("line")  # enforce that country comparison always a line plot
+  color_scale <- get_color_scale(locations = unique(data$location))
+
+  plot <- ggplot(
+    data = data,
+    aes(x = as.Date(date), y = proportion, color = location)
+  ) +
+    bar_line_specs$geom_bar_or_line(alpha = bar_line_specs$alpha_estimate) +
+    date_scale +
+    color_scale +
+    labs(
+      x = element_blank(),
+      y = "Proportion of all samples",
+      title = "Sequences over time"
+    ) + # TODO: add variant name to title?
+    shared_theme +
+    theme(legend.title = element_blank())
 
   return(plot)
 }

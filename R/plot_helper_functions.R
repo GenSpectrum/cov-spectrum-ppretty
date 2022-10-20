@@ -2,6 +2,7 @@
 
 library(lubridate)
 library(ggplot2)
+library(RColorBrewer)
 
 #' Get an appropriate date scale, depending on the date range of the data
 #' @param data The data to plot
@@ -31,3 +32,43 @@ get_date_scale <- function(data, date_colname = "date", max_breaks = 10) {
   scale <- scale_x_date(date_breaks = break_options[i], date_labels = break_labels[i])
   return(scale)
 }
+
+#' Get the appropriate geometry and aesthetic specifications for the plot type
+#' @param plot_type One of "line" or "bar"
+#' @return A list of geometry (`geom_` functions) and aesthetic specifications
+get_bar_vs_line_specs <- function(plot_type) {
+  if (plot_type == "line") {
+    bar_line_specs <- list(
+      "geom_bar_or_line" = geom_line,
+      "geom_errbar_or_ribbon" = geom_ribbon,
+      "alpha_estimate" = 1,
+      "alpha_uncertainty" = 0.5
+    )
+  } else if (plot_type == "bar") {
+    bar_line_specs <- list(
+      "geom_bar_or_line" = geom_col,
+      "geom_errbar_or_ribbon" = geom_errorbar,
+      "alpha_estimate" = 0.5,
+      "alpha_uncertainty" = 1
+    )
+  }
+  return(bar_line_specs)
+}
+
+#' Get a diverging color scale that will always be the same for the same set of locations
+#' @param locations List of unique locations
+#' @return A color scale of the type scale_color_manual()
+get_color_scale <- function(locations) {
+  n_locations <- length(locations)
+  if (n_locations == 0) {
+    error("No locations specified for color scale")
+  } else if (n_locations <= 8) {
+    colors <- RColorBrewer::brewer.pal(n = n_locations, name = "Dark2")
+  } else {
+    colors <- terrain.colors(n = n_locations)
+  }
+  names(colors) <- sort(locations)
+  color_scale <- scale_color_manual(values = colors)
+  return(color_scale)
+}
+
