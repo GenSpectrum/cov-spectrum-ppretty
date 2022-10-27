@@ -1,4 +1,5 @@
 # Editors
+.Rhistory 
 .idea/
 *.Rproj*
 .Rproj.user

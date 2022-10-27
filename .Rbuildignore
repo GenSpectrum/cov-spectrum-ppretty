@@ -1,2 +1,6 @@
 ^ppretty\.Rproj$
 ^\.Rproj\.user$
+^inst/run_app_production\.R$
+^Dockerfile$
+^\.github$
+^\.gitignore$
