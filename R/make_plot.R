@@ -7,6 +7,7 @@ library(ggplot2)
 #' @param data Data to plot
 #' @return A ggplot object
 make_plot <- function(config, data) {
+  # Make the correct type of plot
   if (config$plotName == "estimated-cases") {
     plot <- plot_cases_over_time(config = config, data = data)
   } else if (config$plotName %in% c("sequences-over-time", "sequences-over-time_collection")) {
@@ -20,7 +21,10 @@ make_plot <- function(config, data) {
   } else {
     stop(paste("Plot name", config$plotName, "is unknown"))
   }
-  # TODO: apply config options like aspect ratio, transparent background
+
+  # Add acknowledgments footer to all plots
+  plot <- plot + labs(caption = footnote)
+
   return(plot)
 }
 
