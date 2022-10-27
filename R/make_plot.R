@@ -75,6 +75,11 @@ plot_sequences_over_time <- function(config, data) {
     ) + # TODO: add variant name to title?
     shared_theme
 
+  # If variant name column present (as for collection data), facet by it
+  if ("name" %in% colnames(data)) {
+    plot <- plot + facet_wrap(. ~ name)
+  }
+
   return(plot)
 }
 
