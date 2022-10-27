@@ -1,5 +1,4 @@
 # This script is for making different cov-spectrum plots
-# Test with: test_file(path = "tests/testthat/test-make_plot.R")
 
 library(ggplot2)
 

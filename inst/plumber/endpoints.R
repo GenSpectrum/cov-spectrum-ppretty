@@ -46,3 +46,18 @@ function(config = config_ex, data = plot_data_ex) {
   p <- make_plot(config = config, data = data_transformed)
   return(print(p))
 }
+
+#* Save a plot to a file
+#* @post /save
+#* @param config:object
+#* @param data:object
+#* @serializer json
+function(config = config_ex, data = plot_data_ex) {
+
+  data_transformed <- transformData(data)
+
+  p <- make_plot(config = config, data = data_transformed)
+  request_hash <- get_request_hash(config = config, data = data)
+  path <- save_plot(plot = p, filename = request_hash)
+  return(path)
+}

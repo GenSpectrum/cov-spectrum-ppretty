@@ -1,9 +1,3 @@
-# This sourcing messiness is here because the code is not structured as an R package yet we use testthat
-# TODO: now the functions should be exposed by package
-# source(test_path("../../R/make_plot.R"))
-# source(test_path("../../R/plot_shared_elements.R"))
-# source(test_path("../../R/plot_helper_functions.R"))
-
 library("tidyverse")
 
 test_that("estimated cases lineplot 01 works", {
