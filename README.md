@@ -4,8 +4,8 @@ An API to make pretty plots for cov-spectrum.org.
 
 The canonical usage is as follows:  
 
-* the CoV-Spectrum website sends a request to the `plot` endpoint that contains configuration information and data to plot in JSON format  
-* the API returns a plot of the data in XX format.
+* the CoV-Spectrum website sends a request to the `save` endpoint that contains configuration information and data to plot in JSON format  
+* the API returns the full filepath to where it saved plot(s) of the data. Plot files are named with the sha-256 hash of the request.
 
 The repository structure is modeled on https://github.com/sol-eng/plumbpkg.
 
