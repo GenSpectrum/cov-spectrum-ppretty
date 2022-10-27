@@ -40,9 +40,14 @@ plot_cases_over_time <- function(config, data) {
     data = data,
     aes(x = as.Date(date), y = estimatedCases)
   ) +
-    bar_line_specs$geom_bar_or_line(alpha = bar_line_specs$alpha_estimate) +
+    bar_line_specs$geom_bar_or_line(
+      alpha = bar_line_specs$alpha_estimate,
+      size = line_bar_size,
+      color = diverging_colors[1],
+      fill = diverging_colors[1]
+    ) +
     date_scale +
-    get_uncertainty_geom(data, bar_line_specs) +
+    get_uncertainty_geom(data, bar_line_specs, fill_color = diverging_colors[1]) +
     labs(
       x = element_blank(),
       y = "Estimated absolute number of cases",
@@ -65,9 +70,14 @@ plot_sequences_over_time <- function(config, data) {
     data = data,
     aes(x = as.Date(date), y = proportion)
   ) +
-    bar_line_specs$geom_bar_or_line(alpha = bar_line_specs$alpha_estimate) +
+    bar_line_specs$geom_bar_or_line(
+      alpha = bar_line_specs$alpha_estimate,
+      size = line_bar_size,
+      color = diverging_colors[1],
+      fill = diverging_colors[1]
+  ) +
     date_scale +
-    get_uncertainty_geom(data, bar_line_specs) +
+    get_uncertainty_geom(data, bar_line_specs, fill_color = diverging_colors[1]) +
     labs(
       x = element_blank(),
       y = "Proportion of all samples",
@@ -98,7 +108,7 @@ plot_sequences_over_time_overlay <- function(config, data, overlay_var) {
     data = data,
     aes(x = as.Date(date), y = proportion, color = .data[[overlay_var]])
   ) +
-    bar_line_specs$geom_bar_or_line(alpha = bar_line_specs$alpha_estimate) +
+    bar_line_specs$geom_bar_or_line(alpha = bar_line_specs$alpha_estimate, size = line_bar_size) +
     date_scale +
     color_scale +
     get_uncertainty_geom(data, bar_line_specs, fill_var = overlay_var) +
