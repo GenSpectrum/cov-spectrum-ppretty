@@ -48,12 +48,12 @@ function(config = config_ex, data = plot_data_ex) {
 #* @param config:object
 #* @param data:object
 #* @serializer json
-function(config = config_ex, data = plot_data_ex) {
+function(req, config = config_ex, data = plot_data_ex) {
 
   data_transformed <- transformData(data)
 
   p <- make_plot(config = config, data = data_transformed)
-  request_hash <- get_request_hash(config = config, data = data)
+  request_hash <- get_hash(req$postBody)
   path <- save_plot(plot = p, filename = request_hash)
   return(path)
 }
