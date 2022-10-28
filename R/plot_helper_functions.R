@@ -21,7 +21,7 @@ get_date_scale <- function(data, date_colname = "date", max_breaks = 10) {
   while (n_breaks > max_breaks & i < length(break_options)) {
     i <- i + 1
     n_breaks <- as.numeric(
-      as.period(difftime(
+      lubridate::as.period(difftime(
         max(data[[date_colname]]), min(data[[date_colname]])
       )),
       break_units[i]

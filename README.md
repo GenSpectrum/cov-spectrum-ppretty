@@ -29,6 +29,12 @@ devtools::load_all()
 devtools::test()
 ```
 
+## Export functions and update NAMESPACE
+
+The [NAMESPACE file](./NAMESPACE) contains the functions that are exported from the package. All functions that are called from [run_app_production.R](inst/run_app_production.R) (i.e., including [endpoints.R](inst/plumber/endpoints.R)) must be exported.
+
+To export a function, it must be annotated with `@export`. Then, run `devtools::document()` to generate an updated NAMESPACE file.
+
 ## Qs for Chaoran
 * barplots with many datapoints, ugly but okay?
 * what should be shown differently about a collection plot vs. normal seqs over time plot?
