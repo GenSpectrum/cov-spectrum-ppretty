@@ -9,6 +9,14 @@ The canonical usage is as follows:
 
 The repository structure is modeled on https://github.com/sol-eng/plumbpkg.
 
+## Run the API in a docker container
+Start docker engine, then run:
+```{bash}
+docker build -t ppretty .
+docker run --rm -p 80:7090 ppretty
+```
+You should be able to access the API docs at [http://127.0.0.1/__docs__/](http://127.0.0.1/__docs__/).
+
 ## Run the API locally
 
 ```{r}
@@ -34,10 +42,3 @@ devtools::test()
 The [NAMESPACE file](./NAMESPACE) contains the functions that are exported from the package. All functions that are called from [run_app_production.R](inst/run_app_production.R) (i.e., including [endpoints.R](inst/plumber/endpoints.R)) must be exported.
 
 To export a function, it must be annotated with `@export`. Then, run `devtools::document()` to generate an updated NAMESPACE file.
-
-## Qs for Chaoran
-* barplots with many datapoints, ugly but okay?
-* what should be shown differently about a collection plot vs. normal seqs over time plot?
-* add any metadata information to plot titles?
-* what should we return -- use one of the graphics devices like png() so we can have transparent background, specified resolution, etc?
-* remove data transformation from endpoints.R so that file contains only API specs?

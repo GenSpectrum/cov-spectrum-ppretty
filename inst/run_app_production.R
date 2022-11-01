@@ -1,5 +1,5 @@
 library(plumber)
-library(ppretty)  # assumes package built from github in Dockerfile
+library(ppretty)  # assumes package is installed (i.e., in Dockerfile)
 
 run_app <- function() {
   pr("inst/plumber/endpoints.R") %>%
