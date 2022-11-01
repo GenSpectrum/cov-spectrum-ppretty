@@ -6,6 +6,7 @@ library(ggplot2)
 #' @param config Configuration information
 #' @param data Data to plot
 #' @return A ggplot object
+#' @export
 make_plot <- function(config, data) {
   # Make the correct type of plot
   if (config$plotName == "estimated-cases") {

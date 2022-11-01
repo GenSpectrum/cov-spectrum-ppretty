@@ -1,5 +1,10 @@
 # Editors
-.Rhistory 
 .idea/
+
+# R basics
+.Rhistory
 *.Rproj*
 .Rproj.user
+
+# Auto-generated manual
+/man/

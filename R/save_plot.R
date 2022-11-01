@@ -6,6 +6,7 @@
 #' @param formats A list of formats to save to. Available formats are png, svg, and pdf
 #' @param path Path to where the plot files should be saved
 #' @return Full path to where the plot files are saved
+#' @export
 save_plot <- function(plot, filename, formats = c("png", "svg", "pdf"), path = NULL) {
   # Create a directory path if not specified
   # aim is to limit number of files per directory by generating a short random path of letters

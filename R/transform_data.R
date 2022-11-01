@@ -1,6 +1,7 @@
 #' Transform and clean data
 #' @param data The input data
 #' @return A cleaned and transformed tibble.
+#' @export
 transformData <- function(data) {
   # Use a tibble
   d <- tibble(data)
