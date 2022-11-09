@@ -1,5 +1,5 @@
-test_that("hashing the request works", {
+test_that("hashing something works", {
   request <- jsonlite::fromJSON(txt = file(test_path("example_data/requests/estimated-cases_01.json")))
-  hash <- get_request_hash(config = request$config, data = request$data)
-  expect_identical(hash, "02152736da00a9b8f8a5303d8aa90db65d6a649f32f8dfe57c2d9bc4fe1041d9")
+  hash <- get_hash(s = request$config$plotName)
+  expect_identical(hash, "6c0c4b828aa55febb5821aa2c87426e1467bc095d85704a84251c6c3f66e7f17")
 })
