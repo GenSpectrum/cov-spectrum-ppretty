@@ -9,844 +9,164 @@
   },
   "data": [
     {
-      "date": "2022-09-15",
-      "proportion": 0.0023,
-      "proportionCILow": 0.0001,
-      "proportionCIHigh": 0.0342,
-      "division": "Hovedstaden"
+      "yearWeek": "2022-37",
+      "firstDayInWeek": "2022-09-12",
+      "division": "Hovedstaden",
+      "proportion": 0.006,
+      "proportionCILow": 0.0009499999999999999,
+      "proportionCIHigh": 0.0406
     },
     {
-      "date": "2022-09-16",
-      "proportion": 0.0057,
-      "proportionCILow": 0.0008,
-      "proportionCIHigh": 0.0399,
-      "division": "Hovedstaden"
+      "yearWeek": "2022-38",
+      "firstDayInWeek": "2022-09-19",
+      "division": "Hovedstaden",
+      "proportion": 0.016185714285714282,
+      "proportionCILow": 0.004514285714285714,
+      "proportionCIHigh": 0.056971428571428576
     },
     {
-      "date": "2022-09-17",
-      "proportion": 0.0073,
-      "proportionCILow": 0.0012,
-      "proportionCIHigh": 0.0446,
-      "division": "Hovedstaden"
+      "yearWeek": "2022-39",
+      "firstDayInWeek": "2022-09-26",
+      "division": "Hovedstaden",
+      "proportion": 0.02922857142857143,
+      "proportionCILow": 0.009642857142857144,
+      "proportionCIHigh": 0.08564285714285715
     },
     {
-      "date": "2022-09-18",
-      "proportion": 0.0087,
-      "proportionCILow": 0.0017,
-      "proportionCIHigh": 0.0437,
-      "division": "Hovedstaden"
+      "yearWeek": "2022-40",
+      "firstDayInWeek": "2022-10-03",
+      "division": "Hovedstaden",
+      "proportion": 0.04853333333333334,
+      "proportionCILow": 0.02086666666666667,
+      "proportionCIHigh": 0.10909999999999999
     },
     {
-      "date": "2022-09-19",
-      "proportion": 0.0112,
-      "proportionCILow": 0.0025,
-      "proportionCIHigh": 0.0486,
-      "division": "Hovedstaden"
-    },
-    {
-      "date": "2022-09-20",
-      "proportion": 0.0127,
-      "proportionCILow": 0.003,
-      "proportionCIHigh": 0.0517,
-      "division": "Hovedstaden"
-    },
-    {
-      "date": "2022-09-21",
-      "proportion": 0.015,
-      "proportionCILow": 0.0039,
-      "proportionCIHigh": 0.0551,
-      "division": "Hovedstaden"
-    },
-    {
-      "date": "2022-09-22",
-      "proportion": 0.0171,
-      "proportionCILow": 0.0049,
-      "proportionCIHigh": 0.058,
-      "division": "Hovedstaden"
-    },
-    {
-      "date": "2022-09-23",
-      "proportion": 0.017,
-      "proportionCILow": 0.0049,
-      "proportionCIHigh": 0.0577,
-      "division": "Hovedstaden"
-    },
-    {
-      "date": "2022-09-24",
-      "proportion": 0.0188,
-      "proportionCILow": 0.0058,
-      "proportionCIHigh": 0.0598,
-      "division": "Hovedstaden"
-    },
-    {
-      "date": "2022-09-25",
-      "proportion": 0.0215,
-      "proportionCILow": 0.0066,
-      "proportionCIHigh": 0.0679,
-      "division": "Hovedstaden"
-    },
-    {
-      "date": "2022-09-26",
-      "proportion": 0.0235,
-      "proportionCILow": 0.007,
-      "proportionCIHigh": 0.0763,
-      "division": "Hovedstaden"
-    },
-    {
-      "date": "2022-09-27",
-      "proportion": 0.0258,
-      "proportionCILow": 0.0079,
-      "proportionCIHigh": 0.0808,
-      "division": "Hovedstaden"
-    },
-    {
-      "date": "2022-09-28",
-      "proportion": 0.0264,
-      "proportionCILow": 0.0083,
-      "proportionCIHigh": 0.0803,
-      "division": "Hovedstaden"
-    },
-    {
-      "date": "2022-09-29",
-      "proportion": 0.0241,
-      "proportionCILow": 0.0071,
-      "proportionCIHigh": 0.078,
-      "division": "Hovedstaden"
-    },
-    {
-      "date": "2022-09-30",
-      "proportion": 0.0324,
-      "proportionCILow": 0.0108,
-      "proportionCIHigh": 0.0931,
-      "division": "Hovedstaden"
-    },
-    {
-      "date": "2022-10-01",
-      "proportion": 0.0355,
-      "proportionCILow": 0.0124,
-      "proportionCIHigh": 0.0972,
-      "division": "Hovedstaden"
-    },
-    {
-      "date": "2022-10-02",
-      "proportion": 0.0369,
-      "proportionCILow": 0.014,
-      "proportionCIHigh": 0.0938,
-      "division": "Hovedstaden"
-    },
-    {
-      "date": "2022-10-03",
-      "proportion": 0.0385,
-      "proportionCILow": 0.0153,
-      "proportionCIHigh": 0.0935,
-      "division": "Hovedstaden"
-    },
-    {
-      "date": "2022-10-04",
-      "proportion": 0.0405,
-      "proportionCILow": 0.0166,
-      "proportionCIHigh": 0.0955,
-      "division": "Hovedstaden"
-    },
-    {
-      "date": "2022-10-05",
-      "proportion": 0.0497,
-      "proportionCILow": 0.0224,
-      "proportionCIHigh": 0.107,
-      "division": "Hovedstaden"
-    },
-    {
-      "date": "2022-10-06",
-      "proportion": 0.0548,
-      "proportionCILow": 0.0254,
-      "proportionCIHigh": 0.1145,
-      "division": "Hovedstaden"
-    },
-    {
-      "date": "2022-10-07",
-      "proportion": 0.0526,
-      "proportionCILow": 0.0229,
-      "proportionCIHigh": 0.116,
-      "division": "Hovedstaden"
-    },
-    {
-      "date": "2022-10-08",
-      "proportion": 0.0551,
-      "proportionCILow": 0.0226,
-      "proportionCIHigh": 0.1281,
-      "division": "Hovedstaden"
-    },
-    {
-      "date": "2022-09-15",
-      "proportion": 0.0027,
+      "yearWeek": "2022-37",
+      "firstDayInWeek": "2022-09-12",
+      "division": "Midtjylland",
+      "proportion": 0.00255,
       "proportionCILow": 0.0002,
-      "proportionCIHigh": 0.0394,
-      "division": "Midtjylland"
+      "proportionCIHigh": 0.038
     },
     {
-      "date": "2022-09-16",
-      "proportion": 0.0025,
-      "proportionCILow": 0.0002,
-      "proportionCIHigh": 0.0379,
-      "division": "Midtjylland"
+      "yearWeek": "2022-38",
+      "firstDayInWeek": "2022-09-19",
+      "division": "Midtjylland",
+      "proportion": 0.008328571428571428,
+      "proportionCILow": 0.0017428571428571428,
+      "proportionCIHigh": 0.042614285714285716
     },
     {
-      "date": "2022-09-17",
-      "proportion": 0.0025,
-      "proportionCILow": 0.0002,
-      "proportionCIHigh": 0.0376,
-      "division": "Midtjylland"
+      "yearWeek": "2022-39",
+      "firstDayInWeek": "2022-09-26",
+      "division": "Midtjylland",
+      "proportion": 0.02107142857142857,
+      "proportionCILow": 0.0063,
+      "proportionCIHigh": 0.06891428571428572
     },
     {
-      "date": "2022-09-18",
-      "proportion": 0.0025,
-      "proportionCILow": 0.0002,
-      "proportionCIHigh": 0.0371,
-      "division": "Midtjylland"
+      "yearWeek": "2022-40",
+      "firstDayInWeek": "2022-10-03",
+      "division": "Midtjylland",
+      "proportion": 0.045849999999999995,
+      "proportionCILow": 0.017200000000000003,
+      "proportionCIHigh": 0.11703333333333334
     },
     {
-      "date": "2022-09-19",
-      "proportion": 0.0034,
-      "proportionCILow": 0.0003,
-      "proportionCIHigh": 0.0358,
-      "division": "Midtjylland"
-    },
-    {
-      "date": "2022-09-20",
-      "proportion": 0.0057,
-      "proportionCILow": 0.0008,
-      "proportionCIHigh": 0.04,
-      "division": "Midtjylland"
-    },
-    {
-      "date": "2022-09-21",
-      "proportion": 0.0067,
+      "yearWeek": "2022-37",
+      "firstDayInWeek": "2022-09-12",
+      "division": "Nordjylland",
+      "proportion": 0.009425,
       "proportionCILow": 0.0011,
-      "proportionCIHigh": 0.0409,
-      "division": "Midtjylland"
-    },
-    {
-      "date": "2022-09-22",
-      "proportion": 0.0063,
-      "proportionCILow": 0.001,
-      "proportionCIHigh": 0.039,
-      "division": "Midtjylland"
-    },
-    {
-      "date": "2022-09-23",
-      "proportion": 0.0108,
-      "proportionCILow": 0.0026,
-      "proportionCIHigh": 0.0443,
-      "division": "Midtjylland"
-    },
-    {
-      "date": "2022-09-24",
-      "proportion": 0.0118,
-      "proportionCILow": 0.003,
-      "proportionCIHigh": 0.0457,
-      "division": "Midtjylland"
-    },
-    {
-      "date": "2022-09-25",
-      "proportion": 0.0136,
-      "proportionCILow": 0.0034,
-      "proportionCIHigh": 0.0526,
-      "division": "Midtjylland"
-    },
-    {
-      "date": "2022-09-26",
-      "proportion": 0.0147,
-      "proportionCILow": 0.0035,
-      "proportionCIHigh": 0.0596,
-      "division": "Midtjylland"
-    },
-    {
-      "date": "2022-09-27",
-      "proportion": 0.0178,
-      "proportionCILow": 0.0047,
-      "proportionCIHigh": 0.0653,
-      "division": "Midtjylland"
-    },
-    {
-      "date": "2022-09-28",
-      "proportion": 0.0185,
-      "proportionCILow": 0.0053,
-      "proportionCIHigh": 0.0628,
-      "division": "Midtjylland"
-    },
-    {
-      "date": "2022-09-29",
-      "proportion": 0.0224,
-      "proportionCILow": 0.0071,
-      "proportionCIHigh": 0.0686,
-      "division": "Midtjylland"
-    },
-    {
-      "date": "2022-09-30",
-      "proportion": 0.0222,
-      "proportionCILow": 0.0068,
-      "proportionCIHigh": 0.07,
-      "division": "Midtjylland"
-    },
-    {
-      "date": "2022-10-01",
-      "proportion": 0.0255,
-      "proportionCILow": 0.0081,
-      "proportionCIHigh": 0.0779,
-      "division": "Midtjylland"
-    },
-    {
-      "date": "2022-10-02",
-      "proportion": 0.0264,
-      "proportionCILow": 0.0086,
-      "proportionCIHigh": 0.0782,
-      "division": "Midtjylland"
-    },
-    {
-      "date": "2022-10-03",
-      "proportion": 0.0273,
-      "proportionCILow": 0.0089,
-      "proportionCIHigh": 0.0808,
-      "division": "Midtjylland"
-    },
-    {
-      "date": "2022-10-04",
-      "proportion": 0.0282,
-      "proportionCILow": 0.0092,
-      "proportionCIHigh": 0.0834,
-      "division": "Midtjylland"
-    },
-    {
-      "date": "2022-10-05",
-      "proportion": 0.0374,
-      "proportionCILow": 0.0131,
-      "proportionCIHigh": 0.1022,
-      "division": "Midtjylland"
-    },
-    {
-      "date": "2022-10-06",
-      "proportion": 0.0533,
-      "proportionCILow": 0.0222,
-      "proportionCIHigh": 0.1228,
-      "division": "Midtjylland"
-    },
-    {
-      "date": "2022-10-07",
-      "proportion": 0.0647,
-      "proportionCILow": 0.0254,
-      "proportionCIHigh": 0.1548,
-      "division": "Midtjylland"
-    },
-    {
-      "date": "2022-10-08",
-      "proportion": 0.0642,
-      "proportionCILow": 0.0244,
-      "proportionCIHigh": 0.1582,
-      "division": "Midtjylland"
-    },
-    {
-      "date": "2022-09-15",
-      "proportion": 0.0088,
-      "proportionCILow": 0.001,
-      "proportionCIHigh": 0.0714,
-      "division": "Nordjylland"
-    },
-    {
-      "date": "2022-09-16",
-      "proportion": 0.0091,
-      "proportionCILow": 0.0011,
-      "proportionCIHigh": 0.0737,
-      "division": "Nordjylland"
-    },
-    {
-      "date": "2022-09-17",
-      "proportion": 0.0098,
-      "proportionCILow": 0.0011,
-      "proportionCIHigh": 0.0789,
-      "division": "Nordjylland"
-    },
-    {
-      "date": "2022-09-18",
-      "proportion": 0.01,
-      "proportionCILow": 0.0012,
-      "proportionCIHigh": 0.0806,
-      "division": "Nordjylland"
-    },
-    {
-      "date": "2022-09-19",
-      "proportion": 0.005,
-      "proportionCILow": 0.0003,
-      "proportionCIHigh": 0.0717,
-      "division": "Nordjylland"
-    },
-    {
-      "date": "2022-09-20",
-      "proportion": 0.0054,
-      "proportionCILow": 0.0004,
-      "proportionCIHigh": 0.0779,
-      "division": "Nordjylland"
-    },
-    {
-      "date": "2022-09-21",
-      "proportion": 0.0054,
-      "proportionCILow": 0.0004,
-      "proportionCIHigh": 0.0775,
-      "division": "Nordjylland"
-    },
-    {
-      "date": "2022-09-22",
-      "proportion": 0.0026,
-      "proportionCILow": 0.0001,
-      "proportionCIHigh": 0.069,
-      "division": "Nordjylland"
-    },
-    {
-      "date": "2022-09-23",
-      "proportion": 0.0025,
-      "proportionCILow": 0.0001,
-      "proportionCIHigh": 0.0677,
-      "division": "Nordjylland"
-    },
-    {
-      "date": "2022-09-24",
-      "proportion": 0.0026,
-      "proportionCILow": 0.0001,
-      "proportionCIHigh": 0.069,
-      "division": "Nordjylland"
-    },
-    {
-      "date": "2022-09-25",
-      "proportion": 0.0032,
-      "proportionCILow": 0.0001,
-      "proportionCIHigh": 0.0841,
-      "division": "Nordjylland"
-    },
-    {
-      "date": "2022-09-26",
-      "proportion": 0,
-      "proportionCILow": 0,
-      "proportionCIHigh": 0.0968,
-      "division": "Nordjylland"
-    },
-    {
-      "date": "2022-09-27",
-      "proportion": 0.0072,
-      "proportionCILow": 0.0005,
-      "proportionCIHigh": 0.1012,
-      "division": "Nordjylland"
-    },
-    {
-      "date": "2022-09-28",
-      "proportion": 0.0068,
-      "proportionCILow": 0.0004,
-      "proportionCIHigh": 0.0955,
-      "division": "Nordjylland"
-    },
-    {
-      "date": "2022-09-29",
-      "proportion": 0.0165,
-      "proportionCILow": 0.0023,
-      "proportionCIHigh": 0.1095,
-      "division": "Nordjylland"
-    },
-    {
-      "date": "2022-09-30",
-      "proportion": 0.0261,
-      "proportionCILow": 0.0051,
-      "proportionCIHigh": 0.1238,
-      "division": "Nordjylland"
-    },
-    {
-      "date": "2022-10-01",
-      "proportion": 0.0279,
-      "proportionCILow": 0.0054,
-      "proportionCIHigh": 0.1312,
-      "division": "Nordjylland"
-    },
-    {
-      "date": "2022-10-02",
-      "proportion": 0.0261,
-      "proportionCILow": 0.0051,
-      "proportionCIHigh": 0.1234,
-      "division": "Nordjylland"
-    },
-    {
-      "date": "2022-10-03",
-      "proportion": 0.0261,
-      "proportionCILow": 0.0051,
-      "proportionCIHigh": 0.1238,
-      "division": "Nordjylland"
-    },
-    {
-      "date": "2022-10-04",
-      "proportion": 0.0265,
-      "proportionCILow": 0.0047,
-      "proportionCIHigh": 0.1359,
-      "division": "Nordjylland"
-    },
-    {
-      "date": "2022-10-05",
-      "proportion": 0.0385,
-      "proportionCILow": 0.0081,
-      "proportionCIHigh": 0.164,
-      "division": "Nordjylland"
-    },
-    {
-      "date": "2022-10-06",
-      "proportion": 0.0338,
-      "proportionCILow": 0.0066,
-      "proportionCIHigh": 0.156,
-      "division": "Nordjylland"
-    },
-    {
-      "date": "2022-10-07",
-      "proportion": 0.0311,
-      "proportionCILow": 0.0043,
-      "proportionCIHigh": 0.192,
-      "division": "Nordjylland"
-    },
-    {
-      "date": "2022-10-08",
-      "proportion": 0.0342,
-      "proportionCILow": 0.0047,
-      "proportionCIHigh": 0.2086,
-      "division": "Nordjylland"
-    },
-    {
-      "date": "2022-09-15",
-      "proportion": 0.0047,
-      "proportionCILow": 0.0004,
-      "proportionCIHigh": 0.0487,
-      "division": "Sjaelland"
-    },
-    {
-      "date": "2022-09-16",
-      "proportion": 0.0045,
-      "proportionCILow": 0.0004,
-      "proportionCIHigh": 0.0475,
-      "division": "Sjaelland"
-    },
-    {
-      "date": "2022-09-17",
-      "proportion": 0.0047,
-      "proportionCILow": 0.0004,
-      "proportionCIHigh": 0.0488,
-      "division": "Sjaelland"
-    },
-    {
-      "date": "2022-09-18",
-      "proportion": 0.0072,
-      "proportionCILow": 0.001,
-      "proportionCIHigh": 0.0498,
-      "division": "Sjaelland"
-    },
-    {
-      "date": "2022-09-19",
-      "proportion": 0.0074,
-      "proportionCILow": 0.001,
-      "proportionCIHigh": 0.0515,
-      "division": "Sjaelland"
-    },
-    {
-      "date": "2022-09-20",
-      "proportion": 0.0074,
-      "proportionCILow": 0.001,
-      "proportionCIHigh": 0.0515,
-      "division": "Sjaelland"
-    },
-    {
-      "date": "2022-09-21",
-      "proportion": 0.0072,
-      "proportionCILow": 0.001,
-      "proportionCIHigh": 0.0503,
-      "division": "Sjaelland"
-    },
-    {
-      "date": "2022-09-22",
-      "proportion": 0.0059,
-      "proportionCILow": 0.0007,
-      "proportionCIHigh": 0.0491,
-      "division": "Sjaelland"
-    },
-    {
-      "date": "2022-09-23",
-      "proportion": 0.0087,
-      "proportionCILow": 0.0014,
-      "proportionCIHigh": 0.0527,
-      "division": "Sjaelland"
-    },
-    {
-      "date": "2022-09-24",
-      "proportion": 0.0139,
-      "proportionCILow": 0.0031,
-      "proportionCIHigh": 0.0598,
-      "division": "Sjaelland"
-    },
-    {
-      "date": "2022-09-25",
-      "proportion": 0.0134,
-      "proportionCILow": 0.0026,
-      "proportionCIHigh": 0.0664,
-      "division": "Sjaelland"
-    },
-    {
-      "date": "2022-09-26",
-      "proportion": 0.0139,
-      "proportionCILow": 0.0025,
-      "proportionCIHigh": 0.0744,
-      "division": "Sjaelland"
-    },
-    {
-      "date": "2022-09-27",
-      "proportion": 0.0146,
-      "proportionCILow": 0.0026,
-      "proportionCIHigh": 0.0784,
-      "division": "Sjaelland"
-    },
-    {
-      "date": "2022-09-28",
-      "proportion": 0.0144,
-      "proportionCILow": 0.0025,
-      "proportionCIHigh": 0.077,
-      "division": "Sjaelland"
-    },
-    {
-      "date": "2022-09-29",
-      "proportion": 0.0147,
-      "proportionCILow": 0.0026,
-      "proportionCIHigh": 0.0786,
-      "division": "Sjaelland"
-    },
-    {
-      "date": "2022-09-30",
-      "proportion": 0.0227,
-      "proportionCILow": 0.0051,
-      "proportionCIHigh": 0.0953,
-      "division": "Sjaelland"
-    },
-    {
-      "date": "2022-10-01",
-      "proportion": 0.0181,
-      "proportionCILow": 0.0032,
-      "proportionCIHigh": 0.0956,
-      "division": "Sjaelland"
-    },
-    {
-      "date": "2022-10-02",
-      "proportion": 0.0246,
-      "proportionCILow": 0.0059,
-      "proportionCIHigh": 0.0971,
-      "division": "Sjaelland"
-    },
-    {
-      "date": "2022-10-03",
-      "proportion": 0.0267,
-      "proportionCILow": 0.0071,
-      "proportionCIHigh": 0.0961,
-      "division": "Sjaelland"
-    },
-    {
-      "date": "2022-10-04",
-      "proportion": 0.023,
-      "proportionCILow": 0.0058,
-      "proportionCIHigh": 0.0871,
-      "division": "Sjaelland"
-    },
-    {
-      "date": "2022-10-05",
-      "proportion": 0.0303,
-      "proportionCILow": 0.0093,
-      "proportionCIHigh": 0.0943,
-      "division": "Sjaelland"
-    },
-    {
-      "date": "2022-10-06",
-      "proportion": 0.033,
-      "proportionCILow": 0.0107,
-      "proportionCIHigh": 0.0971,
-      "division": "Sjaelland"
-    },
-    {
-      "date": "2022-10-07",
-      "proportion": 0.0311,
-      "proportionCILow": 0.0089,
-      "proportionCIHigh": 0.1029,
-      "division": "Sjaelland"
-    },
-    {
-      "date": "2022-10-08",
-      "proportion": 0.0335,
-      "proportionCILow": 0.0092,
-      "proportionCIHigh": 0.1141,
-      "division": "Sjaelland"
-    },
-    {
-      "date": "2022-09-15",
-      "proportion": 0.0013,
-      "proportionCILow": 0,
-      "proportionCIHigh": 0.036,
-      "division": "Syddanmark"
-    },
-    {
-      "date": "2022-09-16",
-      "proportion": 0.0013,
-      "proportionCILow": 0,
-      "proportionCIHigh": 0.0349,
-      "division": "Syddanmark"
-    },
-    {
-      "date": "2022-09-17",
-      "proportion": 0.0013,
-      "proportionCILow": 0,
-      "proportionCIHigh": 0.0358,
-      "division": "Syddanmark"
-    },
-    {
-      "date": "2022-09-18",
-      "proportion": 0.0026,
-      "proportionCILow": 0.0002,
-      "proportionCIHigh": 0.0384,
-      "division": "Syddanmark"
-    },
-    {
-      "date": "2022-09-19",
-      "proportion": 0.0039,
-      "proportionCILow": 0.0004,
-      "proportionCIHigh": 0.0412,
-      "division": "Syddanmark"
-    },
-    {
-      "date": "2022-09-20",
-      "proportion": 0.0039,
-      "proportionCILow": 0.0004,
-      "proportionCIHigh": 0.041,
-      "division": "Syddanmark"
-    },
-    {
-      "date": "2022-09-21",
-      "proportion": 0.0039,
-      "proportionCILow": 0.0004,
-      "proportionCIHigh": 0.0405,
-      "division": "Syddanmark"
-    },
-    {
-      "date": "2022-09-22",
-      "proportion": 0.0025,
-      "proportionCILow": 0.0002,
-      "proportionCIHigh": 0.0371,
-      "division": "Syddanmark"
-    },
-    {
-      "date": "2022-09-23",
-      "proportion": 0.0048,
-      "proportionCILow": 0.0006,
-      "proportionCIHigh": 0.0396,
-      "division": "Syddanmark"
-    },
-    {
-      "date": "2022-09-24",
-      "proportion": 0.0058,
-      "proportionCILow": 0.0008,
-      "proportionCIHigh": 0.0407,
-      "division": "Syddanmark"
-    },
-    {
-      "date": "2022-09-25",
-      "proportion": 0.005,
-      "proportionCILow": 0.0006,
-      "proportionCIHigh": 0.0416,
-      "division": "Syddanmark"
-    },
-    {
-      "date": "2022-09-26",
-      "proportion": 0.0044,
-      "proportionCILow": 0.0004,
-      "proportionCIHigh": 0.0465,
-      "division": "Syddanmark"
-    },
-    {
-      "date": "2022-09-27",
-      "proportion": 0.0076,
-      "proportionCILow": 0.001,
-      "proportionCIHigh": 0.0527,
-      "division": "Syddanmark"
-    },
-    {
-      "date": "2022-09-28",
-      "proportion": 0.0093,
-      "proportionCILow": 0.0016,
-      "proportionCIHigh": 0.0509,
-      "division": "Syddanmark"
-    },
-    {
-      "date": "2022-09-29",
-      "proportion": 0.0095,
-      "proportionCILow": 0.0017,
-      "proportionCIHigh": 0.0518,
-      "division": "Syddanmark"
-    },
-    {
-      "date": "2022-09-30",
-      "proportion": 0.013,
-      "proportionCILow": 0.0029,
-      "proportionCIHigh": 0.0559,
-      "division": "Syddanmark"
-    },
-    {
-      "date": "2022-10-01",
-      "proportion": 0.0162,
-      "proportionCILow": 0.0039,
-      "proportionCIHigh": 0.0653,
-      "division": "Syddanmark"
-    },
-    {
-      "date": "2022-10-02",
-      "proportion": 0.0175,
-      "proportionCILow": 0.0044,
-      "proportionCIHigh": 0.067,
-      "division": "Syddanmark"
-    },
-    {
-      "date": "2022-10-03",
-      "proportion": 0.0181,
-      "proportionCILow": 0.0048,
-      "proportionCIHigh": 0.0661,
-      "division": "Syddanmark"
-    },
-    {
-      "date": "2022-10-04",
-      "proportion": 0.017,
-      "proportionCILow": 0.0045,
-      "proportionCIHigh": 0.0622,
-      "division": "Syddanmark"
-    },
-    {
-      "date": "2022-10-05",
-      "proportion": 0.0165,
-      "proportionCILow": 0.0039,
-      "proportionCIHigh": 0.0664,
-      "division": "Syddanmark"
-    },
-    {
-      "date": "2022-10-06",
-      "proportion": 0.0343,
-      "proportionCILow": 0.0123,
-      "proportionCIHigh": 0.0923,
-      "division": "Syddanmark"
-    },
-    {
-      "date": "2022-10-07",
-      "proportion": 0.0398,
-      "proportionCILow": 0.0126,
-      "proportionCIHigh": 0.1187,
-      "division": "Syddanmark"
-    },
-    {
-      "date": "2022-10-08",
-      "proportion": 0.0389,
-      "proportionCILow": 0.0116,
-      "proportionCIHigh": 0.1229,
-      "division": "Syddanmark"
+      "proportionCIHigh": 0.07615
+    },
+    {
+      "yearWeek": "2022-38",
+      "firstDayInWeek": "2022-09-19",
+      "division": "Nordjylland",
+      "proportion": 0.0038142857142857145,
+      "proportionCILow": 0.00021428571428571433,
+      "proportionCIHigh": 0.07384285714285714
+    },
+    {
+      "yearWeek": "2022-39",
+      "firstDayInWeek": "2022-09-26",
+      "division": "Nordjylland",
+      "proportion": 0.015799999999999998,
+      "proportionCILow": 0.0026857142857142856,
+      "proportionCIHigh": 0.11162857142857141
+    },
+    {
+      "yearWeek": "2022-40",
+      "firstDayInWeek": "2022-10-03",
+      "division": "Nordjylland",
+      "proportion": 0.0317,
+      "proportionCILow": 0.005583333333333333,
+      "proportionCIHigh": 0.16338333333333335
+    },
+    {
+      "yearWeek": "2022-37",
+      "firstDayInWeek": "2022-09-12",
+      "division": "Sjaelland",
+      "proportion": 0.005275,
+      "proportionCILow": 0.00055,
+      "proportionCIHigh": 0.04870000000000001
+    },
+    {
+      "yearWeek": "2022-38",
+      "firstDayInWeek": "2022-09-19",
+      "division": "Sjaelland",
+      "proportion": 0.009128571428571427,
+      "proportionCILow": 0.001542857142857143,
+      "proportionCIHigh": 0.05447142857142857
+    },
+    {
+      "yearWeek": "2022-39",
+      "firstDayInWeek": "2022-09-26",
+      "division": "Sjaelland",
+      "proportion": 0.01757142857142857,
+      "proportionCILow": 0.003485714285714286,
+      "proportionCIHigh": 0.08520000000000001
+    },
+    {
+      "yearWeek": "2022-40",
+      "firstDayInWeek": "2022-10-03",
+      "division": "Sjaelland",
+      "proportion": 0.0296,
+      "proportionCILow": 0.008499999999999999,
+      "proportionCIHigh": 0.09860000000000001
+    },
+    {
+      "yearWeek": "2022-37",
+      "firstDayInWeek": "2022-09-12",
+      "division": "Syddanmark",
+      "proportion": 0.001625,
+      "proportionCILow": 0.00005,
+      "proportionCIHigh": 0.036274999999999995
+    },
+    {
+      "yearWeek": "2022-38",
+      "firstDayInWeek": "2022-09-19",
+      "division": "Syddanmark",
+      "proportion": 0.004257142857142857,
+      "proportionCILow": 0.00048571428571428566,
+      "proportionCIHigh": 0.040242857142857136
+    },
+    {
+      "yearWeek": "2022-39",
+      "firstDayInWeek": "2022-09-26",
+      "division": "Syddanmark",
+      "proportion": 0.01107142857142857,
+      "proportionCILow": 0.0022714285714285714,
+      "proportionCIHigh": 0.05572857142857144
+    },
+    {
+      "yearWeek": "2022-40",
+      "firstDayInWeek": "2022-10-03",
+      "division": "Syddanmark",
+      "proportion": 0.027433333333333334,
+      "proportionCILow": 0.008283333333333334,
+      "proportionCIHigh": 0.0881
     }
   ]
 }

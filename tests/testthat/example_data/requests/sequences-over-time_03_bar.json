@@ -9,1030 +9,179 @@
   },
   "data": [
     {
-      "date": "2022-04-21",
-      "proportion": 0,
+      "yearWeek": "2022-16",
+      "firstDayInWeek": "2022-04-18",
+      "proportion": 0.00007500000000000001,
       "proportionCILow": 0,
-      "proportionCIHigh": 0.0003
+      "proportionCIHigh": 0.00035
     },
     {
-      "date": "2022-04-22",
-      "proportion": 0.0001,
-      "proportionCILow": 0,
-      "proportionCIHigh": 0.0003
+      "yearWeek": "2022-17",
+      "firstDayInWeek": "2022-04-25",
+      "proportion": 0.00012857142857142858,
+      "proportionCILow": 0.000014285714285714287,
+      "proportionCIHigh": 0.0004714285714285714
     },
     {
-      "date": "2022-04-23",
-      "proportion": 0.0001,
-      "proportionCILow": 0,
-      "proportionCIHigh": 0.0004
+      "yearWeek": "2022-18",
+      "firstDayInWeek": "2022-05-02",
+      "proportion": 0.00020000000000000004,
+      "proportionCILow": 0.00010000000000000002,
+      "proportionCIHigh": 0.0005428571428571428
     },
     {
-      "date": "2022-04-24",
-      "proportion": 0.0001,
-      "proportionCILow": 0,
-      "proportionCIHigh": 0.0004
-    },
-    {
-      "date": "2022-04-25",
-      "proportion": 0.0001,
-      "proportionCILow": 0,
-      "proportionCIHigh": 0.0004
-    },
-    {
-      "date": "2022-04-26",
-      "proportion": 0.0001,
-      "proportionCILow": 0,
-      "proportionCIHigh": 0.0005
-    },
-    {
-      "date": "2022-04-27",
-      "proportion": 0.0001,
-      "proportionCILow": 0,
-      "proportionCIHigh": 0.0005
-    },
-    {
-      "date": "2022-04-28",
-      "proportion": 0.0001,
-      "proportionCILow": 0,
-      "proportionCIHigh": 0.0005
-    },
-    {
-      "date": "2022-04-29",
-      "proportion": 0.0001,
-      "proportionCILow": 0,
-      "proportionCIHigh": 0.0004
-    },
-    {
-      "date": "2022-04-30",
-      "proportion": 0.0002,
-      "proportionCILow": 0,
-      "proportionCIHigh": 0.0005
-    },
-    {
-      "date": "2022-05-01",
-      "proportion": 0.0002,
-      "proportionCILow": 0.0001,
-      "proportionCIHigh": 0.0005
-    },
-    {
-      "date": "2022-05-02",
-      "proportion": 0.0002,
-      "proportionCILow": 0.0001,
-      "proportionCIHigh": 0.0005
-    },
-    {
-      "date": "2022-05-03",
-      "proportion": 0.0002,
-      "proportionCILow": 0.0001,
-      "proportionCIHigh": 0.0005
-    },
-    {
-      "date": "2022-05-04",
-      "proportion": 0.0002,
-      "proportionCILow": 0.0001,
-      "proportionCIHigh": 0.0005
-    },
-    {
-      "date": "2022-05-05",
-      "proportion": 0.0002,
-      "proportionCILow": 0.0001,
-      "proportionCIHigh": 0.0006
-    },
-    {
-      "date": "2022-05-06",
-      "proportion": 0.0002,
-      "proportionCILow": 0.0001,
-      "proportionCIHigh": 0.0006
-    },
-    {
-      "date": "2022-05-07",
-      "proportion": 0.0002,
-      "proportionCILow": 0.0001,
-      "proportionCIHigh": 0.0005
-    },
-    {
-      "date": "2022-05-08",
-      "proportion": 0.0002,
-      "proportionCILow": 0.0001,
-      "proportionCIHigh": 0.0006
-    },
-    {
-      "date": "2022-05-09",
-      "proportion": 0.0003,
-      "proportionCILow": 0.0001,
-      "proportionCIHigh": 0.0007
-    },
-    {
-      "date": "2022-05-10",
-      "proportion": 0.0004,
+      "yearWeek": "2022-19",
+      "firstDayInWeek": "2022-05-09",
+      "proportion": 0.0004142857142857143,
       "proportionCILow": 0.0002,
-      "proportionCIHigh": 0.0008
+      "proportionCIHigh": 0.0008571428571428572
     },
     {
-      "date": "2022-05-11",
-      "proportion": 0.0004,
-      "proportionCILow": 0.0002,
-      "proportionCIHigh": 0.0008
+      "yearWeek": "2022-20",
+      "firstDayInWeek": "2022-05-16",
+      "proportion": 0.0008,
+      "proportionCILow": 0.00048571428571428566,
+      "proportionCIHigh": 0.001457142857142857
     },
     {
-      "date": "2022-05-12",
-      "proportion": 0.0004,
-      "proportionCILow": 0.0002,
-      "proportionCIHigh": 0.0008
+      "yearWeek": "2022-21",
+      "firstDayInWeek": "2022-05-23",
+      "proportion": 0.0016142857142857144,
+      "proportionCILow": 0.0010714285714285715,
+      "proportionCIHigh": 0.0024714285714285715
     },
     {
-      "date": "2022-05-13",
-      "proportion": 0.0004,
-      "proportionCILow": 0.0002,
-      "proportionCIHigh": 0.0009
+      "yearWeek": "2022-22",
+      "firstDayInWeek": "2022-05-30",
+      "proportion": 0.0034,
+      "proportionCILow": 0.0025857142857142854,
+      "proportionCIHigh": 0.0045
     },
     {
-      "date": "2022-05-14",
-      "proportion": 0.0005,
-      "proportionCILow": 0.0002,
-      "proportionCIHigh": 0.001
+      "yearWeek": "2022-23",
+      "firstDayInWeek": "2022-06-06",
+      "proportion": 0.006285714285714285,
+      "proportionCILow": 0.0051428571428571435,
+      "proportionCIHigh": 0.007628571428571428
     },
     {
-      "date": "2022-05-15",
-      "proportion": 0.0005,
-      "proportionCILow": 0.0003,
-      "proportionCIHigh": 0.001
-    },
-    {
-      "date": "2022-05-16",
-      "proportion": 0.0005,
-      "proportionCILow": 0.0003,
-      "proportionCIHigh": 0.0011
-    },
-    {
-      "date": "2022-05-17",
-      "proportion": 0.0006,
-      "proportionCILow": 0.0003,
-      "proportionCIHigh": 0.0012
-    },
-    {
-      "date": "2022-05-18",
-      "proportion": 0.0007,
-      "proportionCILow": 0.0004,
-      "proportionCIHigh": 0.0012
-    },
-    {
-      "date": "2022-05-19",
-      "proportion": 0.0007,
-      "proportionCILow": 0.0004,
-      "proportionCIHigh": 0.0014
-    },
-    {
-      "date": "2022-05-20",
-      "proportion": 0.0009,
-      "proportionCILow": 0.0006,
-      "proportionCIHigh": 0.0016
-    },
-    {
-      "date": "2022-05-21",
-      "proportion": 0.001,
-      "proportionCILow": 0.0006,
-      "proportionCIHigh": 0.0017
-    },
-    {
-      "date": "2022-05-22",
-      "proportion": 0.0012,
-      "proportionCILow": 0.0008,
-      "proportionCIHigh": 0.002
-    },
-    {
-      "date": "2022-05-23",
-      "proportion": 0.0013,
-      "proportionCILow": 0.0008,
-      "proportionCIHigh": 0.0021
-    },
-    {
-      "date": "2022-05-24",
-      "proportion": 0.0014,
-      "proportionCILow": 0.0009,
-      "proportionCIHigh": 0.0022
-    },
-    {
-      "date": "2022-05-25",
-      "proportion": 0.0015,
-      "proportionCILow": 0.001,
-      "proportionCIHigh": 0.0024
-    },
-    {
-      "date": "2022-05-26",
-      "proportion": 0.0016,
-      "proportionCILow": 0.0011,
-      "proportionCIHigh": 0.0024
-    },
-    {
-      "date": "2022-05-27",
-      "proportion": 0.0015,
-      "proportionCILow": 0.001,
-      "proportionCIHigh": 0.0024
-    },
-    {
-      "date": "2022-05-28",
-      "proportion": 0.0019,
-      "proportionCILow": 0.0013,
-      "proportionCIHigh": 0.0028
-    },
-    {
-      "date": "2022-05-29",
-      "proportion": 0.0021,
-      "proportionCILow": 0.0014,
-      "proportionCIHigh": 0.003
-    },
-    {
-      "date": "2022-05-30",
-      "proportion": 0.0025,
-      "proportionCILow": 0.0018,
-      "proportionCIHigh": 0.0034
-    },
-    {
-      "date": "2022-05-31",
-      "proportion": 0.0027,
-      "proportionCILow": 0.002,
-      "proportionCIHigh": 0.0037
-    },
-    {
-      "date": "2022-06-01",
-      "proportion": 0.0028,
-      "proportionCILow": 0.0021,
-      "proportionCIHigh": 0.0038
-    },
-    {
-      "date": "2022-06-02",
-      "proportion": 0.0031,
-      "proportionCILow": 0.0023,
-      "proportionCIHigh": 0.0042
-    },
-    {
-      "date": "2022-06-03",
-      "proportion": 0.0039,
-      "proportionCILow": 0.003,
-      "proportionCIHigh": 0.0051
-    },
-    {
-      "date": "2022-06-04",
-      "proportion": 0.0043,
-      "proportionCILow": 0.0033,
-      "proportionCIHigh": 0.0055
-    },
-    {
-      "date": "2022-06-05",
-      "proportion": 0.0045,
-      "proportionCILow": 0.0036,
-      "proportionCIHigh": 0.0058
-    },
-    {
-      "date": "2022-06-06",
-      "proportion": 0.005,
-      "proportionCILow": 0.004,
-      "proportionCIHigh": 0.0063
-    },
-    {
-      "date": "2022-06-07",
-      "proportion": 0.0054,
-      "proportionCILow": 0.0044,
-      "proportionCIHigh": 0.0067
-    },
-    {
-      "date": "2022-06-08",
-      "proportion": 0.0058,
-      "proportionCILow": 0.0047,
-      "proportionCIHigh": 0.0071
-    },
-    {
-      "date": "2022-06-09",
-      "proportion": 0.006,
-      "proportionCILow": 0.0049,
-      "proportionCIHigh": 0.0073
-    },
-    {
-      "date": "2022-06-10",
-      "proportion": 0.0066,
-      "proportionCILow": 0.0054,
-      "proportionCIHigh": 0.0079
-    },
-    {
-      "date": "2022-06-11",
-      "proportion": 0.0073,
-      "proportionCILow": 0.006,
-      "proportionCIHigh": 0.0087
-    },
-    {
-      "date": "2022-06-12",
-      "proportion": 0.0079,
-      "proportionCILow": 0.0066,
-      "proportionCIHigh": 0.0094
-    },
-    {
-      "date": "2022-06-13",
-      "proportion": 0.008,
-      "proportionCILow": 0.0067,
-      "proportionCIHigh": 0.0095
-    },
-    {
-      "date": "2022-06-14",
-      "proportion": 0.0084,
-      "proportionCILow": 0.0071,
-      "proportionCIHigh": 0.01
-    },
-    {
-      "date": "2022-06-15",
-      "proportion": 0.0087,
-      "proportionCILow": 0.0073,
-      "proportionCIHigh": 0.0102
-    },
-    {
-      "date": "2022-06-16",
-      "proportion": 0.0088,
-      "proportionCILow": 0.0075,
-      "proportionCIHigh": 0.0104
-    },
-    {
-      "date": "2022-06-17",
-      "proportion": 0.009,
+      "yearWeek": "2022-24",
+      "firstDayInWeek": "2022-06-13",
+      "proportion": 0.009028571428571427,
       "proportionCILow": 0.0077,
-      "proportionCIHigh": 0.0106
+      "proportionCIHigh": 0.010628571428571428
     },
     {
-      "date": "2022-06-18",
-      "proportion": 0.0098,
-      "proportionCILow": 0.0085,
-      "proportionCIHigh": 0.0115
+      "yearWeek": "2022-25",
+      "firstDayInWeek": "2022-06-20",
+      "proportion": 0.013757142857142858,
+      "proportionCILow": 0.01212857142857143,
+      "proportionCIHigh": 0.015557142857142858
     },
     {
-      "date": "2022-06-19",
-      "proportion": 0.0105,
-      "proportionCILow": 0.0091,
-      "proportionCIHigh": 0.0122
+      "yearWeek": "2022-26",
+      "firstDayInWeek": "2022-06-27",
+      "proportion": 0.018899999999999997,
+      "proportionCILow": 0.017042857142857144,
+      "proportionCIHigh": 0.020957142857142858
     },
     {
-      "date": "2022-06-20",
-      "proportion": 0.0115,
-      "proportionCILow": 0.01,
-      "proportionCIHigh": 0.0132
+      "yearWeek": "2022-27",
+      "firstDayInWeek": "2022-07-04",
+      "proportion": 0.024028571428571427,
+      "proportionCILow": 0.021985714285714286,
+      "proportionCIHigh": 0.026271428571428574
     },
     {
-      "date": "2022-06-21",
-      "proportion": 0.0122,
-      "proportionCILow": 0.0107,
-      "proportionCIHigh": 0.014
+      "yearWeek": "2022-28",
+      "firstDayInWeek": "2022-07-11",
+      "proportion": 0.031242857142857145,
+      "proportionCILow": 0.028885714285714285,
+      "proportionCIHigh": 0.03382857142857143
     },
     {
-      "date": "2022-06-22",
-      "proportion": 0.0126,
-      "proportionCILow": 0.011,
-      "proportionCIHigh": 0.0143
+      "yearWeek": "2022-29",
+      "firstDayInWeek": "2022-07-18",
+      "proportion": 0.039999999999999994,
+      "proportionCILow": 0.03717142857142857,
+      "proportionCIHigh": 0.04301428571428571
     },
     {
-      "date": "2022-06-23",
-      "proportion": 0.0131,
-      "proportionCILow": 0.0115,
-      "proportionCIHigh": 0.0149
+      "yearWeek": "2022-30",
+      "firstDayInWeek": "2022-07-25",
+      "proportion": 0.04992857142857143,
+      "proportionCILow": 0.04654285714285715,
+      "proportionCIHigh": 0.05352857142857143
     },
     {
-      "date": "2022-06-24",
-      "proportion": 0.0147,
-      "proportionCILow": 0.013,
-      "proportionCIHigh": 0.0165
+      "yearWeek": "2022-31",
+      "firstDayInWeek": "2022-08-01",
+      "proportion": 0.06297142857142858,
+      "proportionCILow": 0.05898571428571429,
+      "proportionCIHigh": 0.0672
     },
     {
-      "date": "2022-06-25",
-      "proportion": 0.0157,
-      "proportionCILow": 0.014,
-      "proportionCIHigh": 0.0176
+      "yearWeek": "2022-32",
+      "firstDayInWeek": "2022-08-08",
+      "proportion": 0.07740000000000001,
+      "proportionCILow": 0.07274285714285715,
+      "proportionCIHigh": 0.08234285714285715
     },
     {
-      "date": "2022-06-26",
-      "proportion": 0.0165,
-      "proportionCILow": 0.0147,
-      "proportionCIHigh": 0.0184
+      "yearWeek": "2022-33",
+      "firstDayInWeek": "2022-08-15",
+      "proportion": 0.09117142857142857,
+      "proportionCILow": 0.08602857142857144,
+      "proportionCIHigh": 0.09652857142857144
     },
     {
-      "date": "2022-06-27",
-      "proportion": 0.0171,
-      "proportionCILow": 0.0153,
-      "proportionCIHigh": 0.0191
+      "yearWeek": "2022-34",
+      "firstDayInWeek": "2022-08-22",
+      "proportion": 0.11114285714285717,
+      "proportionCILow": 0.10525714285714284,
+      "proportionCIHigh": 0.11732857142857142
     },
     {
-      "date": "2022-06-28",
-      "proportion": 0.0177,
-      "proportionCILow": 0.0159,
-      "proportionCIHigh": 0.0197
+      "yearWeek": "2022-35",
+      "firstDayInWeek": "2022-08-29",
+      "proportion": 0.13704285714285713,
+      "proportionCILow": 0.13025714285714288,
+      "proportionCIHigh": 0.14411428571428572
     },
     {
-      "date": "2022-06-29",
-      "proportion": 0.0183,
-      "proportionCILow": 0.0165,
-      "proportionCIHigh": 0.0203
+      "yearWeek": "2022-36",
+      "firstDayInWeek": "2022-09-05",
+      "proportion": 0.1742142857142857,
+      "proportionCILow": 0.16634285714285715,
+      "proportionCIHigh": 0.18234285714285717
     },
     {
-      "date": "2022-06-30",
-      "proportion": 0.0188,
-      "proportionCILow": 0.017,
-      "proportionCIHigh": 0.0208
+      "yearWeek": "2022-37",
+      "firstDayInWeek": "2022-09-12",
+      "proportion": 0.21377142857142856,
+      "proportionCILow": 0.20494285714285712,
+      "proportionCIHigh": 0.2228571428571429
     },
     {
-      "date": "2022-07-01",
-      "proportion": 0.0193,
-      "proportionCILow": 0.0174,
-      "proportionCIHigh": 0.0215
+      "yearWeek": "2022-38",
+      "firstDayInWeek": "2022-09-19",
+      "proportion": 0.2563857142857143,
+      "proportionCILow": 0.24577142857142856,
+      "proportionCIHigh": 0.26727142857142855
     },
     {
-      "date": "2022-07-02",
-      "proportion": 0.0203,
-      "proportionCILow": 0.0184,
-      "proportionCIHigh": 0.0224
-    },
-    {
-      "date": "2022-07-03",
-      "proportion": 0.0208,
-      "proportionCILow": 0.0188,
-      "proportionCIHigh": 0.0229
-    },
-    {
-      "date": "2022-07-04",
-      "proportion": 0.0213,
-      "proportionCILow": 0.0193,
-      "proportionCIHigh": 0.0234
-    },
-    {
-      "date": "2022-07-05",
-      "proportion": 0.022,
-      "proportionCILow": 0.02,
-      "proportionCIHigh": 0.0242
-    },
-    {
-      "date": "2022-07-06",
-      "proportion": 0.0227,
-      "proportionCILow": 0.0207,
-      "proportionCIHigh": 0.0249
-    },
-    {
-      "date": "2022-07-07",
-      "proportion": 0.0233,
-      "proportionCILow": 0.0213,
-      "proportionCIHigh": 0.0256
-    },
-    {
-      "date": "2022-07-08",
-      "proportion": 0.0254,
-      "proportionCILow": 0.0234,
-      "proportionCIHigh": 0.0277
-    },
-    {
-      "date": "2022-07-09",
-      "proportion": 0.0262,
-      "proportionCILow": 0.0241,
-      "proportionCIHigh": 0.0285
-    },
-    {
-      "date": "2022-07-10",
-      "proportion": 0.0273,
-      "proportionCILow": 0.0251,
-      "proportionCIHigh": 0.0296
-    },
-    {
-      "date": "2022-07-11",
-      "proportion": 0.0283,
-      "proportionCILow": 0.0261,
-      "proportionCIHigh": 0.0307
-    },
-    {
-      "date": "2022-07-12",
-      "proportion": 0.029,
-      "proportionCILow": 0.0267,
-      "proportionCIHigh": 0.0315
-    },
-    {
-      "date": "2022-07-13",
-      "proportion": 0.0299,
-      "proportionCILow": 0.0276,
-      "proportionCIHigh": 0.0324
-    },
-    {
-      "date": "2022-07-14",
-      "proportion": 0.0307,
-      "proportionCILow": 0.0283,
-      "proportionCIHigh": 0.0332
-    },
-    {
-      "date": "2022-07-15",
-      "proportion": 0.0325,
-      "proportionCILow": 0.0301,
-      "proportionCIHigh": 0.0352
-    },
-    {
-      "date": "2022-07-16",
-      "proportion": 0.0334,
-      "proportionCILow": 0.031,
-      "proportionCIHigh": 0.0361
-    },
-    {
-      "date": "2022-07-17",
-      "proportion": 0.0349,
-      "proportionCILow": 0.0324,
-      "proportionCIHigh": 0.0377
-    },
-    {
-      "date": "2022-07-18",
-      "proportion": 0.0356,
-      "proportionCILow": 0.033,
-      "proportionCIHigh": 0.0384
-    },
-    {
-      "date": "2022-07-19",
-      "proportion": 0.037,
-      "proportionCILow": 0.0343,
-      "proportionCIHigh": 0.0398
-    },
-    {
-      "date": "2022-07-20",
-      "proportion": 0.038,
-      "proportionCILow": 0.0353,
-      "proportionCIHigh": 0.0409
-    },
-    {
-      "date": "2022-07-21",
-      "proportion": 0.0392,
-      "proportionCILow": 0.0365,
-      "proportionCIHigh": 0.0422
-    },
-    {
-      "date": "2022-07-22",
-      "proportion": 0.0411,
-      "proportionCILow": 0.0383,
-      "proportionCIHigh": 0.0442
-    },
-    {
-      "date": "2022-07-23",
-      "proportion": 0.0438,
-      "proportionCILow": 0.0407,
-      "proportionCIHigh": 0.047
-    },
-    {
-      "date": "2022-07-24",
-      "proportion": 0.0453,
-      "proportionCILow": 0.0421,
-      "proportionCIHigh": 0.0486
-    },
-    {
-      "date": "2022-07-25",
-      "proportion": 0.0464,
-      "proportionCILow": 0.0432,
-      "proportionCIHigh": 0.0498
-    },
-    {
-      "date": "2022-07-26",
-      "proportion": 0.0474,
-      "proportionCILow": 0.0441,
-      "proportionCIHigh": 0.0509
-    },
-    {
-      "date": "2022-07-27",
-      "proportion": 0.0479,
-      "proportionCILow": 0.0446,
-      "proportionCIHigh": 0.0514
-    },
-    {
-      "date": "2022-07-28",
-      "proportion": 0.0483,
-      "proportionCILow": 0.0449,
-      "proportionCIHigh": 0.0518
-    },
-    {
-      "date": "2022-07-29",
-      "proportion": 0.0509,
-      "proportionCILow": 0.0475,
-      "proportionCIHigh": 0.0546
-    },
-    {
-      "date": "2022-07-30",
-      "proportion": 0.0532,
-      "proportionCILow": 0.0497,
-      "proportionCIHigh": 0.057
-    },
-    {
-      "date": "2022-07-31",
-      "proportion": 0.0554,
-      "proportionCILow": 0.0518,
-      "proportionCIHigh": 0.0592
-    },
-    {
-      "date": "2022-08-01",
-      "proportion": 0.0578,
-      "proportionCILow": 0.0541,
-      "proportionCIHigh": 0.0617
-    },
-    {
-      "date": "2022-08-02",
-      "proportion": 0.0597,
-      "proportionCILow": 0.0559,
-      "proportionCIHigh": 0.0637
-    },
-    {
-      "date": "2022-08-03",
-      "proportion": 0.0607,
-      "proportionCILow": 0.0569,
-      "proportionCIHigh": 0.0648
-    },
-    {
-      "date": "2022-08-04",
-      "proportion": 0.0617,
-      "proportionCILow": 0.0578,
-      "proportionCIHigh": 0.0658
-    },
-    {
-      "date": "2022-08-05",
-      "proportion": 0.0654,
-      "proportionCILow": 0.0613,
-      "proportionCIHigh": 0.0698
-    },
-    {
-      "date": "2022-08-06",
-      "proportion": 0.0671,
-      "proportionCILow": 0.0628,
-      "proportionCIHigh": 0.0716
-    },
-    {
-      "date": "2022-08-07",
-      "proportion": 0.0684,
-      "proportionCILow": 0.0641,
-      "proportionCIHigh": 0.073
-    },
-    {
-      "date": "2022-08-08",
-      "proportion": 0.0714,
-      "proportionCILow": 0.067,
-      "proportionCIHigh": 0.0762
-    },
-    {
-      "date": "2022-08-09",
-      "proportion": 0.074,
-      "proportionCILow": 0.0695,
-      "proportionCIHigh": 0.0789
-    },
-    {
-      "date": "2022-08-10",
-      "proportion": 0.0756,
-      "proportionCILow": 0.071,
-      "proportionCIHigh": 0.0805
-    },
-    {
-      "date": "2022-08-11",
-      "proportion": 0.0769,
-      "proportionCILow": 0.0723,
-      "proportionCIHigh": 0.0818
-    },
-    {
-      "date": "2022-08-12",
-      "proportion": 0.0786,
-      "proportionCILow": 0.0738,
-      "proportionCIHigh": 0.0836
-    },
-    {
-      "date": "2022-08-13",
-      "proportion": 0.0811,
-      "proportionCILow": 0.0763,
-      "proportionCIHigh": 0.0861
-    },
-    {
-      "date": "2022-08-14",
-      "proportion": 0.0842,
-      "proportionCILow": 0.0793,
-      "proportionCIHigh": 0.0893
-    },
-    {
-      "date": "2022-08-15",
-      "proportion": 0.0858,
-      "proportionCILow": 0.0808,
-      "proportionCIHigh": 0.091
-    },
-    {
-      "date": "2022-08-16",
-      "proportion": 0.0872,
-      "proportionCILow": 0.0822,
-      "proportionCIHigh": 0.0925
-    },
-    {
-      "date": "2022-08-17",
-      "proportion": 0.0888,
-      "proportionCILow": 0.0837,
-      "proportionCIHigh": 0.0941
-    },
-    {
-      "date": "2022-08-18",
-      "proportion": 0.09,
-      "proportionCILow": 0.0849,
-      "proportionCIHigh": 0.0953
-    },
-    {
-      "date": "2022-08-19",
-      "proportion": 0.0929,
-      "proportionCILow": 0.0878,
-      "proportionCIHigh": 0.0982
-    },
-    {
-      "date": "2022-08-20",
-      "proportion": 0.0957,
-      "proportionCILow": 0.0904,
-      "proportionCIHigh": 0.1012
-    },
-    {
-      "date": "2022-08-21",
-      "proportion": 0.0978,
-      "proportionCILow": 0.0924,
-      "proportionCIHigh": 0.1034
-    },
-    {
-      "date": "2022-08-22",
-      "proportion": 0.0995,
-      "proportionCILow": 0.094,
-      "proportionCIHigh": 0.1053
-    },
-    {
-      "date": "2022-08-23",
-      "proportion": 0.1038,
-      "proportionCILow": 0.0981,
-      "proportionCIHigh": 0.1098
-    },
-    {
-      "date": "2022-08-24",
-      "proportion": 0.1068,
-      "proportionCILow": 0.1011,
-      "proportionCIHigh": 0.1129
-    },
-    {
-      "date": "2022-08-25",
-      "proportion": 0.1093,
-      "proportionCILow": 0.1035,
-      "proportionCIHigh": 0.1154
-    },
-    {
-      "date": "2022-08-26",
-      "proportion": 0.1152,
-      "proportionCILow": 0.1092,
-      "proportionCIHigh": 0.1215
-    },
-    {
-      "date": "2022-08-27",
-      "proportion": 0.1196,
-      "proportionCILow": 0.1134,
-      "proportionCIHigh": 0.126
-    },
-    {
-      "date": "2022-08-28",
-      "proportion": 0.1238,
-      "proportionCILow": 0.1175,
-      "proportionCIHigh": 0.1304
-    },
-    {
-      "date": "2022-08-29",
-      "proportion": 0.1268,
-      "proportionCILow": 0.1204,
-      "proportionCIHigh": 0.1334
-    },
-    {
-      "date": "2022-08-30",
-      "proportion": 0.1285,
-      "proportionCILow": 0.122,
-      "proportionCIHigh": 0.1353
-    },
-    {
-      "date": "2022-08-31",
-      "proportion": 0.1312,
-      "proportionCILow": 0.1246,
-      "proportionCIHigh": 0.1381
-    },
-    {
-      "date": "2022-09-01",
-      "proportion": 0.1346,
-      "proportionCILow": 0.1279,
-      "proportionCIHigh": 0.1416
-    },
-    {
-      "date": "2022-09-02",
-      "proportion": 0.1399,
-      "proportionCILow": 0.1329,
-      "proportionCIHigh": 0.1472
-    },
-    {
-      "date": "2022-09-03",
-      "proportion": 0.1473,
-      "proportionCILow": 0.1402,
-      "proportionCIHigh": 0.1547
-    },
-    {
-      "date": "2022-09-04",
-      "proportion": 0.151,
-      "proportionCILow": 0.1438,
-      "proportionCIHigh": 0.1585
-    },
-    {
-      "date": "2022-09-05",
-      "proportion": 0.1571,
-      "proportionCILow": 0.1497,
-      "proportionCIHigh": 0.1649
-    },
-    {
-      "date": "2022-09-06",
-      "proportion": 0.1621,
-      "proportionCILow": 0.1545,
-      "proportionCIHigh": 0.17
-    },
-    {
-      "date": "2022-09-07",
-      "proportion": 0.1663,
-      "proportionCILow": 0.1586,
-      "proportionCIHigh": 0.1743
-    },
-    {
-      "date": "2022-09-08",
-      "proportion": 0.171,
-      "proportionCILow": 0.1631,
-      "proportionCIHigh": 0.1791
-    },
-    {
-      "date": "2022-09-09",
-      "proportion": 0.1803,
-      "proportionCILow": 0.1724,
-      "proportionCIHigh": 0.1884
-    },
-    {
-      "date": "2022-09-10",
-      "proportion": 0.1888,
-      "proportionCILow": 0.1806,
-      "proportionCIHigh": 0.1972
-    },
-    {
-      "date": "2022-09-11",
-      "proportion": 0.1939,
-      "proportionCILow": 0.1855,
-      "proportionCIHigh": 0.2025
-    },
-    {
-      "date": "2022-09-12",
-      "proportion": 0.1993,
-      "proportionCILow": 0.1909,
-      "proportionCIHigh": 0.208
-    },
-    {
-      "date": "2022-09-13",
-      "proportion": 0.2052,
-      "proportionCILow": 0.1967,
-      "proportionCIHigh": 0.2139
-    },
-    {
-      "date": "2022-09-14",
-      "proportion": 0.2082,
-      "proportionCILow": 0.1996,
-      "proportionCIHigh": 0.217
-    },
-    {
-      "date": "2022-09-15",
-      "proportion": 0.2097,
-      "proportionCILow": 0.201,
-      "proportionCIHigh": 0.2186
-    },
-    {
-      "date": "2022-09-16",
-      "proportion": 0.2185,
-      "proportionCILow": 0.2095,
-      "proportionCIHigh": 0.2278
-    },
-    {
-      "date": "2022-09-17",
-      "proportion": 0.224,
-      "proportionCILow": 0.2148,
-      "proportionCIHigh": 0.2335
-    },
-    {
-      "date": "2022-09-18",
-      "proportion": 0.2315,
-      "proportionCILow": 0.2221,
-      "proportionCIHigh": 0.2412
-    },
-    {
-      "date": "2022-09-19",
-      "proportion": 0.2371,
-      "proportionCILow": 0.2274,
-      "proportionCIHigh": 0.247
-    },
-    {
-      "date": "2022-09-20",
-      "proportion": 0.2406,
-      "proportionCILow": 0.2307,
-      "proportionCIHigh": 0.2508
-    },
-    {
-      "date": "2022-09-21",
-      "proportion": 0.2432,
-      "proportionCILow": 0.2331,
-      "proportionCIHigh": 0.2536
-    },
-    {
-      "date": "2022-09-22",
-      "proportion": 0.2478,
-      "proportionCILow": 0.2375,
-      "proportionCIHigh": 0.2584
-    },
-    {
-      "date": "2022-09-23",
-      "proportion": 0.263,
-      "proportionCILow": 0.2522,
-      "proportionCIHigh": 0.2741
-    },
-    {
-      "date": "2022-09-24",
-      "proportion": 0.2771,
-      "proportionCILow": 0.2657,
-      "proportionCIHigh": 0.2887
-    },
-    {
-      "date": "2022-09-25",
-      "proportion": 0.2859,
-      "proportionCILow": 0.2738,
-      "proportionCIHigh": 0.2983
-    },
-    {
-      "date": "2022-09-26",
-      "proportion": 0.295,
-      "proportionCILow": 0.2822,
-      "proportionCIHigh": 0.3081
-    },
-    {
-      "date": "2022-09-27",
-      "proportion": 0.307,
-      "proportionCILow": 0.2934,
-      "proportionCIHigh": 0.3209
-    },
-    {
-      "date": "2022-09-28",
-      "proportion": 0.3152,
-      "proportionCILow": 0.3011,
-      "proportionCIHigh": 0.3296
-    },
-    {
-      "date": "2022-09-29",
-      "proportion": 0.3256,
-      "proportionCILow": 0.3108,
-      "proportionCIHigh": 0.3408
-    },
-    {
-      "date": "2022-09-30",
-      "proportion": 0.3472,
-      "proportionCILow": 0.3303,
-      "proportionCIHigh": 0.3646
-    },
-    {
-      "date": "2022-10-01",
-      "proportion": 0.3588,
-      "proportionCILow": 0.3406,
-      "proportionCIHigh": 0.3773
-    },
-    {
-      "date": "2022-10-02",
-      "proportion": 0.3752,
-      "proportionCILow": 0.3558,
-      "proportionCIHigh": 0.395
-    },
-    {
-      "date": "2022-10-03",
-      "proportion": 0.3898,
-      "proportionCILow": 0.3693,
-      "proportionCIHigh": 0.4108
-    },
-    {
-      "date": "2022-10-04",
-      "proportion": 0.4061,
-      "proportionCILow": 0.3844,
-      "proportionCIHigh": 0.4282
-    },
-    {
-      "date": "2022-10-05",
-      "proportion": 0.4154,
-      "proportionCILow": 0.3926,
-      "proportionCIHigh": 0.4386
-    },
-    {
-      "date": "2022-10-06",
-      "proportion": 0.4261,
-      "proportionCILow": 0.4025,
-      "proportionCIHigh": 0.4501
-    },
-    {
-      "date": "2022-10-07",
-      "proportion": 0.4459,
-      "proportionCILow": 0.417,
-      "proportionCIHigh": 0.4752
-    },
-    {
-      "date": "2022-10-08",
-      "proportion": 0.4843,
-      "proportionCILow": 0.4468,
-      "proportionCIHigh": 0.5219
+      "yearWeek": "2022-39",
+      "firstDayInWeek": "2022-09-26",
+      "proportion": 0.33199999999999996,
+      "proportionCILow": 0.3163142857142857,
+      "proportionCIHigh": 0.34804285714285715
+    },
+    {
+      "yearWeek": "2022-40",
+      "firstDayInWeek": "2022-10-03",
+      "proportion": 0.42793333333333333,
+      "proportionCILow": 0.40210000000000007,
+      "proportionCIHigh": 0.45413333333333333
     }
   ]
 }
