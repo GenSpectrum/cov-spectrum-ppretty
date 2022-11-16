@@ -6,9 +6,11 @@ transformData <- function(data) {
   # Use a tibble
   d <- tibble(data)
 
-  # If there is a date column, change the column type
+  # Standardize the date column to be called "date" with appropriate column type
   if ("date" %in% names(d)) {
     d <- d %>% mutate(date = as.Date(date))
+  } else if ("firstDayInWeek" %in% names(d)) {
+    d <- d %>% mutate(date = as.Date(firstDayInWeek))
   }
 
   return(d)

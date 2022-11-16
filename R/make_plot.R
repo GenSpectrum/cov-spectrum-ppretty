@@ -44,11 +44,11 @@ plot_cases_over_time <- function(config, data) {
     bar_line_specs$geom_bar_or_line(
       alpha = bar_line_specs$alpha_estimate,
       size = line_bar_size,
-      color = diverging_colors[1],
-      fill = diverging_colors[1]
+      color = bar_line_specs$color,
+      fill = bar_line_specs$fill
     ) +
     date_scale +
-    get_uncertainty_geom(data, bar_line_specs, fill_color = diverging_colors[1]) +
+    get_uncertainty_geom(data, bar_line_specs, fill_color = bar_line_specs$fill) +
     labs(
       x = element_blank(),
       y = "Estimated absolute number of cases",
@@ -74,11 +74,11 @@ plot_sequences_over_time <- function(config, data) {
     bar_line_specs$geom_bar_or_line(
       alpha = bar_line_specs$alpha_estimate,
       size = line_bar_size,
-      color = diverging_colors[1],
-      fill = diverging_colors[1]
+      color = bar_line_specs$color,
+      fill = bar_line_specs$fill
   ) +
     date_scale +
-    get_uncertainty_geom(data, bar_line_specs, fill_color = diverging_colors[1]) +
+    get_uncertainty_geom(data, bar_line_specs, fill_color = bar_line_specs$fill) +
     labs(
       x = element_blank(),
       y = "Proportion of all samples",

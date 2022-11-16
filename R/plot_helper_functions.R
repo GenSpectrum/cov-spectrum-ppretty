@@ -39,17 +39,23 @@ get_date_scale <- function(data, date_colname = "date", max_breaks = 10) {
 get_bar_vs_line_specs <- function(plot_type) {
   if (plot_type == "line") {
     bar_line_specs <- list(
+      "plot_type" = "line",
       "geom_bar_or_line" = geom_line,
       "geom_errbar_or_ribbon" = geom_ribbon,
       "alpha_estimate" = 1,
-      "alpha_uncertainty" = 0.5
+      "alpha_uncertainty" = 0.5,
+      "color" = diverging_colors[1],
+      "fill" = diverging_colors[1]
     )
   } else if (plot_type == "bar") {
     bar_line_specs <- list(
+      "plot_type" = "bar",
       "geom_bar_or_line" = geom_col,
       "geom_errbar_or_ribbon" = geom_errorbar,
       "alpha_estimate" = 0.5,
-      "alpha_uncertainty" = 1
+      "alpha_uncertainty" = 1,
+      "color" = NA,
+      "fill" = diverging_colors[1]
     )
   }
   return(bar_line_specs)
@@ -106,14 +112,15 @@ get_uncertainty_geom <- function(data, bar_line_specs, fill_var = NULL, fill_col
       uncertainty_geom <- bar_line_specs$geom_errbar_or_ribbon(
         aes(ymin = .data[[low_var]], ymax = .data[[high_var]], fill = .data[[fill_var]]),
         alpha = bar_line_specs$alpha_uncertainty,
-        linetype = 0
+        linetype = case_when(bar_line_specs$plot_type == "line" ~ 0, T ~ 1)
       )
     } else {
       uncertainty_geom <- bar_line_specs$geom_errbar_or_ribbon(
         aes(ymin = .data[[low_var]], ymax = .data[[high_var]]),
         alpha = bar_line_specs$alpha_uncertainty,
         fill = fill_color,
-        linetype = 0
+        color = fill_color,  # fill applies to ribbons, color applies to errbars, will give warning and ignore the non-relevant parameter for each case
+        linetype = case_when(bar_line_specs$plot_type == "line" ~ 0, T ~ 1)
       )
     }
   } else {
