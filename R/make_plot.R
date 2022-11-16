@@ -43,12 +43,7 @@ plot_cases_over_time <- function(config, data) {
     data = data,
     aes(x = as.Date(date), y = estimatedCases)
   ) +
-    bar_line_specs$geom_bar_or_line(
-      alpha = bar_line_specs$alpha_estimate,
-      size = line_bar_size,
-      color = bar_line_specs$color,
-      fill = bar_line_specs$fill
-    ) +
+    get_bar_line_geom(bar_line_specs) +
     date_scale +
     get_uncertainty_geom(data, bar_line_specs, fill_color = bar_line_specs$fill) +
     labs(
@@ -72,12 +67,7 @@ plot_sequences_over_time <- function(config, data, max_date_breaks = 10) {
     data = data,
     aes(x = as.Date(date), y = proportion)
   ) +
-    bar_line_specs$geom_bar_or_line(
-      alpha = bar_line_specs$alpha_estimate,
-      size = line_bar_size,
-      color = bar_line_specs$color,
-      fill = bar_line_specs$fill
-  ) +
+    get_bar_line_geom(bar_line_specs) +
     date_scale +
     get_uncertainty_geom(data, bar_line_specs, fill_color = bar_line_specs$fill) +
     labs(
@@ -89,9 +79,8 @@ plot_sequences_over_time <- function(config, data, max_date_breaks = 10) {
   # If variant name column present (as for collection data), facet by it and reduce number date breaks
   if ("name" %in% colnames(data)) {
     date_scale <- get_date_scale(data, max_breaks = 5)
-    plot <- plot +
-      facet_wrap(. ~ name) +
-      date_scale
+    plot <- plot + facet_wrap(. ~ name)
+    suppressMessages({plot <- plot + date_scale})  # silence the alert that it's overwriting the date scale
   }
 
   return(plot)
