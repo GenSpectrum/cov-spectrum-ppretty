@@ -157,7 +157,7 @@ get_titles <- function(config, metadata) {
   # If plot is a collection, give collection info
   if ("collection" %in% names(metadata)) {
     collection_title <- truncate_labels(labels = metadata$collection$title, max_char_label = 70)
-    subtitle <- paste0("Collection '", collection_title, "'\nmaintained by ", metadata$collection$maintainer)
+    subtitle <- paste0("Collection #", metadata$collection$id, " '", collection_title, "'\nmaintained by ", metadata$collection$maintainer)
   } else {
     subtitle <- NULL
   }
