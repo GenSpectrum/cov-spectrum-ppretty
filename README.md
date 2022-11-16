@@ -42,3 +42,10 @@ devtools::test()
 The [NAMESPACE file](./NAMESPACE) contains the functions that are exported from the package. All functions that are called from [run_app_production.R](inst/run_app_production.R) (i.e., including [endpoints.R](inst/plumber/endpoints.R)) must be exported.
 
 To export a function, it must be annotated with `@export`. Then, run `devtools::document()` to generate an updated NAMESPACE file.
+
+## Orienting in the code
+
+The API endpoints are defined in [`inst/plumber/endpoints.R`](inst/plumber/endpoints.R). There, you'll notice that the request data is first transformed, with known date column names standardized to "date". Then, the request config and data are piped into the high-level function [`make_plot`](R/make_plot.R).
+
+The idea is that the request data gets passed to a plot type-specific function by `make_plot`. The plot type is specified in the request's config information. The specific plotting functions use common aesthetics, date scales, and colors that are defined in [`plot_helper_functions`](R/plot_helper_functions.R) and [`plot_shared_elements`](R/plot_shared_elements.R).
+
