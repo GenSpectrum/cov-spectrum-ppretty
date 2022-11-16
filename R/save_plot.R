@@ -38,5 +38,5 @@ save_plot <- function(plot, filename, formats = c("png", "svg", "pdf"), path = N
     print(plot)
     dev.off()
   }
-  return(paste(getwd(), path, sep = "/"))
+  return(paste(getwd(), path, filename, sep = "/"))
 }

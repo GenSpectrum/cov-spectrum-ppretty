@@ -5,9 +5,10 @@ library(ggplot2)
 #' Make a plot. Depending on the config information, will call another function to make a specific type of plot.
 #' @param config Configuration information
 #' @param data Data to plot
+#' @param metadata Metadata describing the request
 #' @return A ggplot object
 #' @export
-make_plot <- function(config, data) {
+make_plot <- function(config, data, metadata) {
   # Make the correct type of plot
   if (config$plotName == "estimated-cases") {
     plot <- plot_cases_over_time(config = config, data = data)
@@ -23,8 +24,9 @@ make_plot <- function(config, data) {
     stop(paste("Plot name", config$plotName, "is unknown"))
   }
 
-  # Add acknowledgments footer to all plots
-  plot <- plot + labs(caption = footnote)
+  # Add acknowledgments footer, subtitle to all plots
+  titles <- get_titles(config = config, metadata = metadata)
+  plot <- plot + labs(caption = footnote, title = titles$title, subtitle = titles$subtitle)
 
   return(plot)
 }
@@ -51,9 +53,8 @@ plot_cases_over_time <- function(config, data) {
     get_uncertainty_geom(data, bar_line_specs, fill_color = bar_line_specs$fill) +
     labs(
       x = element_blank(),
-      y = "Estimated absolute number of cases",
-      title = "Estimated cases"
-    ) + # TODO: add variant name to title?
+      y = "Estimated absolute number of cases"
+    ) +
     shared_theme
 
   return(plot)
@@ -63,8 +64,8 @@ plot_cases_over_time <- function(config, data) {
 #' @param config Configuration information
 #' @param data Data to plot
 #' @return A ggplot object
-plot_sequences_over_time <- function(config, data) {
-  date_scale <- get_date_scale(data)
+plot_sequences_over_time <- function(config, data, max_date_breaks = 10) {
+  date_scale <- get_date_scale(data, max_breaks = max_date_breaks)
   bar_line_specs <- get_bar_vs_line_specs(config$plotType)
 
   plot <- ggplot(
@@ -81,14 +82,16 @@ plot_sequences_over_time <- function(config, data) {
     get_uncertainty_geom(data, bar_line_specs, fill_color = bar_line_specs$fill) +
     labs(
       x = element_blank(),
-      y = "Proportion of all samples",
-      title = "Sequences over time"
-    ) + # TODO: add variant name to title?
+      y = "Proportion of all samples"
+    ) +
     shared_theme
 
-  # If variant name column present (as for collection data), facet by it
+  # If variant name column present (as for collection data), facet by it and reduce number date breaks
   if ("name" %in% colnames(data)) {
-    plot <- plot + facet_wrap(. ~ name)
+    date_scale <- get_date_scale(data, max_breaks = 5)
+    plot <- plot +
+      facet_wrap(. ~ name) +
+      date_scale
   }
 
   return(plot)
@@ -115,8 +118,7 @@ plot_sequences_over_time_overlay <- function(config, data, overlay_var) {
     get_uncertainty_geom(data, bar_line_specs, fill_var = overlay_var) +
     labs(
       x = element_blank(),
-      y = "Proportion of all samples",
-      title = "Sequences over time"
+      y = "Proportion of all samples"
     ) +
     shared_theme +
     theme(legend.title = element_blank())
@@ -130,7 +132,7 @@ plot_sequences_over_time_overlay <- function(config, data, overlay_var) {
 #' @param facet_var Variable name to facet by (string)
 #' @return A ggplot object
 plot_sequences_over_time_facetted <- function(config, data, facet_var) {
-  base_plot <- plot_sequences_over_time(config, data)
+  base_plot <- plot_sequences_over_time(config, data, max_date_breaks = 5)  # fewer date breaks for facetted plots
   plot <- base_plot +
     facet_wrap(as.formula(paste("~", facet_var)))
   return(plot)

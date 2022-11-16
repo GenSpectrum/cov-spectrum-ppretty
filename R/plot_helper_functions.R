@@ -11,9 +11,9 @@ library(RColorBrewer)
 #' @return A date scale of the type scale_x_date()
 get_date_scale <- function(data, date_colname = "date", max_breaks = 10) {
   # Declare break options for the scale in increasing order of coarseness
-  break_options <- c("1 day", "1 week", "1 month", "1 year") # last is maximum regardless of max_breaks
+  break_options <- c("1 day", "1 week", "1 month", "2 months", "1 year") # last is maximum regardless of max_breaks
   break_units <- c("days", "weeks", "months", "years")
-  break_labels <- c("%y-%m-%d", "%y-%m-%d", "%b %y", "%Y")
+  break_labels <- c("%y-%m-%d", "%y-%m-%d", "%b %y", "%b %y", "%Y")
 
   # Increase coarseness of scale if too many breaks
   n_breaks <- max_breaks + 1
@@ -127,4 +127,44 @@ get_uncertainty_geom <- function(data, bar_line_specs, fill_var = NULL, fill_col
     uncertainty_geom <- geom_blank()
   }
   return(uncertainty_geom)
+}
+
+#' Get plot title and subtitle depending on plot type and metadata
+#' @param config Configuration information.
+#' @param metadata The request metadata.
+#' @Return A named list. The title and subtitle for the plot.
+get_titles <- function(config, metadata) {
+  # If plot is a collection, give collection info
+  if ("collection" %in% names(metadata)) {
+    collection_title <- truncate_labels(labels = metadata$collection$title, max_char_label = 70)
+    subtitle <- paste0("Collection '", collection_title, "'\nmaintained by ", metadata$collection$maintainer)
+  } else {
+    subtitle <- NULL
+  }
+
+  if ("variant" %in% names(metadata)) {
+    prefix <- truncate_labels(labels = metadata$variant, max_char_label = 20)
+  } else {
+    prefix <- ""
+  }
+
+  if ("location" %in% names(metadata)) {
+    suffix <- paste0(" in ", metadata$location)
+  } else {
+    suffix <- ""
+  }
+
+  if (config$plotName == "estimated-cases") {
+    title <- paste0("Estimated cases of ", prefix, suffix)
+  } else if (startsWith(x = config$plotName, prefix = "sequences-over-time")) {
+    if (prefix == "") {
+      title <- paste0("Sequences over time", suffix)
+    } else {
+      title <- paste0(prefix, " sequences over time", suffix)
+    }
+  } else {
+    title <- NULL
+  }
+
+  return(list("title" = title, "subtitle" = subtitle))
 }

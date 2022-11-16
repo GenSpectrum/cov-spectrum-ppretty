@@ -10,6 +10,11 @@ config_ex <- jsonlite::fromJSON('{
     "plotType": "line"
 }')
 
+metadata_ex <- jsonlite::fromJSON('{
+    "location": "Switzerland",
+    "variant": "BA.2.75* (Nextclade)"
+}')
+
 plot_data_ex <- jsonlite::fromJSON('[
     {"date": "2022-09-22", "proportion": 0.0177, "proportionCILow": 0.0031, "proportionCIHigh": 0.0938},
     {"date": "2022-09-23", "proportion": 0.0142, "proportionCILow": 0.0023, "proportionCIHigh": 0.0844},
@@ -33,13 +38,13 @@ function() {
 #* @param config:object
 #* @param data:object
 #* @serializer png
-function(config = config_ex, data = plot_data_ex) {
+function(config = config_ex, data = plot_data_ex, metadata = metadata_ex) {
   print(config)
 
   data_transformed <- transformData(data)
   print(data_transformed)
 
-  p <- make_plot(config = config, data = data_transformed)
+  p <- make_plot(config = config, data = data_transformed, metadata = metadata_ex)
   return(print(p))
 }
 
@@ -48,11 +53,11 @@ function(config = config_ex, data = plot_data_ex) {
 #* @param config:object
 #* @param data:object
 #* @serializer json
-function(req, config = config_ex, data = plot_data_ex) {
+function(req, config = config_ex, data = plot_data_ex, metadata = metadata_ex) {
 
   data_transformed <- transformData(data)
 
-  p <- make_plot(config = config, data = data_transformed)
+  p <- make_plot(config = config, data = data_transformed, metadata = metadata)
   request_hash <- get_hash(req$postBody)
   path <- save_plot(plot = p, filename = request_hash)
   return(path)
