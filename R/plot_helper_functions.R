@@ -12,8 +12,8 @@ library(RColorBrewer)
 get_date_scale <- function(data, date_colname = "date", max_breaks = 10) {
   # Declare break options for the scale in increasing order of coarseness
   break_options <- c("1 day", "1 week", "1 month", "2 months", "1 year") # last is maximum regardless of max_breaks
-  break_units <- c("days", "weeks", "months", "years")
-  break_labels <- c("%y-%m-%d", "%y-%m-%d", "%b %y", "%b %y", "%Y")
+  break_units <- c("days", "weeks", "months", "months", "years")
+  break_labels <- c("%d %b\n%Y", "%d %b\n%Y", "%b\n%Y", "%b\n%Y", "%Y")
 
   # Increase coarseness of scale if too many breaks
   n_breaks <- max_breaks + 1
@@ -26,6 +26,9 @@ get_date_scale <- function(data, date_colname = "date", max_breaks = 10) {
       )),
       break_units[i]
     )
+    if (break_options[i] == "2 months") {
+      n_breaks <- n_breaks / 2
+    }
   }
 
   # Define scale
