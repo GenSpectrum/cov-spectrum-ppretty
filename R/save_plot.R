@@ -20,7 +20,8 @@ save_plot <- function(plot, filename, formats = c("png", "svg", "pdf"), path = N
     },
     error = function(cond) {
       stop(paste("cannot create directory:", path))
-    })
+    },
+    warning = function(cond) {})
 
   # Save plots in the directory
   if ("png" %in% formats) {
