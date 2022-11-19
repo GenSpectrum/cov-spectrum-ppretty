@@ -15,7 +15,7 @@ Start docker engine, then run:
 docker build -t ppretty .
 docker run --rm -p 80:7090 ppretty
 ```
-You should be able to access the API docs at [http://127.0.0.1/__docs__/](http://127.0.0.1/__docs__/).
+You should be able to access the API docs at [http://127.0.0.1/\_\_docs\_\_/](http://127.0.0.1/__docs__/).
 
 ## Run the API locally
 
