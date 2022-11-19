@@ -52,7 +52,7 @@ function(config = config_ex, data = plot_data_ex, metadata = metadata_ex) {
 #* @post /save
 #* @param config:object
 #* @param data:object
-#* @serializer json
+#* @serializer unboxedJSON
 function(req, config = config_ex, data = plot_data_ex, metadata = metadata_ex) {
 
   data_transformed <- transformData(data)
@@ -66,5 +66,5 @@ function(req, config = config_ex, data = plot_data_ex, metadata = metadata_ex) {
   dirpath <- paste0("plots/", subdirpath)
   save_plot(plot = p, filename = request_hash, dirpath = dirpath)
 
-  return(paste0(subdirpath, "/", request_hash))
+  return(list(path = paste0(subdirpath, "/", request_hash)))
 }
