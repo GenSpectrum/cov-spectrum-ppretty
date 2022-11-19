@@ -8,3 +8,7 @@
 
 # Auto-generated manual
 /man/
+
+# Generated (test) plots
+/tests/testthat/plots
+/inst/plumber/plots
