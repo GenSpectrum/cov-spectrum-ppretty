@@ -59,6 +59,12 @@ function(req, config = config_ex, data = plot_data_ex, metadata = metadata_ex) {
 
   p <- make_plot(config = config, data = data_transformed, metadata = metadata)
   request_hash <- get_hash(req$postBody)
-  path <- save_plot(plot = p, filename = request_hash)
-  return(path)
+
+  # We don't store all plots in the same directory create subdirectories to limit the number of files per directory.
+  # The names of the subdirectories consist of the first characters of the request hash.
+  subdirpath <- paste(substring(request_hash, 1, 2), substring(request_hash, 3, 4), sep = "/")
+  dirpath <- paste0("plots/", subdirpath)
+  save_plot(plot = p, filename = request_hash, dirpath = dirpath)
+
+  return(paste0(subdirpath, "/", request_hash))
 }

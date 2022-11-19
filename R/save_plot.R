@@ -4,40 +4,34 @@
 #' @param plot A ggplot object
 #' @param filename The name of plot files
 #' @param formats A list of formats to save to. Available formats are png, svg, and pdf
-#' @param path Path to where the plot files should be saved
+#' @param dirpath Path to where the plot files should be saved
 #' @return Full path to where the plot files are saved
 #' @export
-save_plot <- function(plot, filename, formats = c("png", "svg", "pdf"), path = NULL) {
-  # Create a directory path if not specified
-  # aim is to limit number of files per directory by generating a short random path of letters
-  if (is.null(path)) {
-    path <- paste0(c("./plots", sample(x = LETTERS, size = 2, replace = TRUE)), collapse = "/")
-  }
-
+save_plot <- function(plot, filename, formats = c("png", "svg", "pdf"), dirpath = "./plots") {
   # Try to make the directory if it doesn't already exist
   out <- tryCatch({
-      dir.create(path = path, recursive = T)
+      dir.create(path = dirpath, recursive = T)
     },
     error = function(cond) {
-      stop(paste("cannot create directory:", path))
+      stop(paste("cannot create directory:", dirpath))
     },
     warning = function(cond) {})
 
   # Save plots in the directory
   if ("png" %in% formats) {
-    png(filename = paste0(path, "/", filename, ".png"))
+    png(filename = paste0(dirpath, "/", filename, ".png"))
     print(plot)
     dev.off()
   }
   if ("svg" %in% formats) {
-    svg(filename = paste0(path, "/", filename, ".svg"))
+    svg(filename = paste0(dirpath, "/", filename, ".svg"))
     print(plot)
     dev.off()
   }
   if ("pdf" %in% formats) {
-    pdf(file = paste0(path, "/", filename, ".pdf"))
+    pdf(file = paste0(dirpath, "/", filename, ".pdf"))
     print(plot)
     dev.off()
   }
-  return(paste(getwd(), path, filename, sep = "/"))
+  return(paste(getwd(), dirpath, filename, sep = "/"))
 }
