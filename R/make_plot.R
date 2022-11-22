@@ -95,7 +95,23 @@ plot_sequences_over_time <- function(config, data, max_date_breaks = 10) {
 plot_sequences_over_time_overlay <- function(config, data, overlay_var) {
   date_scale <- get_date_scale(data)
   bar_line_specs <- get_bar_vs_line_specs("line") # enforce that overlay comparisons always a line plot
-  color_scale <- get_color_scale(values = unique(data[[overlay_var]]), aesthetics = c("color", "fill"))
+  color_scale <- get_color_scale(
+    values = unique(data[[overlay_var]]),
+    aesthetics = c("color", "fill"),
+    max_char_label = 80
+  )
+
+  # Find the length of the longest label. This should control the number of columns in the legend
+  max_legend_label_length <- max(nchar(data[[overlay_var]]))
+  if (max_legend_label_length < 20) {
+    legend_columns <- 4
+  } else if (max_legend_label_length < 40) {
+    legend_columns <- 3
+  } else if (max_legend_label_length < 60) {
+    legend_columns <- 2
+  } else {
+    legend_columns <- 1
+  }
 
   plot <- ggplot(
     data = data,
@@ -109,8 +125,12 @@ plot_sequences_over_time_overlay <- function(config, data, overlay_var) {
       x = element_blank(),
       y = "Proportion of all samples"
     ) +
+    guides(col = guide_legend(ncol = legend_columns)) +
     shared_theme +
-    theme(legend.title = element_blank())
+    theme(
+      legend.title = element_blank(),
+      legend.position = "bottom"
+    )
 
   return(plot)
 }
