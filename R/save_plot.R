@@ -19,7 +19,7 @@ save_plot <- function(plot, filename, formats = c("png", "svg", "pdf"), dirpath 
 
   # Save plots in the directory
   if ("png" %in% formats) {
-    png(filename = paste0(dirpath, "/", filename, ".png"))
+    png(filename = paste0(dirpath, "/", filename, ".png"), width = 960, height = 960, res = 144)
     print(plot)
     dev.off()
   }
