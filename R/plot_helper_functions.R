@@ -163,7 +163,7 @@ get_titles <- function(config, metadata) {
   }
 
   if ("variant" %in% names(metadata)) {
-    prefix <- truncate_labels(labels = metadata$variant, max_char_label = 20)
+    prefix <- truncate_labels(labels = metadata$variant, max_char_label = 35)
   } else {
     prefix <- ""
   }
