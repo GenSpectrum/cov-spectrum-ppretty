@@ -7,7 +7,8 @@ library(tidyverse)
 
 config_ex <- jsonlite::fromJSON('{
     "plotName": "sequences-over-time",
-    "plotType": "line"
+    "plotType": "line",
+    "dataSource": "GenBank"
 }')
 
 metadata_ex <- jsonlite::fromJSON('{

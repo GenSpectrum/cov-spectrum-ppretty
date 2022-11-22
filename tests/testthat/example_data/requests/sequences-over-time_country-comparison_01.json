@@ -1,7 +1,8 @@
 {
   "config": {
     "plotName": "sequences-over-time_country-comparison",
-    "plotType": "line"
+    "plotType": "line",
+    "dataSource": "GISAID"
   },
   "metadata": {
     "variant": "BA.2.75* (Nextclade)"

@@ -1,7 +1,8 @@
 {
   "config": {
     "plotName": "estimated-cases",
-    "plotType": "line"
+    "plotType": "line",
+    "dataSource": "GISAID"
   },
   "metadata": {
     "location": "Europe",

@@ -26,7 +26,7 @@ make_plot <- function(config, data, metadata) {
 
   # Add acknowledgments footer, subtitle to all plots
   titles <- get_titles(config = config, metadata = metadata)
-  plot <- plot + labs(caption = footnote, title = titles$title, subtitle = titles$subtitle)
+  plot <- plot + labs(caption = create_footnote(config$dataSource), title = titles$title, subtitle = titles$subtitle)
 
   return(plot)
 }

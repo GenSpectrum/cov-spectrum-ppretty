@@ -6,7 +6,9 @@ shared_theme <- theme_bw()  # theme for all plots
 line_bar_size <- 1  # controls relative thickness of lines in line plots
 
 # Footer for every plot
-footnote <- "Plot by cov-spectrum.org enabled by data from GISAID"
+create_footnote <- function (data_source) {
+  return(paste0("Plot by cov-spectrum.org, enabled by data from ", data_source))
+}
 
 # Colors to use preferentially
 # First color will be used for single-variable plots

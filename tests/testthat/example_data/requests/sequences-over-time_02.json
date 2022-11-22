@@ -1,7 +1,8 @@
 {
   "config": {
     "plotName": "sequences-over-time",
-    "plotType": "line"
+    "plotType": "line",
+    "dataSource": "GISAID"
   },
   "metadata": {
     "location": "Europe",
