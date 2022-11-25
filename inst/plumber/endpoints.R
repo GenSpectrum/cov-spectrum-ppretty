@@ -65,7 +65,8 @@ function(req, config = config_ex, data = plot_data_ex, metadata = metadata_ex) {
   # The names of the subdirectories consist of the first characters of the request hash.
   subdirpath <- paste(substring(request_hash, 1, 2), substring(request_hash, 3, 4), sep = "/")
   dirpath <- paste0("plots/", subdirpath)
-  save_plot(plot = p, filename = request_hash, dirpath = dirpath)
+  save_plot(plot = p, filename = request_hash, dirpath = dirpath, size_multiplier = config$sizeMultiplier,
+            size_ratio = config$sizeRatio)
 
   return(list(path = paste0(subdirpath, "/", request_hash)))
 }
